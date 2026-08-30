@@ -1,0 +1,497 @@
+[
+  {
+    "brand": "웨이크메이크",
+    "beauty_alpha_score": 59.9,
+    "regions": {
+      "KR": {
+        "available": true,
+        "search_group": "웨이크메이크 + WAKEMAKE + WakeMake",
+        "recent_30_avg": 16.3,
+        "previous_30_avg": 8.1,
+        "growth": 102.5,
+        "recent_peak": 64,
+        "above_previous_ratio": 53.3
+      },
+      "US": {
+        "available": true,
+        "search_group": "WAKEMAKE + WakeMake",
+        "recent_30_avg": 11.2,
+        "previous_30_avg": 0.0,
+        "growth": null,
+        "recent_peak": 100,
+        "above_previous_ratio": 0
+      },
+      "JP": {
+        "available": true,
+        "search_group": "ウェイクメイク + WAKEMAKE + WakeMake",
+        "recent_30_avg": 56.4,
+        "previous_30_avg": 46.7,
+        "growth": 20.9,
+        "recent_peak": 100,
+        "above_previous_ratio": 76.7
+      },
+      "TW": {
+        "available": true,
+        "search_group": "WAKEMAKE + WakeMake",
+        "recent_30_avg": 12.8,
+        "previous_30_avg": 0.0,
+        "growth": null,
+        "recent_peak": 70,
+        "above_previous_ratio": 0
+      },
+      "HK": {
+        "available": true,
+        "search_group": "WAKEMAKE + WakeMake",
+        "recent_30_avg": 7.5,
+        "previous_30_avg": 0.0,
+        "growth": null,
+        "recent_peak": 32,
+        "above_previous_ratio": 0
+      }
+    },
+    "positive_regions": 5,
+    "strong_regions": 4,
+    "available_regions": 5,
+    "average_growth": 61.7,
+    "global_search_score": 76.2,
+    "global_signal": "🔥 글로벌 확산"
+  },
+  {
+    "brand": "어바웃톤",
+    "beauty_alpha_score": 43.8,
+    "regions": {
+      "KR": {
+        "available": true,
+        "search_group": "어바웃톤 + About Tone + ABOUT TONE + About_Tone",
+        "recent_30_avg": 7.8,
+        "previous_30_avg": 3.3,
+        "growth": 133.0,
+        "recent_peak": 27,
+        "above_previous_ratio": 50.0
+      },
+      "US": {
+        "available": false,
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "JP": {
+        "available": true,
+        "search_group": "アバウトトーン + ABOUT TONE + About Tone + About_Tone",
+        "recent_30_avg": 47.9,
+        "previous_30_avg": 39.1,
+        "growth": 22.6,
+        "recent_peak": 100,
+        "above_previous_ratio": 60.0
+      },
+      "TW": {
+        "available": true,
+        "search_group": "ABOUT TONE + About Tone + About_Tone",
+        "recent_30_avg": 8.1,
+        "previous_30_avg": 0.0,
+        "growth": null,
+        "recent_peak": 100,
+        "above_previous_ratio": 0
+      },
+      "HK": {
+        "available": true,
+        "search_group": "ABOUT TONE + About Tone + About_Tone",
+        "recent_30_avg": 30.4,
+        "previous_30_avg": 0.0,
+        "growth": null,
+        "recent_peak": 100,
+        "above_previous_ratio": 0
+      }
+    },
+    "positive_regions": 4,
+    "strong_regions": 3,
+    "available_regions": 4,
+    "average_growth": 77.8,
+    "global_search_score": 62.8,
+    "global_signal": "🔥 글로벌 확산"
+  },
+  {
+    "brand": "일리윤",
+    "beauty_alpha_score": 43.6,
+    "regions": {
+      "KR": {
+        "available": true,
+        "search_group": "일리윤 + ILLIYOON + Illiyoon",
+        "recent_30_avg": 17.8,
+        "previous_30_avg": 7.4,
+        "growth": 139.0,
+        "recent_peak": 70,
+        "above_previous_ratio": 53.3
+      },
+      "US": {
+        "available": true,
+        "search_group": "ILLIYOON + Illiyoon",
+        "recent_30_avg": 15.0,
+        "previous_30_avg": 18.7,
+        "growth": -19.8,
+        "recent_peak": 24,
+        "above_previous_ratio": 26.7
+      },
+      "JP": {
+        "available": true,
+        "search_group": "イリユン + ILLIYOON + Illiyoon",
+        "recent_30_avg": 5.5,
+        "previous_30_avg": 0.0,
+        "growth": null,
+        "recent_peak": 32,
+        "above_previous_ratio": 0
+      },
+      "TW": {
+        "available": true,
+        "search_group": "ILLIYOON + Illiyoon",
+        "recent_30_avg": 3.3,
+        "previous_30_avg": 0.0,
+        "growth": null,
+        "recent_peak": 100,
+        "above_previous_ratio": 0
+      },
+      "HK": {
+        "available": true,
+        "search_group": "ILLIYOON + Illiyoon",
+        "recent_30_avg": 0.0,
+        "previous_30_avg": 0.0,
+        "growth": 0,
+        "recent_peak": 0,
+        "above_previous_ratio": 0
+      }
+    },
+    "positive_regions": 3,
+    "strong_regions": 3,
+    "available_regions": 5,
+    "average_growth": 139.0,
+    "global_search_score": 58.9,
+    "global_signal": "📈 해외 검색 상승"
+  },
+  {
+    "brand": "라네즈",
+    "beauty_alpha_score": 50.9,
+    "regions": {
+      "KR": {
+        "available": true,
+        "search_group": "라네즈 + LANEIGE + Laneige",
+        "recent_30_avg": 17.0,
+        "previous_30_avg": 14.6,
+        "growth": 16.2,
+        "recent_peak": 48,
+        "above_previous_ratio": 56.7
+      },
+      "US": {
+        "available": true,
+        "search_group": "LANEIGE + Laneige",
+        "recent_30_avg": 34.4,
+        "previous_30_avg": 44.4,
+        "growth": -22.4,
+        "recent_peak": 42,
+        "above_previous_ratio": 0.0
+      },
+      "JP": {
+        "available": true,
+        "search_group": "ラネージュ + LANEIGE + Laneige",
+        "recent_30_avg": 49.5,
+        "previous_30_avg": 54.7,
+        "growth": -9.4,
+        "recent_peak": 80,
+        "above_previous_ratio": 20.0
+      },
+      "TW": {
+        "available": true,
+        "search_group": "LANEIGE + Laneige",
+        "recent_30_avg": 5.2,
+        "previous_30_avg": 0.0,
+        "growth": null,
+        "recent_peak": 17,
+        "above_previous_ratio": 0
+      },
+      "HK": {
+        "available": true,
+        "search_group": "LANEIGE + Laneige",
+        "recent_30_avg": 20.2,
+        "previous_30_avg": 1.9,
+        "growth": 964.9,
+        "recent_peak": 100,
+        "above_previous_ratio": 60.0
+      }
+    },
+    "positive_regions": 3,
+    "strong_regions": 2,
+    "available_regions": 5,
+    "average_growth": 490.6,
+    "global_search_score": 55,
+    "global_signal": "📈 해외 검색 상승"
+  },
+  {
+    "brand": "에뛰드",
+    "beauty_alpha_score": 44.2,
+    "regions": {
+      "KR": {
+        "available": true,
+        "search_group": "에뛰드 + ETUDE + Etude",
+        "recent_30_avg": 17.3,
+        "previous_30_avg": 16.8,
+        "growth": 2.8,
+        "recent_peak": 42,
+        "above_previous_ratio": 60.0
+      },
+      "US": {
+        "available": true,
+        "search_group": "ETUDE + Etude",
+        "recent_30_avg": 0.6,
+        "previous_30_avg": 0.9,
+        "growth": -26.9,
+        "recent_peak": 1,
+        "above_previous_ratio": 63.3
+      },
+      "JP": {
+        "available": true,
+        "search_group": "エチュード + ETUDE + Etude",
+        "recent_30_avg": 53.6,
+        "previous_30_avg": 56.6,
+        "growth": -5.2,
+        "recent_peak": 70,
+        "above_previous_ratio": 30.0
+      },
+      "TW": {
+        "available": true,
+        "search_group": "ETUDE + Etude",
+        "recent_30_avg": 8.8,
+        "previous_30_avg": 0.0,
+        "growth": null,
+        "recent_peak": 44,
+        "above_previous_ratio": 0
+      },
+      "HK": {
+        "available": true,
+        "search_group": "ETUDE + Etude",
+        "recent_30_avg": 3.3,
+        "previous_30_avg": 0.0,
+        "growth": null,
+        "recent_peak": 12,
+        "above_previous_ratio": 0
+      }
+    },
+    "positive_regions": 3,
+    "strong_regions": 2,
+    "available_regions": 5,
+    "average_growth": 2.8,
+    "global_search_score": 40.3,
+    "global_signal": "📈 해외 검색 상승"
+  },
+  {
+    "brand": "이니스프리",
+    "beauty_alpha_score": 60.1,
+    "regions": {
+      "KR": {
+        "available": true,
+        "search_group": "이니스프리 + innisfree + Innisfree",
+        "recent_30_avg": 26.5,
+        "previous_30_avg": 30.3,
+        "growth": -12.7,
+        "recent_peak": 53,
+        "above_previous_ratio": 63.3
+      },
+      "US": {
+        "available": true,
+        "search_group": "innisfree + Innisfree",
+        "recent_30_avg": 31.6,
+        "previous_30_avg": 38.3,
+        "growth": -17.3,
+        "recent_peak": 44,
+        "above_previous_ratio": 6.7
+      },
+      "JP": {
+        "available": true,
+        "search_group": "イニスフリー + innisfree + Innisfree",
+        "recent_30_avg": 52.2,
+        "previous_30_avg": 56.6,
+        "growth": -7.7,
+        "recent_peak": 80,
+        "above_previous_ratio": 26.7
+      },
+      "TW": {
+        "available": true,
+        "search_group": "innisfree + Innisfree",
+        "recent_30_avg": 48.8,
+        "previous_30_avg": 49.7,
+        "growth": -1.9,
+        "recent_peak": 95,
+        "above_previous_ratio": 43.3
+      },
+      "HK": {
+        "available": true,
+        "search_group": "innisfree + Innisfree",
+        "recent_30_avg": 15.6,
+        "previous_30_avg": 2.1,
+        "growth": 641.3,
+        "recent_peak": 78,
+        "above_previous_ratio": 53.3
+      }
+    },
+    "positive_regions": 1,
+    "strong_regions": 1,
+    "available_regions": 5,
+    "average_growth": 641.3,
+    "global_search_score": 30,
+    "global_signal": "👀 일부 지역 상승"
+  },
+  {
+    "brand": "입큰",
+    "beauty_alpha_score": 57.4,
+    "regions": {
+      "KR": {
+        "available": true,
+        "search_group": "입큰 + IPKN + Ipkn",
+        "recent_30_avg": 6.4,
+        "previous_30_avg": 5.6,
+        "growth": 13.6,
+        "recent_peak": 21,
+        "above_previous_ratio": 50.0
+      },
+      "US": {
+        "available": false,
+        "search_group": "IPKN + Ipkn"
+      },
+      "JP": {
+        "available": false,
+        "search_group": "IPKN + イプクン + Ipkn"
+      },
+      "TW": {
+        "available": false,
+        "search_group": "IPKN + Ipkn"
+      },
+      "HK": {
+        "available": true,
+        "search_group": "IPKN + Ipkn",
+        "recent_30_avg": 0.0,
+        "previous_30_avg": 0.0,
+        "growth": 0,
+        "recent_peak": 0,
+        "above_previous_ratio": 0
+      }
+    },
+    "positive_regions": 1,
+    "strong_regions": 0,
+    "available_regions": 2,
+    "average_growth": 13.6,
+    "global_search_score": 11.4,
+    "global_signal": "👀 일부 지역 상승"
+  },
+  {
+    "brand": "스튜디오17",
+    "beauty_alpha_score": 47.2,
+    "regions": {
+      "KR": {
+        "available": true,
+        "search_group": "스튜디오17 + Studio17 + STUDIO17",
+        "recent_30_avg": 1.1,
+        "previous_30_avg": 5.3,
+        "growth": -80.0,
+        "recent_peak": 12,
+        "above_previous_ratio": 10.0
+      },
+      "US": {
+        "available": true,
+        "search_group": "Studio17 + STUDIO17",
+        "recent_30_avg": 3.3,
+        "previous_30_avg": 3.3,
+        "growth": 2.0,
+        "recent_peak": 100,
+        "above_previous_ratio": 3.3
+      },
+      "JP": {
+        "available": true,
+        "search_group": "STUDIO17 + Studio17",
+        "recent_30_avg": 0.7,
+        "previous_30_avg": 3.3,
+        "growth": -79.0,
+        "recent_peak": 8,
+        "above_previous_ratio": 10.0
+      },
+      "TW": {
+        "available": false,
+        "search_group": "STUDIO17 + Studio17"
+      },
+      "HK": {
+        "available": false,
+        "search_group": "STUDIO17 + Studio17"
+      }
+    },
+    "positive_regions": 1,
+    "strong_regions": 0,
+    "available_regions": 3,
+    "average_growth": 2.0,
+    "global_search_score": 10.2,
+    "global_signal": "👀 일부 지역 상승"
+  },
+  {
+    "brand": "닥터엘시아",
+    "beauty_alpha_score": 75.2,
+    "regions": {
+      "KR": {
+        "available": false,
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "US": {
+        "available": false,
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "JP": {
+        "available": false,
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "TW": {
+        "available": false,
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "HK": {
+        "available": false,
+        "error": "The request failed: Google returned a response with code 429"
+      }
+    },
+    "positive_regions": 0,
+    "strong_regions": 0,
+    "available_regions": 0,
+    "average_growth": 0,
+    "global_search_score": 0,
+    "global_signal": "⚪ 뚜렷한 상승 없음"
+  },
+  {
+    "brand": "토르홉",
+    "beauty_alpha_score": 60.6,
+    "regions": {
+      "KR": {
+        "available": false,
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "US": {
+        "available": false,
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "JP": {
+        "available": false,
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "TW": {
+        "available": false,
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "HK": {
+        "available": true,
+        "search_group": "THORHOP + Thorhop",
+        "recent_30_avg": 0.0,
+        "previous_30_avg": 0.0,
+        "growth": 0,
+        "recent_peak": 0,
+        "above_previous_ratio": 0
+      }
+    },
+    "positive_regions": 0,
+    "strong_regions": 0,
+    "available_regions": 1,
+    "average_growth": 0,
+    "global_search_score": 0,
+    "global_signal": "⚪ 뚜렷한 상승 없음"
+  }
+]

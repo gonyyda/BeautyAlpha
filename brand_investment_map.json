@@ -1,0 +1,425 @@
+[
+  {
+    "brand": "닥터엘시아",
+    "beauty_alpha_score": 75.2,
+    "signal_label": "🔥 강한 확산 신호",
+    "signal_score": 32,
+    "momentum_score": 68,
+    "spread_status": "뷰티 → 대중 동시 확산",
+    "recent_mentions": 3,
+    "previous_mentions": 0,
+    "growth_rate": null,
+    "recent_creator_count": 3,
+    "new_creator_count": 3,
+    "new_creators": [
+      "민스코",
+      "박현지",
+      "아랑"
+    ],
+    "beauty_creator_count": 2,
+    "mainstream_creator_count": 1,
+    "direct_purchase_creator_count": 1,
+    "paid_ad_creator_count": 0,
+    "beauty_creators": [
+      "민스코",
+      "아랑"
+    ],
+    "mainstream_creators": [
+      "박현지"
+    ],
+    "direct_purchase_creators": [
+      "아랑"
+    ],
+    "recent_products": [
+      "345 릴리프 세럼 30ml",
+      "345 릴리프 크림 미스트 기획세트",
+      "345 릴리프 크림 튜브링거 기획세트",
+      "스트레치칫 카밍 패드",
+      "스트레치핏 카밍 패드 50매"
+    ],
+    "operator": "미확인",
+    "parent_company": "미확인",
+    "listed_company": "미확인",
+    "ticker": "",
+    "market": "",
+    "relation_type": "브랜드 운영사",
+    "company_verified": false
+  },
+  {
+    "brand": "토르홉",
+    "beauty_alpha_score": 60.6,
+    "signal_label": "📈 전문층 확산 신호",
+    "signal_score": 24,
+    "momentum_score": 62,
+    "spread_status": "뷰티 전문군 중심",
+    "recent_mentions": 3,
+    "previous_mentions": 0,
+    "growth_rate": null,
+    "recent_creator_count": 3,
+    "new_creator_count": 3,
+    "new_creators": [
+      "레오제이",
+      "민스코",
+      "지냐"
+    ],
+    "beauty_creator_count": 3,
+    "mainstream_creator_count": 0,
+    "direct_purchase_creator_count": 0,
+    "paid_ad_creator_count": 0,
+    "beauty_creators": [
+      "레오제이",
+      "민스코",
+      "지냐"
+    ],
+    "mainstream_creators": [],
+    "direct_purchase_creators": [],
+    "recent_products": [
+      "바디스크럽 - 라이카 민트 쿨링",
+      "사우난지앙 라인핏 바디 스크럽"
+    ],
+    "operator": "미확인",
+    "parent_company": "미확인",
+    "listed_company": "미확인",
+    "ticker": "",
+    "market": "",
+    "relation_type": "브랜드 운영사",
+    "company_verified": false
+  },
+  {
+    "brand": "이니스프리",
+    "beauty_alpha_score": 60.1,
+    "signal_label": "📈 전문층 확산 신호",
+    "signal_score": 29,
+    "momentum_score": 62.0,
+    "spread_status": "뷰티 전문군 중심",
+    "recent_mentions": 3,
+    "previous_mentions": 1,
+    "growth_rate": 200.0,
+    "recent_creator_count": 3,
+    "new_creator_count": 3,
+    "new_creators": [
+      "디렉터파이",
+      "민스코",
+      "지냐"
+    ],
+    "beauty_creator_count": 3,
+    "mainstream_creator_count": 0,
+    "direct_purchase_creator_count": 1,
+    "paid_ad_creator_count": 0,
+    "beauty_creators": [
+      "디렉터파이",
+      "민스코",
+      "지냐"
+    ],
+    "mainstream_creators": [],
+    "direct_purchase_creators": [
+      "디렉터파이"
+    ],
+    "recent_products": [
+      "노세범 미네랄 파우더",
+      "레티놀 시카 모공 흔적 앰플",
+      "레티놀 시카 모공 흔적 크림",
+      "포어 블러 파우더"
+    ],
+    "operator": "이니스프리",
+    "parent_company": "아모레퍼시픽그룹",
+    "listed_company": "아모레퍼시픽",
+    "ticker": "090430",
+    "market": "KOSPI",
+    "relation_type": "브랜드 계열",
+    "company_verified": true
+  },
+  {
+    "brand": "웨이크메이크",
+    "beauty_alpha_score": 59.9,
+    "signal_label": "📈 전문층 확산 신호",
+    "signal_score": 33,
+    "momentum_score": 60.0,
+    "spread_status": "뷰티 전문군 중심",
+    "recent_mentions": 3,
+    "previous_mentions": 1,
+    "growth_rate": 200.0,
+    "recent_creator_count": 3,
+    "new_creator_count": 2,
+    "new_creators": [
+      "디렉터파이",
+      "아랑"
+    ],
+    "beauty_creator_count": 3,
+    "mainstream_creator_count": 0,
+    "direct_purchase_creator_count": 2,
+    "paid_ad_creator_count": 0,
+    "beauty_creators": [
+      "디렉터파이",
+      "아랑",
+      "지냐"
+    ],
+    "mainstream_creators": [],
+    "direct_purchase_creators": [
+      "디렉터파이",
+      "아랑"
+    ],
+    "recent_products": [
+      "글레이즈 픽싱 글로스 - 너티튜드",
+      "소프트 블러링 아이팔레트 - 클래시 누드 블러링",
+      "스킨 퍼펙팅 커버 쿠션 / Skin Perfecting Cover Cushion",
+      "스테이 픽서 멀티 컬러 파우더 01 페일 클리어"
+    ],
+    "operator": "CJ올리브영",
+    "parent_company": "CJ",
+    "listed_company": "CJ",
+    "ticker": "001040",
+    "market": "KOSPI",
+    "relation_type": "브랜드/유통 계열",
+    "company_verified": false
+  },
+  {
+    "brand": "입큰",
+    "beauty_alpha_score": 57.4,
+    "signal_label": "📈 전문층 확산 신호",
+    "signal_score": 20,
+    "momentum_score": 62.0,
+    "spread_status": "뷰티 전문군 중심",
+    "recent_mentions": 3,
+    "previous_mentions": 1,
+    "growth_rate": 200.0,
+    "recent_creator_count": 3,
+    "new_creator_count": 3,
+    "new_creators": [
+      "디렉터파이",
+      "레오제이",
+      "지냐"
+    ],
+    "beauty_creator_count": 3,
+    "mainstream_creator_count": 0,
+    "direct_purchase_creator_count": 1,
+    "paid_ad_creator_count": 0,
+    "beauty_creators": [
+      "디렉터파이",
+      "레오제이",
+      "지냐"
+    ],
+    "mainstream_creators": [],
+    "direct_purchase_creators": [
+      "디렉터파이"
+    ],
+    "recent_products": [
+      "퍼스널 톤 코렉팅 블러 팩트 #라벤더",
+      "퍼퓸 파우더 팩트 5G 모이스트 21호",
+      "플러피 립펜슬 - 베이크누드"
+    ],
+    "operator": "미확인",
+    "parent_company": "미확인",
+    "listed_company": "미확인",
+    "ticker": "",
+    "market": "",
+    "relation_type": "브랜드 운영사",
+    "company_verified": false
+  },
+  {
+    "brand": "라네즈",
+    "beauty_alpha_score": 50.9,
+    "signal_label": "👀 관찰 필요",
+    "signal_score": 27,
+    "momentum_score": 44.0,
+    "spread_status": "뷰티 → 대중 동시 확산",
+    "recent_mentions": 2,
+    "previous_mentions": 1,
+    "growth_rate": 100.0,
+    "recent_creator_count": 2,
+    "new_creator_count": 2,
+    "new_creators": [
+      "디렉터파이",
+      "박지현"
+    ],
+    "beauty_creator_count": 1,
+    "mainstream_creator_count": 1,
+    "direct_purchase_creator_count": 1,
+    "paid_ad_creator_count": 0,
+    "beauty_creators": [
+      "디렉터파이"
+    ],
+    "mainstream_creators": [
+      "박지현"
+    ],
+    "direct_purchase_creators": [
+      "디렉터파이"
+    ],
+    "recent_products": [
+      "네오 에센셜 블러링 피니시 파우더",
+      "네오 쿠션 더 매트",
+      "네오 파우더"
+    ],
+    "operator": "아모레퍼시픽",
+    "parent_company": "아모레퍼시픽그룹",
+    "listed_company": "아모레퍼시픽",
+    "ticker": "090430",
+    "market": "KOSPI",
+    "relation_type": "직접 브랜드",
+    "company_verified": true
+  },
+  {
+    "brand": "스튜디오17",
+    "beauty_alpha_score": 47.2,
+    "signal_label": "👀 관찰 필요",
+    "signal_score": 12,
+    "momentum_score": 48,
+    "spread_status": "뷰티 전문군 중심",
+    "recent_mentions": 2,
+    "previous_mentions": 0,
+    "growth_rate": null,
+    "recent_creator_count": 2,
+    "new_creator_count": 2,
+    "new_creators": [
+      "아랑",
+      "지냐"
+    ],
+    "beauty_creator_count": 2,
+    "mainstream_creator_count": 0,
+    "direct_purchase_creator_count": 1,
+    "paid_ad_creator_count": 0,
+    "beauty_creators": [
+      "아랑",
+      "지냐"
+    ],
+    "mainstream_creators": [],
+    "direct_purchase_creators": [
+      "아랑"
+    ],
+    "recent_products": [
+      "브러쉬&퍼프 클렌저",
+      "소프트 스크럽 샤워 글로브(미니)"
+    ],
+    "operator": "미확인",
+    "parent_company": "미확인",
+    "listed_company": "미확인",
+    "ticker": "",
+    "market": "",
+    "relation_type": "브랜드 운영사",
+    "company_verified": false
+  },
+  {
+    "brand": "에뛰드",
+    "beauty_alpha_score": 44.2,
+    "signal_label": "📈 전문층 확산 신호",
+    "signal_score": 18,
+    "momentum_score": 49.7,
+    "spread_status": "뷰티 전문군 중심",
+    "recent_mentions": 4,
+    "previous_mentions": 3,
+    "growth_rate": 33.3,
+    "recent_creator_count": 3,
+    "new_creator_count": 2,
+    "new_creators": [
+      "디렉터파이",
+      "민스코"
+    ],
+    "beauty_creator_count": 3,
+    "mainstream_creator_count": 0,
+    "direct_purchase_creator_count": 1,
+    "paid_ad_creator_count": 1,
+    "beauty_creators": [
+      "디렉터파이",
+      "민스코",
+      "지냐"
+    ],
+    "mainstream_creators": [],
+    "direct_purchase_creators": [
+      "디렉터파이"
+    ],
+    "recent_products": [
+      "그림자 쉐딩 - 재조명",
+      "듀오 픽싱 틴트",
+      "마이 쁘띠 아이 팔레트 09 빈티지 무드 난리도 아니야",
+      "뽀용 아이 메이커 트임음영 할래말래",
+      "컨트롤 슬라이드 브로우 더스티토프",
+      "컬 픽스 마스카라",
+      "피지쏙 파우더"
+    ],
+    "operator": "에뛰드",
+    "parent_company": "아모레퍼시픽그룹",
+    "listed_company": "아모레퍼시픽",
+    "ticker": "090430",
+    "market": "KOSPI",
+    "relation_type": "브랜드 계열",
+    "company_verified": true
+  },
+  {
+    "brand": "어바웃톤",
+    "beauty_alpha_score": 43.8,
+    "signal_label": "👀 관찰 필요",
+    "signal_score": 28,
+    "momentum_score": 42.0,
+    "spread_status": "뷰티 전문군 중심",
+    "recent_mentions": 2,
+    "previous_mentions": 1,
+    "growth_rate": 100.0,
+    "recent_creator_count": 2,
+    "new_creator_count": 2,
+    "new_creators": [
+      "디렉터파이",
+      "레오제이"
+    ],
+    "beauty_creator_count": 2,
+    "mainstream_creator_count": 0,
+    "direct_purchase_creator_count": 1,
+    "paid_ad_creator_count": 0,
+    "beauty_creators": [
+      "디렉터파이",
+      "레오제이"
+    ],
+    "mainstream_creators": [],
+    "direct_purchase_creators": [
+      "디렉터파이"
+    ],
+    "recent_products": [
+      "블러 파우더 팩트 00 클리어",
+      "스킨 레이어 핏 블러셔"
+    ],
+    "operator": "미확인",
+    "parent_company": "미확인",
+    "listed_company": "미확인",
+    "ticker": "",
+    "market": "",
+    "relation_type": "브랜드 운영사",
+    "company_verified": false
+  },
+  {
+    "brand": "로지킴",
+    "beauty_alpha_score": 43.6,
+    "signal_label": "👀 관찰 필요",
+    "signal_score": 16,
+    "momentum_score": 44,
+    "spread_status": "뷰티 전문군 중심",
+    "recent_mentions": 2,
+    "previous_mentions": 0,
+    "growth_rate": null,
+    "recent_creator_count": 2,
+    "new_creator_count": 2,
+    "new_creators": [
+      "레오제이",
+      "지냐"
+    ],
+    "beauty_creator_count": 2,
+    "mainstream_creator_count": 0,
+    "direct_purchase_creator_count": 0,
+    "paid_ad_creator_count": 0,
+    "beauty_creators": [
+      "레오제이",
+      "지냐"
+    ],
+    "mainstream_creators": [],
+    "direct_purchase_creators": [],
+    "recent_products": [
+      "PDRN 틴티드 립 앰플",
+      "PDRN 틴티드 립 앰플 - 심리스"
+    ],
+    "operator": "미확인",
+    "parent_company": "미확인",
+    "listed_company": "미확인",
+    "ticker": "",
+    "market": "",
+    "relation_type": "",
+    "company_verified": false
+  }
+]

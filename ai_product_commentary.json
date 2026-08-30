@@ -1,0 +1,417 @@
+[
+  {
+    "brand": "닥터엘시아",
+    "product": "345 릴리프 세럼 30ml",
+    "category_guess": "민감·트러블성 피부를 겨냥한 진정·보습·피부장벽 케어 세럼",
+    "one_line_summary": "나이아신아마이드·판테놀·다중 히알루론산·병풀 유래 성분·세라마이드 NP를 한 제품에 조합하고, 가벼운 흡수감을 내세운 데일리 진정 보습 세럼이다.",
+    "key_features": [
+      "공식 전성분 기준 자작나무수액, 티트리잎수, 글리세린, 나이아신아마이드, 판테놀을 베이스로 배치해 수분 공급과 피부 컨디션 케어를 동시에 겨냥한다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/collections/345-line/products/345-relief-serum))",
+      "히알루론산·가수분해 히알루론산·소듐하이알루로네이트·가교형 소듐하이알루로네이트와 폴리글루타믹애씨드를 포함해 다층 보습 콘셉트를 구성한다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/collections/345-line/products/345-relief-serum))",
+      "병풀추출물, 마데카소사이드, 아시아티코사이드, 아시아틱애씨드, 마데카식애씨드 및 베타글루칸을 포함해 진정·장벽 케어 메시지를 뒷받침하는 성분 조합을 갖췄다. 다만 개별 성분의 함량은 공개 확인이 부족하다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/collections/345-line/products/345-relief-serum))",
+      "세라마이드 NP와 콜레스테롤, 수소첨가레시틴을 포함해 피부 지질 보완을 지향하는 설계로 볼 수 있다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/collections/345-line/products/345-relief-serum))",
+      "공식 판매 페이지는 빠른 흡수, 끈적임이 적은 사용감, 민감성 피부 및 논코메도제닉 테스트 완료를 표기한다. 다만 시험의 구체적 설계·피험자 수·결과 수치는 확인 부족이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/collections/345-line/products/345-relief-serum))",
+      "전성분표에 향료와 에센셜오일은 기재되지 않았으나, 모든 민감 피부에서 자극이 없다는 의미로 단정할 수는 없다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/collections/345-line/products/345-relief-serum))"
+    ],
+    "key_ingredients": [
+      {
+        "ingredient": "나이아신아마이드",
+        "role": "피부 톤의 균일도 및 잡티 흔적 외관 개선을 겨냥한 성분으로, 공식 페이지는 트러블 후 흔적과 피부결 개선을 소구한다. 정확한 함량은 공식적으로 확인되지 않았다."
+      },
+      {
+        "ingredient": "판테놀",
+        "role": "보습 및 피부 컨디션·장벽 케어를 보조하는 성분으로 제품의 진정·보습 포지셔닝과 연결된다."
+      },
+      {
+        "ingredient": "다중 히알루론산 및 폴리글루타믹애씨드",
+        "role": "서로 다른 형태의 히알루론산과 보습 고분자를 통해 수분 유지감과 촉촉한 피부 표현을 겨냥한 조합이다."
+      },
+      {
+        "ingredient": "병풀 유래 복합체(마데카소사이드·아시아티코사이드·아시아틱애씨드·마데카식애씨드 포함)",
+        "role": "민감하거나 붉어진 피부의 진정 케어를 겨냥한 성분군이다. 각 성분의 농도 및 임상적 완제품 효능은 확인 부족이다."
+      },
+      {
+        "ingredient": "세라마이드 NP·콜레스테롤·수소첨가레시틴",
+        "role": "피부 장벽과 수분 손실 방지에 관련된 지질성 보습 구조를 보완하는 데 활용되는 성분 조합이다."
+      },
+      {
+        "ingredient": "소듐디엔에이(Sodium DNA, 브랜드는 PDRN으로 소구)",
+        "role": "브랜드는 PDRN을 핵심 성분으로 소개하지만, 전성분상 표기는 소듐디엔에이이며 배합 농도와 원료 규격은 확인 부족이다."
+      }
+    ],
+    "consumer_strengths": [
+      "공식 기능 소구와 별개로 초기 소비자 리뷰에서는 가볍게 펴 발리고 빠르게 흡수되며, 끈적임 부담이 적고 수분감이 있다는 평가가 반복적으로 관찰된다. ([shop.tiktok.com](https://shop.tiktok.com/us/pdp/dr-althea-345-relief-serum-gentle-vegan-certified/1732321727439213466?utm_source=openai))",
+      "붉은기·예민해진 피부·건조로 인한 불편감에 사용했다는 후기가 일부 확인되며, 피부가 편안해졌다는 체감 후기가 있다. 이는 개인 경험이며 치료 또는 즉각적 진정 효능으로 일반화할 수 없다. ([shop.tiktok.com](https://shop.tiktok.com/us/pdp/dr-althea-345-relief-serum-gentle-vegan-certified/1732321727439213466?utm_source=openai))",
+      "메이크업 전 또는 다른 세럼·크림과 함께 쓰기 편하다는 사용성은 반복 구매 가능성을 높일 수 있는 요소이나, 현재 독립 리뷰 표본은 아직 제한적이다. ([lolassecretbeautyblog.com](https://www.lolassecretbeautyblog.com/2026/06/dr-althea-345-relief-serum-review.html?m=0&utm_source=openai))"
+    ],
+    "review_signals": [
+      "화해 글로벌 페이지에는 장벽이 예민한 상태에서도 자극감이 적고, 흡수력·보습감·진정감을 긍정적으로 평가한 후기들이 확인된다. 다만 리뷰 수가 충분히 축적됐는지는 확인이 어렵다. ([hwahae.com](https://www.hwahae.com/en/products/Dr-Althea-345-Relief-Serum/2206953?utm_source=openai))",
+      "틱톡샵 공식 판매 페이지에는 51건의 글로벌 리뷰와 4.9점이 표시되며, 가벼운 제형·빠른 흡수·붉은기 완화 체감이 주요 긍정 신호로 나타난다. 플랫폼 내 리뷰는 구매 유도 환경과 표본 편향 가능성을 함께 고려해야 한다. ([shop.tiktok.com](https://shop.tiktok.com/us/pdp/dr-althea-345-relief-serum-gentle-vegan-certified/1732321727439213466?utm_source=openai))",
+      "글로우픽 이벤트 페이지상 세럼 자체 리뷰는 4건, 평점은 4.63점으로 표시돼 국내 독립 후기 데이터는 아직 초기 단계로 판단된다. ([glowpick.com](https://www.glowpick.com/events/15076))",
+      "부정 후기의 충분한 누적 데이터는 확인 부족이다. 따라서 여드름성 피부에서의 트러블 유발 가능성, 계절별 보습 지속력, 장기 재구매율은 추가 관찰이 필요하다."
+    ],
+    "attention_drivers": [
+      "누적 판매 3,000만 개를 표기한 기존 345 릴리프 크림의 후속 라인 신제품이라는 점이 초기 탐색 구매와 콘텐츠 소재화에 유리할 가능성이 있다. 다만 크림의 인기가 세럼 판매로 직접 전환된다고 단정할 수는 없다. ([glowpick.com](https://www.glowpick.com/events/15076))",
+      "진정·보습·장벽 케어를 한 병에 묶고, 민감성·여드름성 피부 및 논코메도제닉 테스트를 전면에 둔 간결한 메시지는 뷰티 크리에이터가 피부 컨디션 회복 루틴으로 소개하기 쉬운 구조다. 테스트 상세 결과는 확인 부족이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/collections/345-line/products/345-relief-serum))",
+      "올리브영 입점 및 할인 판매, 틱톡샵 공식 판매 노출은 소비자 접근성과 리뷰 축적에 유리한 유통 기반으로 볼 수 있다. ([oliveyoung.co.kr](https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?curation=like&dispCatNo=90000010001&egcode=a016_t001&egrankcode=39&goodsNo=A000000254543&rccode=pc_main_01_c&t_click=%ED%81%90%EB%A0%88%EC%9D%B4%EC%85%981_%EC%83%81%ED%92%88%EC%83%81%EC%84%B8&t_number=4&t_page=%ED%99%88&trackingCd=Home_Curation1_2))",
+      "브랜드가 주장하는 독립 캡슐·딜리버리 시스템은 차별화 메시지로 활용될 수 있으나, 독립적인 성능 검증 자료는 확인 부족이다. ([glowpick.com](https://www.glowpick.com/events/15076))"
+    ],
+    "trend_connection": "최근 K-뷰티에서 강한 효능 하나보다 민감 피부도 사용할 수 있는 장벽·진정·수분 복합 관리와 PDRN 계열 원료가 주목받는 흐름이 관찰된다. 이 제품은 소듐디엔에이(PDRN 소구), 세라마이드, 병풀 유래 성분, 다중 보습 성분과 가벼운 제형을 함께 제시한다는 점에서 해당 관심사와 맞물릴 가능성이 있다. 다만 이러한 성분 구성이 제품의 관심 확산을 직접 일으켰다는 인과관계는 확인할 수 없다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/collections/345-line/products/345-relief-serum))",
+    "product_power_assessment": "제품력의 핵심은 강한 각질 케어 또는 고농도 단일 기능성보다, 수분·진정·장벽 보완 성분을 가벼운 세럼 제형에 통합한 균형형 설계다. 특히 기존 345 크림 인지도, 민감·트러블성 피부를 겨냥한 논코메도제닉 메시지, 빠른 흡수 사용감은 입문 및 반복 사용에 유리할 수 있다. 반면 핵심 성분별 함량, 완제품 임상 수치, 장기 독립 리뷰와 재구매 데이터가 부족해 현시점에서 압도적 효능 우위나 반복 구매력을 확정하기는 이르다.",
+    "confidence": "medium",
+    "research_comment": "이 제품의 대표적인 제품력은 나이아신아마이드·판테놀·다중 히알루론산·병풀 유래 성분·세라마이드 NP를 결합한 진정·보습·장벽 중심의 복합 설계와 가벼운 흡수감이다. 초기 소비자 후기에서는 끈적임이 적고 흡수가 빠르며 예민하고 건조한 피부에 수분감과 편안함을 준다는 반응이 반복되지만, 국내외 리뷰 표본은 아직 충분하지 않다. 기존 345 크림의 브랜드 인지도, PDRN 소구, 민감 피부 친화적 메시지는 최근 장벽·진정 중심 스킨케어 관심과 맞물릴 가능성이 있으나, 이것이 관심 확산의 직접 원인이라고 단정할 수는 없다. 투자 관점에서는 올리브영 및 틱톡 등 유통 채널에서의 리뷰 증가 속도, 부정 반응 비중, 할인 후 정상가 기준 재구매율, 그리고 크림 구매자의 세럼 교차구매 전환을 관찰할 필요가 있다.",
+    "beauty_alpha_score": 75.2,
+    "momentum_score": 68,
+    "recent_creator_count": 3,
+    "new_creator_count": 3
+  },
+  {
+    "brand": "닥터엘시아",
+    "product": "345 릴리프 크림 미스트 기획세트",
+    "category_guess": "스킨케어 / 수분·보습·진정 소구의 2층상 크림 페이셜 미스트 기획세트(100ml+60ml 구성)",
+    "one_line_summary": "물처럼 가벼운 미스트 사용성에 크림층의 유연·보습감을 결합한 2층상 미스트로, 메이크업 전후 및 수시 보습 수요를 겨냥한 제품이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))",
+    "key_features": [
+      "수분 에센스층과 크림층을 흔들어 사용하는 2층상 포뮬러로 확인된다. 일반 워터 미스트 대비 보습 잔여감을 높이려는 설계로 해석할 수 있으나, 장시간 보습 지속에 대한 임상 수치는 확인 부족이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))",
+      "쌀겨수, 글리세린, 판테놀, 히알루론산 및 가수분해 히알루론산 등 수분 결합·보습에 활용되는 성분과 에몰리언트 성분이 함께 배합되어 있다. 다만 개별 성분의 함량은 공개 확인 부족이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))",
+      "병풀잎추출물, 마데카소사이드, 약모밀추출물, 알로에잎수, 귀리커넬추출물 등을 포함해 민감·건조 시점의 편안한 사용감을 소구할 수 있는 구성이다. 다만 붉은기·트러블 개선 자체를 보장하는 임상 근거는 확인 부족이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))",
+      "얼굴에 고르게 분사해 메이크업 전후 또는 건조할 때 사용할 수 있도록 안내된다. 기획세트는 100ml 본품과 60ml 추가 구성으로 판매되어 휴대용·집용 분리 사용에 적합하다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))",
+      "공식 글로벌 전성분표에는 향료가 기재되지 않았으며, 공식 TikTok Shop 판매 정보는 인공 향료·색소·파라벤 무첨가 및 비건 인증을 표기한다. 국내 판매분과 동일 처방·인증 적용 여부는 구매 전 국내 라벨 확인이 필요하다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))"
+    ],
+    "key_ingredients": [
+      {
+        "ingredient": "쌀겨수 및 쌀추출물",
+        "role": "수분 베이스와 피부 컨디셔닝에 활용되는 식물 유래 성분으로 확인된다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))"
+      },
+      {
+        "ingredient": "글리세린·베타인",
+        "role": "수분을 끌어당기고 사용 중 건조감을 줄이는 데 널리 쓰이는 보습 성분군이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))"
+      },
+      {
+        "ingredient": "판테놀",
+        "role": "보습 및 피부 컨디셔닝 목적으로 배합된 성분으로, 브랜드는 진정·장벽 소구에 활용하고 있다. 제품 내 함량과 임상 효능 수치는 확인 부족이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))"
+      },
+      {
+        "ingredient": "히알루론산·가수분해 히알루론산·하이드록시프로필트라이모늄 하이알루로네이트",
+        "role": "서로 다른 형태의 히알루론산 계열 보습 성분으로, 즉각적인 수분감과 피부 표면의 촉촉한 사용감에 기여할 수 있다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))"
+      },
+      {
+        "ingredient": "병풀잎추출물·마데카소사이드·약모밀추출물·알로에잎수·귀리커넬추출물",
+        "role": "민감하거나 건조해진 피부의 편안한 사용감을 목표로 흔히 쓰이는 진정·컨디셔닝 성분군이다. 트러블 치료 또는 염증 개선 효능은 확인 부족이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))"
+      },
+      {
+        "ingredient": "트라이에틸헥사노인·하이드로제네이티드 폴리(C6-14 올레핀)",
+        "role": "크림층의 유연감과 보습 막 형성에 기여할 수 있는 에몰리언트 성분으로, 워터 미스트보다 촉촉한 마무리감을 만드는 핵심 조합으로 볼 수 있다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))"
+      }
+    ],
+    "consumer_strengths": [
+      "소비자 리뷰에서 반복적으로 관찰되는 강점은 단순 수분 분사보다 보습감이 남고, 피부에 은은한 광이 표현된다는 점이다. 리뷰 집계 플랫폼에서는 수분감·크림·진정이 주요 연관 키워드로 제시된다. ([ai.gloshell.com](https://ai.gloshell.com/product/ko/p-345-100ml-986850c9c4?utm_source=openai))",
+      "안개형 분사와 메이크업 위 사용 시 들뜸 또는 베이스 훼손이 크지 않았다는 후기가 있다. 다만 해당 평가는 제공받은 제품을 사용한 단일 리뷰도 포함하므로 모든 사용자에게 일반화하기 어렵다. ([glowpick.com](https://www.glowpick.com/reviews/7601286?utm_source=openai))",
+      "지성·복합성 피부 일부 후기에서도 적은 분사량 사용 시 무겁지 않고 트러블이 없었다는 반응이 있으나, 유분감과 향에 대한 호불호, 충분한 보습을 위해 분사량을 늘려야 한다는 의견도 확인된다. ([glowpick.com](https://www.glowpick.com/reviews/7601286?utm_source=openai))",
+      "무신사에서 100ml 제품은 후기 64건 기준 4.8점, 60ml는 후기 63건 기준 4.6점으로 표시되어 초기 구매자 만족 신호는 양호하다. 다만 리뷰 수가 대규모 베스트셀러 대비 제한적이고 평점만으로 재구매율을 판단할 수는 없다. ([musinsa.com](https://www.musinsa.com/products/5721643?utm_source=openai))"
+    ],
+    "review_signals": [
+      "긍정 반복 신호: 촉촉함, 속건조 완화 체감, 자연스러운 광, 분사감, 수시 사용 편의성 및 재구매 의향. ([glowpick.com](https://www.glowpick.com/brands/5161?cate1Id=1&monthTerm=24&utm_source=openai))",
+      "사용 상황 신호: 세안 후 기초 첫 단계, 메이크업 전 보습, 메이크업 후 건조 부위 리프레시 용도로 언급된다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))",
+      "유의 신호: 크림층에서 오는 약한 유분감과 향의 호불호가 존재하며, 초지성 피부는 분사 횟수 조절이 필요할 수 있다. ([glowpick.com](https://www.glowpick.com/reviews/7601286?utm_source=openai))",
+      "리뷰 해석 유의: 공식몰 후기에는 붉은기·트러블 개선을 언급한 사례가 있으나 개인 경험이며, 제품의 의학적·트러블 개선 효능으로 해석하기에는 근거가 부족하다. ([doctoralthea.co.kr](https://doctoralthea.co.kr/product/%EB%8B%A5%ED%84%B0%EC%97%98%EC%8B%9C%EC%95%84-345-%EB%A6%B4%EB%A6%AC%ED%94%84-%ED%81%AC%EB%A6%BC-%EB%AF%B8%EC%8A%A4%ED%8A%B8-60ml-100ml/543/category/1/display/2/?icid=MAIN.product_listmain_1))"
+    ],
+    "attention_drivers": [
+      "기획세트 자체가 100ml+60ml의 이중 용량 구성으로 유통되며, 본품 체험과 휴대용 사용을 동시에 제안하는 가격·구성 측면의 진입장벽 완화 요소가 있다. ([oliveyoung.co.kr](https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000251062))",
+      "올리브영 판매 페이지와 브랜드 공식 채널에서 '장원영 PICK' 및 '속광부스터' 메시지가 노출되어 인지도 유입에 기여할 가능성이 있다. 다만 셀러브리티 연계 마케팅이 실제 판매 증가의 직접 원인이라는 인과관계는 확인할 수 없다. ([oliveyoung.co.kr](https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?dispCatNo=1000001000100100001&goodsNo=A000000235504&t_click=%EA%B2%80%EC%83%89%EC%83%81%ED%92%88%EC%83%81%EC%84%B8&t_number=2&t_page=%ED%86%B5%ED%95%A9%EA%B2%80%EC%83%89%EA%B2%B0%EA%B3%BC%ED%8E%98%EC%9D%B4%EC%A7%80&t_search_name=345%ED%81%AC%EB%A6%BC&trackingCd=Result_2))",
+      "브랜드의 대표 345 릴리프 크림이 국내외 유통·소셜 채널에서 인지도를 형성한 점은 동일 라인 미스트의 탐색을 늘릴 수 있는 후광 요인이다. 그러나 크림의 인기와 미스트의 반복 구매를 동일하게 볼 수는 없다. ([sks.co.kr](https://www.sks.co.kr/data1/research/qna_file/20250922135001370_0_ko.pdf?utm_source=openai))",
+      "층 분리 비주얼, 흔들어 쓰는 사용법, 미세 분사와 메이크업 위 광 표현은 짧은 영상에서 시연하기 쉬운 요소다. 따라서 뷰티 크리에이터 콘텐츠와 맞물릴 가능성은 있으나, 크리에이터 확산 규모를 뒷받침할 정량 데이터는 확인 부족이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))"
+    ],
+    "trend_connection": "최근 K-뷰티에서 강한 보습감, 민감 피부 친화적 성분 구성, 메이크업 전후 겸용, 윤광 연출을 한 제품에 결합한 미스트 수요와 접점이 있다. 특히 워터 미스트의 빠른 증발감을 보완하려는 '크림 미스트' 포지셔닝과 휴대·수시 덧바름 사용성은 관심 확산과 맞물릴 가능성이 있다. 다만 이 제품이 해당 트렌드 때문에 유행했다고 단정할 근거는 확인 부족이다. ([shop.tiktok.com](https://shop.tiktok.com/us/pdp/345-relief-cream-mist-by-dr-althea-hydrating-vegan-facial-mist-soothing-sensitive-skin-dual-layer-hy/1731714125821350810?enter_method=recommended_shops_shop_products&utm_source=openai))",
+    "product_power_assessment": "제품력의 핵심은 히알루론산·판테놀·글리세린 등의 보습 성분과 에몰리언트를 2층상 미스트에 결합해, 빠른 분사 편의성과 크림형 보습 잔여감을 함께 제안한 점이다. 리뷰에서도 보습감·윤광·미세 분사·메이크업 위 사용성이 반복되므로 건조함을 자주 느끼는 소비자에게 입소문 및 재구매로 이어질 기반은 있다. 다만 성분 농도, 인체 적용 시험 수치, 피부장벽·미백·탄력·트러블 개선에 대한 객관적 임상 데이터는 확인되지 않아 기능성 효능을 과대평가하기 어렵다. 투자 관점에서는 기획세트 판매 이후 본품 재구매율, 계절별 보습 수요 유지, 지성 피부의 유분감 이탈률, 대표 크림 구매자에 대한 라인 확장 전환율을 관찰할 필요가 있다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream-mist?variant=48687630549237&utm_source=openai))",
+    "confidence": "medium",
+    "research_comment": "이 제품의 대표적인 제품력은 수분 에센스층과 크림층을 결합한 2층상 미스트 설계와 보습·진정 성분 조합이다. 소비자는 미세 분사, 메이크업 위 사용 편의성, 일반 미스트보다 남는 촉촉함과 윤광을 선호할 가능성이 있으며, 이는 실제 후기에서도 반복적으로 관찰된다. 장원영 PICK 마케팅, 대표 345 크림의 브랜드 인지도, 휴대 가능한 60ml를 포함한 기획 구성은 최근 관심 확산과 맞물릴 가능성이 있으나 직접 인과로 단정할 수는 없다. 투자 관점에서는 초기 평점보다 기획세트 종료 후 단품 재구매율과 피부 타입별 만족도, 특히 유분감·향 관련 이탈 여부를 확인하는 것이 중요하다. ([oliveyoung.co.kr](https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000251062))",
+    "beauty_alpha_score": 75.2,
+    "momentum_score": 68,
+    "recent_creator_count": 3,
+    "new_creator_count": 3
+  },
+  {
+    "brand": "닥터엘시아",
+    "product": "345 릴리프 크림 튜브링거 기획세트",
+    "category_guess": "스킨케어 / 진정·보습 및 트러블 흔적 케어 크림 기획세트",
+    "one_line_summary": "가벼운 젤-크림 사용감에 나이아신아마이드·판테놀·병풀·세라마이드NP 등 보습·진정 관련 성분을 조합하고, 휴대용 미니와 튜브링거로 사용 편의성을 더한 데일리 크림이다.",
+    "key_features": [
+      "현 기획세트는 본품 50ml, 10ml 미니 2개, 튜브링거로 구성되어 있으며, 정가 2만9천원 기준의 증정형 구성이다. ([oliveyoung.co.kr](https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000245087))",
+      "공식 글로벌 페이지 기준 논코메도제닉 테스트 및 민감성 피부 대상 테스트를 표기하며, 여드름성·예민 피부를 겨냥한 데일리 젤-크림 포지션이다. 다만 개별 피부에서의 트러블 개선 효과까지 보장하는 근거는 별도 확인이 필요하다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream?absb_id=2267))",
+      "성분표상 티트리잎수, 나이아신아마이드, 판테놀, 병풀잎수·병풀추출물, 베타글루칸, 히알루론산, 마데카소사이드, 세라마이드NP 등이 함께 배합돼 보습·피부 컨디셔닝·진정 콘셉트를 구성한다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream?absb_id=2267))",
+      "미백 기능성의 근거가 되는 나이아신아마이드는 확인되지만, 해당 성분 및 기타 핵심 성분의 정확한 함량은 공개 자료에서 확인 부족이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream?absb_id=2267))",
+      "리뷰에서는 산뜻하지만 지나치게 가볍지 않은 보습감, 빠른 흡수, 끈적임 부담이 낮은 마무리감이 반복적으로 언급된다. 반면 건성 피부에는 보습감이 부족하거나 용기에서 끝까지 짜 쓰기 어렵다는 의견도 있다. ([glowpick.com](https://www.glowpick.com/products/179437))"
+    ],
+    "key_ingredients": [
+      {
+        "ingredient": "나이아신아마이드",
+        "role": "성분표 및 공식 설명에서 확인되는 피부 톤·칙칙함 케어 핵심 성분이다. 국내 유통 정보에서는 미백 도움 기능성 성분으로도 표기되지만, 함량은 확인 부족이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream?absb_id=2267))"
+      },
+      {
+        "ingredient": "판테놀",
+        "role": "보습 및 피부 컨디셔닝을 뒷받침하는 성분으로 배합됐다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream?absb_id=2267))"
+      },
+      {
+        "ingredient": "병풀잎수·병풀추출물·마데카소사이드",
+        "role": "민감·자극 피부 대상의 진정 콘셉트와 연결되는 병풀 유래 성분 조합이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream?absb_id=2267))"
+      },
+      {
+        "ingredient": "세라마이드NP",
+        "role": "보습 지속 및 피부장벽 보조 콘셉트를 구성하는 지질 성분이다. 공식 페이지도 세라마이드NP를 보습 관련 성분으로 제시한다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream?absb_id=2267))"
+      },
+      {
+        "ingredient": "베타글루칸·소듐하이알루로네이트·가수분해히알루론산",
+        "role": "수분 공급과 보습감 형성에 기여할 수 있는 보습 성분 조합이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream?absb_id=2267))"
+      },
+      {
+        "ingredient": "레스베라트롤·탄닉애씨드",
+        "role": "공식 제품 설명에서 블레미시 및 피부 컨디셔닝 콘셉트에 포함되는 성분이나, 트러블 흔적 개선에 대한 개별 성분의 제품 내 실효성은 농도·인체적용시험 상세가 확인 부족이다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream?absb_id=2267))"
+      }
+    ],
+    "consumer_strengths": [
+      "무겁고 답답한 크림을 부담스러워하는 소비자에게 ‘가볍게 펴 발리면서도 보습감이 남는’ 제형 경험이 강점으로 작동할 가능성이 있다. ([unpa.me](https://unpa.me/reviews/312829))",
+      "진정, 수분, 피부 톤 및 트러블 흔적 관리라는 복수의 피부 고민을 한 단계에서 관리하려는 소비자에게 이해하기 쉬운 제품 콘셉트를 제공한다. 다만 실제 개선 체감은 피부 상태와 루틴에 따라 달라질 수 있다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream?absb_id=2267))",
+      "10ml 미니 2개는 여행·운동·외출용 체험과 재구매 전환에, 튜브링거는 잔량 사용 편의성에 긍정적일 수 있다. 특히 기존 리뷰에서 제기된 튜브 사용성 불만을 일부 완화하는 구성으로 볼 여지가 있다. ([oliveyoung.co.kr](https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000245087))"
+    ],
+    "review_signals": [
+      "글로우픽에서는 평점 4.63점, 리뷰 287건으로 집계됐으며, 보습 지속력·순한 사용감·흡수력·발림성이 주요 긍정 키워드로 나타난다. ([glowpick.com](https://www.glowpick.com/products/179437))",
+      "개별 내돈내산 리뷰에서는 산뜻함과 충분한 보습감의 양립, 아침·저녁 사용 편의성, 끈적임 부담이 낮다는 평가가 확인된다. ([unpa.me](https://unpa.me/reviews/312829))",
+      "일부 리뷰에서는 건성 피부 기준 보습력이 기대보다 약할 수 있다는 의견과 튜브를 끝까지 짜기 어렵다는 불만이 반복된다. 따라서 초건성 소비자에게는 단독 보습력보다 레이어링 적합성을 점검할 필요가 있다. ([glowpick.com](https://www.glowpick.com/products/179437))",
+      "올리브영 집계 기반 외부 랭킹에서 2026년 8월 초 크림 카테고리 20위, 평점 4.8점, 리뷰 3,682건으로 나타나 판매 채널 내 리뷰 축적과 가시성이 확인된다. ([beauticslab.com](https://beauticslab.com/marketing/weekly-rankings/2026/32/cream))"
+    ],
+    "attention_drivers": [
+      "올리브영에서 ‘장원영PICK’ 기획으로 노출되고 있어, 제품 자체의 성분·사용감과 별개로 셀러브리티 연계 노출이 신규 유입을 확대할 가능성이 있다. ([oliveyoung.co.kr](https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000245087))",
+      "올리브영 크림 카테고리에서 2026년 7월 12위까지 상승한 기록과 8월 초 20위 기록이 확인돼, 최근 채널 내 관심과 구매 검토가 지속되고 있음을 시사한다. 다만 순위 변동만으로 관심 증가 원인을 특정할 수는 없다. ([beauticslab.com](https://beauticslab.com/marketing/monthly-rankings/2026/7/cream?utm_source=openai))",
+      "수분진정·트러블 케어 기획전 내 노출, 할인 판매, 미니 2개와 튜브링거 증정은 첫 구매 진입장벽을 낮추는 요소로 볼 수 있다. ([oliveyoung.co.kr](https://www.oliveyoung.co.kr/store/planshop/getPlanShopDetail.do?dispCatNo=500000100019519&t_click=%EB%A9%94%EC%9D%B8%EB%B0%B0%EB%84%88&t_page=%EC%9D%B4%EB%B2%A4%ED%8A%B8&utm_source=openai))",
+      "뷰티 크리에이터의 자발적 콘텐츠 확산 규모나 특정 콘텐츠가 판매를 견인했다는 직접 근거는 이번 조사 범위에서 확인 부족이다."
+    ],
+    "trend_connection": "최근 K-뷰티에서 강한 수요를 보이는 수분진정·민감 피부·트러블 케어 맥락과 제품 포지셔닝이 맞닿아 있다. 실제 올리브영의 트러블 케어 및 수분진정 중심 기획전에 포함됐고, 병풀·판테놀·세라마이드NP·히알루론산처럼 소비자가 익숙하게 인지하는 보습·진정 성분 조합도 콘텐츠화하기 쉽다. 다만 이러한 제품 특성이 최근 관심 확산의 직접 원인이라고 단정할 수는 없다. ([global.oliveyoung.com](https://global.oliveyoung.com/event/planning?plndpNo=2596&utm_source=openai))",
+    "product_power_assessment": "제품력의 핵심은 ‘트러블성·민감 피부도 고려한 가벼운 보습 크림’이라는 명확한 포지셔닝과, 나이아신아마이드·판테놀·병풀·세라마이드NP·히알루론산의 다층 보습/컨디셔닝 조합이다. 반복 구매 가능성은 끈적임 부담이 낮으면서 보습 지속감을 느끼는 소비자층에서 높을 수 있으며, 미니 증정은 사용 경험 확대에 유리하다. 투자 관점에서는 높은 단일 히어로 SKU 의존 가능성, 광고·할인·셀러브리티 노출 이후에도 유지되는 정상가 판매량, 재구매율, 초건성 소비자 불만과 튜브 사용성 개선 효과를 함께 관찰할 필요가 있다. ([doctoraltheaglobal.com](https://doctoraltheaglobal.com/products/345-relief-cream?absb_id=2267))",
+    "confidence": "medium",
+    "research_comment": "대표 제품력은 가벼운 젤-크림 사용감 위에 나이아신아마이드, 판테놀, 병풀 유래 성분, 세라마이드NP 및 히알루론산을 조합한 진정·보습 중심 설계다. 소비자는 답답함이 적으면서도 수분감이 지속된다는 후기를 선호할 가능성이 높고, 10ml 미니 2개와 튜브링거는 체험·휴대·잔량 사용 편의성을 높인다. 최근 관심은 올리브영의 장원영PICK 노출, 수분진정·트러블 케어 기획전 편성, 카테고리 내 리뷰 축적과 맞물렸을 가능성이 있으나 직접 인과관계는 확인할 수 없다. 투자 관점에서는 할인 및 모델 노출을 제외한 재구매율, 정상가 판매 유지력, 단일 히어로 제품 의존도와 건성 피부·패키지 관련 불만의 관리 여부가 핵심 관찰 포인트다. ([oliveyoung.co.kr](https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000245087))",
+    "beauty_alpha_score": 75.2,
+    "momentum_score": 68,
+    "recent_creator_count": 3,
+    "new_creator_count": 3
+  },
+  {
+    "brand": "토르홉",
+    "product": "바디스크럽 - 라이카 민트 쿨링",
+    "category_guess": "워시오프 바디 스크럽 겸 바디워시",
+    "one_line_summary": "각질 관리·세정·즉각적인 쿨링 체감을 한 제품에 결합한 여름철 체취·열감 고민 대응형 바디 스크럽이다.",
+    "key_features": [
+      "물과 만나면 거품이 형성되는 스크럽-투-바디워시 제형으로, 별도 바디워시 사용 단계를 줄이는 편의성이 확인된다.",
+      "브랜드 측 및 유통 정보에서는 3중 미세 스크럽 입자를 내세우며, 물리적 각질 관리와 상대적으로 부드러운 사용감을 핵심 차별점으로 제시한다. 다만 입자별 원료와 크기는 확인 부족이다.",
+      "회사 측 공개 설명 기준 인체적용시험에서 1회 사용 후 피부 각질·피부결 개선, 겨드랑이 냄새 완화 및 일시적 피부 온도 감소를 확인했다고 안내한다. 시험 설계·대상자 수·지속 시간은 확인 부족이다.",
+      "올리브영 판매 페이지에서 '아크네균 제거·냄새 케어'를 전면 소구하고 있으나, 아크네균 시험 조건과 해당 효능을 뒷받침하는 전성분 정보는 공개 검색 범위에서 충분히 확인되지 않았다."
+    ],
+    "key_ingredients": [
+      {
+        "ingredient": "전성분 및 성분별 함량",
+        "role": "공식 판매 페이지의 검색 노출 정보만으로는 전체 INCI와 배합 농도를 교차 확인하기 어려워 확인 부족이다."
+      },
+      {
+        "ingredient": "쿨링감 유발 성분",
+        "role": "민트 쿨링 콘셉트와 즉각 쿨링 시험 결과는 확인되지만, 멘톨 등 특정 쿨링 성분의 실제 함유 여부와 함량은 확인 부족이다."
+      },
+      {
+        "ingredient": "3중 미세 스크럽 입자",
+        "role": "물리적 각질 제거를 위한 입자 시스템으로 소개되지만, 입자 원료·생분해성·입도 정보는 확인 부족이다."
+      }
+    ],
+    "consumer_strengths": [
+      "독립 소비자 리뷰에서는 운동 후 사용 시 자극감이 크지 않고 시원하게 느껴졌다는 평가가 확인된다.",
+      "찬물로 헹굴 때 쿨링 체감이 더 강했다는 사용 경험이 있어, 여름철 샤워 루틴에서 즉시 체감되는 감각적 만족을 줄 가능성이 있다.",
+      "민트향과 스크럽·바디워시 겸용 사용 편의성은 협찬 표기가 있는 뷰티 크리에이터 게시물에서도 반복 언급됐다. 다만 협찬 콘텐츠이므로 일반 소비자 만족도로 일반화하기는 어렵다."
+    ],
+    "review_signals": [
+      "글로우픽에 노출된 독립 리뷰는 2026년 7월 기준 1건으로 표본이 매우 작지만, '자극이 적음', '시원한 느낌', '운동 후 사용' 및 인그로운 헤어 예방 목적의 사용이 언급됐다.",
+      "올리브영 카테고리 노출 기준 리뷰 수는 2026년 7월 말 약 128건에서 8월 초 약 141건으로 증가했고, 평점은 5점으로 표시됐다. 다만 플랫폼의 5점 표기 방식과 개별 리뷰 원문 전체는 확인하지 못했다.",
+      "소비자 후기의 반복 장점으로 단정할 만큼 충분한 비협찬 원문 표본은 확보되지 않았으며, 향·쿨링감·입자 자극도에 대한 부정 후기 분포도 확인 부족이다."
+    ],
+    "attention_drivers": [
+      "2026년 7월 올리브영 선론칭 이후 올리브영의 8월 '올영픽' 기획전에 포함되며 유통 노출이 확대됐다.",
+      "뷰틱스랩 집계에서 샤워·입욕 카테고리 내 해당 제품은 2026년 7월 27일~8월 2일 36위(직전 대비 412계단 상승), 8월 3일~9일 45위로 집계됐다. 이는 단기 관심 확대의 신호이나 지속적인 판매력으로 해석하기에는 관찰 기간이 짧다.",
+      "여름철 땀·체취·바디 열감·묵은 각질을 한 번에 관리한다는 메시지와, '얼음사우나'로 시각화되는 강한 쿨링 콘셉트가 숏폼 및 크리에이터 콘텐츠에 적합한 특징으로 보인다.",
+      "올리브영의 할인 판매가가 정가 24,500원 대비 약 18,300~19,800원 수준으로 노출된 점도 체험 구매 진입장벽을 낮췄을 가능성이 있다."
+    ],
+    "trend_connection": "최근 바디케어에서는 단순 보습을 넘어 체취·등드름·각질·열감처럼 여름철 신체 고민을 세분화해 해결하려는 제품이 주목받고 있다. 이 제품의 쿨링 체감, 세정 겸용 제형, 냄새 케어 소구는 이러한 수요와 맞물릴 가능성이 있다. 다만 제품의 특정 성분이나 기능이 순위 상승을 직접 유발했다고 인과관계를 단정할 수는 없다.",
+    "product_power_assessment": "제품력의 중심은 성분 스토리보다 사용 즉시 인지하기 쉬운 쿨링감, 미세 입자 기반 스크럽, 거품 세정 전환이라는 감각·사용성 조합에 있다. 여름 시즌 운동 후 샤워, 체취 및 각질 관리 수요에 적합해 첫 구매와 콘텐츠 확산에는 유리한 구조다. 반복 구매로 이어질지는 쿨링 지속감과 세정 후 건조함, 민감 피부에서의 자극도, 비협찬 리뷰의 누적 및 계절 외 판매 유지 여부가 핵심 검증 포인트다.",
+    "confidence": "medium",
+    "research_comment": "대표 제품력은 물과 만나 거품으로 전환되는 스크럽 제형과 일시적 피부 온도 감소를 표방하는 쿨링 사용감이다. 소비자는 운동 후나 더운 날의 상쾌한 샤워, 각질·체취를 한 번에 관리하는 편의성에서 매력을 느낄 가능성이 있다. 2026년 7월 올리브영 선론칭과 8월 올영픽 노출, 단기 카테고리 순위 상승은 최근 관심 확산과 맞물린 유통·계절 요인으로 해석할 수 있다. 투자 관점에서는 현재의 높은 평점보다 비협찬 리뷰에서 쿨링감·저자극·세정 후 보습감이 지속적으로 재현되는지, 여름 이후에도 반복 구매가 유지되는지를 관찰해야 한다.",
+    "beauty_alpha_score": 60.6,
+    "momentum_score": 62,
+    "recent_creator_count": 3,
+    "new_creator_count": 3
+  },
+  {
+    "brand": "토르홉",
+    "product": "사우난지앙 라인핏 바디 스크럽",
+    "category_guess": "워시오프형 온열 바디 스크럽(200g)",
+    "one_line_summary": "각질·피부결 관리에 사우나형 온열 사용감을 결합한 체험형 바디 스크럽으로, 즉각적인 매끈함과 목욕·휴식 감각이 핵심 차별점이나 ‘라인핏/셀룰라이트’의 가시적 개선 근거는 확인이 부족합니다. ([fntoday.co.kr](https://www.fntoday.co.kr/news/articleView.html?idxno=387626))",
+    "key_features": [
+      "브랜드 측은 기존 ‘사우난지앙 솔트마스크’의 사우나 메커니즘을 바디 스크럽으로 확장했으며, 1회 사용 후 피부 각질 및 거칠기 개선 인체적용시험을 진행했다고 설명합니다. 다만 시험 설계·수치·시험기관은 공개 자료에서 확인 부족입니다. ([fntoday.co.kr](https://www.fntoday.co.kr/news/articleView.html?idxno=387626))",
+      "온열감과 물리적 스크럽을 함께 제공하는 것이 제품의 실질적 차별화 포인트입니다. 일반적인 향 중심 또는 보습 중심 바디 스크럽 대비 ‘샤워 중 홈스파’ 경험을 전면에 둔 제품입니다. ([fntoday.co.kr](https://www.fntoday.co.kr/news/articleView.html?idxno=387626))",
+      "올리브영 판매 페이지에서 셀룰라이트 케어·피부결 개선 제품으로 노출되지만, 셀룰라이트 또는 바디 라인 변화에 대한 독립적인 임상 수치와 전후 변화 근거는 확인 부족입니다. ([oliveyoung.co.kr](https://www.oliveyoung.co.kr/store/display/getMCategoryList.do?dispCatNo=1000001000300050002&t_banner_name=%EB%B0%94%EB%94%94%EC%8A%A4%ED%81%AC%EB%9F%BD&t_click=%EC%9B%90%EB%B0%B0%EB%84%88&t_number=9&t_page=%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EA%B4%80&trackingCd=Cat10000010003_Planshop3_PROD&utm_source=openai))",
+      "브랜드 측은 민감성 피부 대상 일차자극 테스트를 완료했다고 밝혔습니다. 그러나 온열감과 스크럽 작용을 동반하므로, 이를 모든 민감성 피부에 적합하다는 의미로 확대 해석하기는 어렵습니다. ([fntoday.co.kr](https://www.fntoday.co.kr/news/articleView.html?idxno=387626))"
+    ],
+    "key_ingredients": [
+      {
+        "ingredient": "전성분 및 개별 성분 농도",
+        "role": "공식 판매·브랜드 자료에서 본 제품의 텍스트형 전성분표와 각 성분 함량을 교차 확인하지 못했습니다. 따라서 특정 소금, 식물추출물, 보습 성분을 핵심 성분으로 단정할 수 없습니다."
+      },
+      {
+        "ingredient": "온열 작용 구성",
+        "role": "소비자 후기를 통해 온열감은 반복적으로 관찰되지만, 이를 유발하는 정확한 성분·작동 방식은 확인 부족입니다. ([glowpick.com](https://www.glowpick.com/brands/12337?cate1Id=10&monthTerm=24&utm_source=openai))"
+      }
+    ],
+    "consumer_strengths": [
+      "소비자 후기에서는 도포 시 느껴지는 뚜렷한 온열감과 사우나·목욕을 하는 듯한 휴식감이 가장 반복적으로 언급됩니다. 이는 효능 주장보다 감각적 만족을 통한 차별화 요소에 가깝습니다. ([glowpick.com](https://www.glowpick.com/brands/12337?cate1Id=10&monthTerm=24&utm_source=openai))",
+      "스크럽 후 피부가 매끈해지고, 입자가 녹는 듯해 사용 후 욕실이 지저분하지 않다는 평가가 일부 확인됩니다. ([glowpick.com](https://www.glowpick.com/categories/57?tab=review&utm_source=openai))",
+      "장시간 서 있거나 앉아 피로감을 느낀 날 사용하기 좋다는 의견과 재구매 의향이 확인됩니다. 다만 근육통 완화는 개인의 주관적 체감이며 의학적 효능으로 해석할 수 없습니다. ([glowpick.com](https://www.glowpick.com/brands/12337?cate1Id=10&monthTerm=24&utm_source=openai))"
+    ],
+    "review_signals": [
+      "글로우픽에서 제품 평점은 5.0이지만 확인 가능한 리뷰 수는 2건으로 매우 적어, 긍정 평가를 광범위한 소비자 반응으로 일반화하기 어렵습니다. ([glowpick.com](https://www.glowpick.com/brands/12337?cate1Id=10&monthTerm=24&utm_source=openai))",
+      "올리브영 카테고리 페이지에서는 2026년 8월 말 기준 377건의 리뷰가 표시됐고, 신제품 특가·셀룰라이트 케어 상품으로 노출되고 있습니다. 초기 구매자 접점은 빠르게 형성되는 모습이나, 장기 재구매율은 추가 관찰이 필요합니다. ([oliveyoung.co.kr](https://www.oliveyoung.co.kr/store/display/getMCategoryList.do?dispCatNo=1000001000300050002&t_banner_name=%EB%B0%94%EB%94%94%EC%8A%A4%ED%81%AC%EB%9F%BD&t_click=%EC%9B%90%EB%B0%B0%EB%84%88&t_number=9&t_page=%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EA%B4%80&trackingCd=Cat10000010003_Planshop3_PROD&utm_source=openai))",
+      "긍정 후기는 온열감, 부드러운 각질 제거, 목욕 후 개운함에 집중됩니다. 반면 한 후기에서는 바디 라인이 정리되는 시각적 변화는 느끼지 못했다고 언급해, ‘라인핏’ 기대치를 과도하게 설정할 경우 만족도 저하 가능성이 있습니다. ([glowpick.com](https://www.glowpick.com/brands/12337?cate1Id=10&monthTerm=24&utm_source=openai))",
+      "확인 가능한 후기 중 제품 제공 또는 평가단 표기가 포함된 사례가 있어, 자발 구매 후기와 분리해 해석할 필요가 있습니다. ([glowpick.com](https://www.glowpick.com/categories/57?tab=review&utm_source=openai))"
+    ],
+    "attention_drivers": [
+      "2026년 7월 올리브영 온라인·오프라인 선론칭 이후 노출이 확대됐고, 8월에는 올영픽 및 온·냉 사우나 기획 노출이 확인됩니다. ([fntoday.co.kr](https://www.fntoday.co.kr/news/articleView.html?idxno=387626))",
+      "출시 직후 올리브영 샤워·입욕 주간 랭킹에서 2026년 7월 27일~8월 2일 기준 5위, 리뷰 190건으로 집계됐으며, 바디 스크럽 2종 묶음도 6위에 올랐습니다. 이는 초기 유통 노출과 소비자 관심이 함께 발생했음을 시사하지만, 지속적 인기의 증거로 단정하기는 이릅니다. ([beauticslab.com](https://beauticslab.com/marketing/weekly-rankings/2026/31/body-wash))",
+      "온열감이 즉시 체감되고 후기·숏폼에서 시각적·언어적으로 설명하기 쉬운 ‘사우나 체험’ 콘셉트는 뷰티 크리에이터의 사용 장면 콘텐츠와 맞물릴 가능성이 있습니다. 다만 해당 특성 자체가 관심 증가의 직접 원인이라는 인과관계는 확인되지 않았습니다."
+    ],
+    "trend_connection": "바디케어가 단순 세정에서 각질 관리와 기분 전환을 결합한 홈스파 루틴으로 확장되는 흐름과 접점이 있습니다. 특히 온열감처럼 즉시 인지 가능한 감각적 사용 경험은 콘텐츠화에 유리할 수 있습니다. 실제로 올리브영은 본 제품을 온·냉 사우나 및 셀룰라이트 케어 키워드로 노출하고 있으나, 이는 유통·마케팅 키워드이며 장기적 트렌드 적합성을 보장하지는 않습니다. ([oliveyoung.co.kr](https://www.oliveyoung.co.kr/store/display/getMCategoryList.do?dispCatNo=1000001000300050002&t_banner_name=%EB%B0%94%EB%94%94%EC%8A%A4%ED%81%AC%EB%9F%BD&t_click=%EC%9B%90%EB%B0%B0%EB%84%88&t_number=9&t_page=%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EA%B4%80&trackingCd=Cat10000010003_Planshop3_PROD&utm_source=openai))",
+    "product_power_assessment": "제품력의 중심은 검증 가능한 ‘체감형 온열 사용감’과 스크럽 후 피부결 관리 경험입니다. 반복 구매는 피로한 날의 샤워를 홈스파 루틴으로 바꾸는 감각적 만족, 자극 부담이 낮은지 여부, 사용 후 건조함 여부에 달려 있습니다. 반면 셀룰라이트·바디 라인 개선은 소비자 체감과 공개 근거가 제한적이므로, 투자 관점에서는 해당 메시지보다 온열 스크럽의 재구매율·리뷰 증가 속도·자발 후기 비중을 추적하는 것이 타당합니다. ([fntoday.co.kr](https://www.fntoday.co.kr/news/articleView.html?idxno=387626))",
+    "confidence": "medium",
+    "research_comment": "이 제품의 대표적인 제품력은 물리적 바디 스크럽에 즉각 체감되는 온열감을 결합해 각질 관리와 홈사우나 감각을 동시에 제공하는 점입니다. 소비자는 피부가 매끈해지는 사용 후 감각과 피로한 날 목욕하는 듯한 휴식감을 좋아할 가능성이 있으나, 민감 피부에서는 열감·마찰에 따른 개별 반응을 확인할 필요가 있습니다. 최근 올리브영 선론칭과 올영픽·사우나 콘셉트 노출, 초기 랭킹 진입은 관심 확산과 맞물릴 수 있는 요인입니다. 투자 관점에서는 ‘라인핏’ 효능 주장보다 온열 경험의 자발 후기 전환, 3개월 이후 재구매율, 할인 종료 후 판매 지속성을 관찰해야 합니다. ([fntoday.co.kr](https://www.fntoday.co.kr/news/articleView.html?idxno=387626))",
+    "beauty_alpha_score": 60.6,
+    "momentum_score": 62,
+    "recent_creator_count": 3,
+    "new_creator_count": 3
+  },
+  {
+    "brand": "이니스프리",
+    "product": "노세범 미네랄 파우더",
+    "category_guess": "색조 메이크업·피니시용 루스 파우더",
+    "one_line_summary": "피지 흡수와 보송한 마무리, 메이크업 고정을 핵심으로 하는 저가형 다용도 루스 파우더로, 높은 누적 리뷰 기반의 스테디셀러 제품이다. ([innisfree.com](https://www.innisfree.com/kr/ko/dp/product/103551?rccode=mo_product_recommend1))",
+    "key_features": [
+      "실리카와 알루미늄전분옥테닐석시네이트 중심의 무색 루스 파우더 제형으로, 유분이 올라온 부위의 번들거림을 정리하고 매트한 표현을 지향한다. ([ssgdfs.com](https://www.ssgdfs.com/kr/goos/view/INNISFREE/None/None/260938000276))",
+      "공식 판매 페이지는 미세 입자감, 가벼운 사용감, 고른 밀착 및 메이크업 고정 용도를 제시한다. 다만 지속시간·모공 블러 효과의 정량적 시험 조건은 확인 부족이다. ([m.innisfree.com](https://m.innisfree.com/kr/ko/dp/product/34517?NaPm=ct%3Dme60sh2f%7Cci%3DER3aa3c7ba-7618-11f0-8bfe-0aececfc6c0a%7Ctr%3Dpla%7Chk%3D01856f353c18788f3ab2c5dd84907427eeab98ec%7Cnacn%3DqSkGBsg0unIa&n_ad=nad-a001-02-000000367596671&n_ad_group=grp-a001-02-000000012619027&n_ad_group_type=2&n_campaign_type=2&n_mall_id=innisfree0&n_mall_pid=34517&n_match=3&n_media=172112&n_query=%EB%85%B8%EC%84%B8%EB%B2%94%ED%8C%8C%EC%9A%B0%EB%8D%94&n_rank=6&n_sads=true&utm_source=openai))",
+      "얼굴 피니시 파우더뿐 아니라 헤어 유분 정리, 아이 프라이머, 스킨케어 후 보송한 마무리 등 다용도 사용법을 공식적으로 안내한다. ([innisfree.com](https://www.innisfree.com/kr/ko/dp/product/103551?rccode=mo_product_recommend1))",
+      "5g의 소용량 루스 타입과 퍼프 사용 방식으로 휴대 및 국소 수정화장에 적합한 구조다. ([ssgdfs.com](https://www.ssgdfs.com/kr/goos/view/INNISFREE/None/None/260938000276))",
+      "비건 인증 및 향료·탤크 등을 제외한 포뮬러를 표방하지만, 민감성 피부 대상 인체적용시험 또는 논코메도제닉 시험 여부는 확인 부족이다. ([m.innisfree.com](https://m.innisfree.com/kr/ko/dp/product/34517?NaPm=ct%3Dme60sh2f%7Cci%3DER3aa3c7ba-7618-11f0-8bfe-0aececfc6c0a%7Ctr%3Dpla%7Chk%3D01856f353c18788f3ab2c5dd84907427eeab98ec%7Cnacn%3DqSkGBsg0unIa&n_ad=nad-a001-02-000000367596671&n_ad_group=grp-a001-02-000000012619027&n_ad_group_type=2&n_campaign_type=2&n_mall_id=innisfree0&n_mall_pid=34517&n_match=3&n_media=172112&n_query=%EB%85%B8%EC%84%B8%EB%B2%94%ED%8C%8C%EC%9A%B0%EB%8D%94&n_rank=6&n_sads=true&utm_source=openai))"
+    ],
+    "key_ingredients": [
+      {
+        "ingredient": "실리카",
+        "role": "전성분 상 최상위 성분으로 확인되며, 일반적으로 흡유성과 보송한 사용감 형성에 쓰이는 파우더 원료다. ([ssgdfs.com](https://www.ssgdfs.com/kr/goos/view/INNISFREE/None/None/260938000276))"
+      },
+      {
+        "ingredient": "알루미늄전분옥테닐석시네이트",
+        "role": "전성분 상 두 번째 성분으로 확인되며, 일반적으로 유분 흡수와 제형의 산뜻한 감촉에 활용된다. ([ssgdfs.com](https://www.ssgdfs.com/kr/goos/view/INNISFREE/None/None/260938000276))"
+      },
+      {
+        "ingredient": "다이메티콘/비닐다이메티콘크로스폴리머",
+        "role": "실리콘 엘라스토머 계열 성분으로, 제형의 부드러운 감촉과 피부 표면을 매끈하게 보이게 하는 표현에 기여할 가능성이 있다. 제품 내 함량 및 단독 기여도는 확인 부족이다. ([ssgdfs.com](https://www.ssgdfs.com/kr/goos/view/INNISFREE/None/None/260938000276))"
+      },
+      {
+        "ingredient": "마이카",
+        "role": "파우더의 시각적·감각적 표현을 돕는 무기 안료/광물성 분체로 볼 수 있으나, 커버력이나 톤 보정 수준은 확인 부족이다. ([ssgdfs.com](https://www.ssgdfs.com/kr/goos/view/INNISFREE/None/None/260938000276))"
+      },
+      {
+        "ingredient": "미네랄솔트, 토코페롤",
+        "role": "전성분에는 포함되지만 각각의 배합 목적, 농도 및 완제품 효능에 대한 구체적 정보는 확인 부족이다. ([ssgdfs.com](https://www.ssgdfs.com/kr/goos/view/INNISFREE/None/None/260938000276))"
+      }
+    ],
+    "consumer_strengths": [
+      "낮은 진입가격: 공식 정상가 9,000원, 첫구매 프로모션가 4,500원으로 제시되어 시험 구매와 재구매 부담을 낮출 수 있다. ([innisfree.com](https://www.innisfree.com/kr/ko/dp/product/103551?rccode=mo_product_recommend1))",
+      "피부 톤을 크게 바꾸기보다 유분을 정리하는 투명 피니시 콘셉트여서, 색상 선택 부담이 적은 편이다. 다만 진한 피부 톤에서의 백탁 여부는 사용량·개인 피부 톤에 따라 달라질 수 있어 보편적 무백탁으로 단정하기 어렵다. ([us.innisfree.com](https://us.innisfree.com/products/no-sebum-matte-mineral-setting-powder?variant=40386205909094&utm_source=openai))",
+      "메이크업 마무리와 수정화장, 헤어 유분 정리까지 연결되는 다용도성은 한 제품을 여러 상황에 쓰려는 소비자에게 실용적 가치가 될 수 있다. ([innisfree.com](https://www.innisfree.com/kr/ko/dp/product/103551?rccode=mo_product_recommend1))",
+      "글로우픽에서 평점 4.35, 리뷰 19,902건 및 어워드 19회 수상으로 집계되고, 화해 파우더/팩트 랭킹에서도 상위권에 노출돼 제품 인지도와 사용 경험 축적을 뒷받침한다. ([glowpick.com](https://www.glowpick.com/products/861))"
+    ],
+    "review_signals": [
+      "소비자 플랫폼의 최근 후기는 가벼운 밀착감, 유분 정리, 보송한 마무리, 수정화장 편의성, 여러 번 덧발라도 비교적 뭉침이 적다는 점을 장점으로 언급한다. 이는 공식 효능과 별개인 소비자 체감 신호다. ([glowpick.com](https://www.glowpick.com/categories/8?ids=36&monthTerm=24))",
+      "신세계면세점 리뷰 집계에서는 50건 기준 평점 4.9이며, 응답자의 100%가 발림성이 좋다고 답한 것으로 표시된다. 표본 수가 작고 구매 채널 편향 가능성이 있어 전체 소비자 평가로 일반화하기는 어렵다. ([ssgdfs.com](https://www.ssgdfs.com/kr/goos/view/INNISFREE/None/None/260938000276))",
+      "반대로 건성 피부 리뷰에서는 과도하게 올리면 건조해질 수 있다는 의견이 확인된다. 따라서 강한 피지 흡수력은 건성·각질 부각 우려가 있는 소비자에게는 사용량 조절 포인트가 될 수 있다. ([sungyesa.com](https://sungyesa.com/beauty/18033))",
+      "장기 사용자 리뷰에서 '무난하게 파우더 역할을 한다'는 평가와 할인·캐릭터 협업 패키지를 재구매 계기로 언급한 사례가 있어, 극적인 차별화보다 일상적 신뢰성과 구매 자극 요소가 함께 작동할 가능성을 시사한다. ([sungyesa.com](https://sungyesa.com/beauty/18033))"
+    ],
+    "attention_drivers": [
+      "대규모 리뷰 자산과 장기간의 랭킹 노출이 신규 소비자의 탐색 비용을 낮추는 사회적 증거로 작용할 가능성이 있다. 글로우픽 루스파우더 랭킹에서 2위, 화해 파우더/팩트 랭킹에서 1위로 노출됐다. ([glowpick.com](https://www.glowpick.com/categories/8?ids=36&monthTerm=24))",
+      "여름철·고온 환경에서 번들거림과 메이크업 무너짐을 간단히 정리하려는 수요와 '피지 케어+수정화장' 기능이 맞물릴 가능성이 있다. 다만 해당 특성이 최근 관심 증가의 직접 원인이라는 인과관계는 확인되지 않았다. ([innisfree.com](https://www.innisfree.com/kr/ko/dp/product/103551?rccode=mo_product_recommend1))",
+      "소형·저가·다용도라는 콘텐츠 친화적 속성은 뷰티 크리에이터의 메이크업 픽서, 헤어 파우더 등 활용 팁 콘텐츠에 적합할 수 있다. 그러나 최근 특정 크리에이터의 확산 또는 바이럴 규모를 뒷받침할 신뢰도 높은 데이터는 확인 부족이다.",
+      "리뉴얼 제품이라는 점과 캐릭터 협업 패키지에 대한 소비자 언급은 재탐색을 유도할 수 있는 요인이다. 다만 협업이 판매 확대에 미친 효과는 확인 부족이다. ([glowpick.com](https://www.glowpick.com/products/861))"
+    ],
+    "trend_connection": "최근 피니시 파우더 시장에서는 두꺼운 커버보다 가벼운 피부 표현, 유분 컨트롤, 휴대용 수정화장 편의성이 경쟁 포인트로 관찰된다. 이 제품은 미세 루스 파우더·피지 흡수·다용도 사용법으로 이 흐름과 접점이 있으나, 특정 트렌드가 본 제품의 최근 판매 또는 관심을 직접 견인했다는 증거는 확인 부족이다. ([m.innisfree.com](https://m.innisfree.com/kr/ko/dp/product/34517?NaPm=ct%3Dme60sh2f%7Cci%3DER3aa3c7ba-7618-11f0-8bfe-0aececfc6c0a%7Ctr%3Dpla%7Chk%3D01856f353c18788f3ab2c5dd84907427eeab98ec%7Cnacn%3DqSkGBsg0unIa&n_ad=nad-a001-02-000000367596671&n_ad_group=grp-a001-02-000000012619027&n_ad_group_type=2&n_campaign_type=2&n_mall_id=innisfree0&n_mall_pid=34517&n_match=3&n_media=172112&n_query=%EB%85%B8%EC%84%B8%EB%B2%94%ED%8C%8C%EC%9A%B0%EB%8D%94&n_rank=6&n_sads=true&utm_source=openai))",
+    "product_power_assessment": "제품력의 중심은 스킨케어 효능이 아니라 흡유 분체 기반의 즉각적 보송 마무리, 가벼운 피니시, 수정화장 편의성이다. 성분 구성이 비교적 단순하고 가격 접근성이 높아 지성·복합성 소비자의 일상 소모품 및 입문용 파우더로 반복 구매를 유도할 여지가 있다. 반면 색상 보정·고커버·장시간 지속의 정량 검증, 민감성 및 트러블성 피부 적합성, 모공 막힘 관련 검증은 확인 부족이며, 건성 피부에서는 과사용 시 건조감이 리스크다. ([ssgdfs.com](https://www.ssgdfs.com/kr/goos/view/INNISFREE/None/None/260938000276))",
+    "confidence": "medium",
+    "research_comment": "대표 제품력은 실리카와 알루미늄전분옥테닐석시네이트 기반의 유분 정리, 보송한 피니시, 메이크업 고정 및 수정화장 편의성이다. 소비자는 낮은 가격, 작은 휴대성, 가벼운 사용감과 다용도 활용성을 선호할 가능성이 높으며, 실제 리뷰에서도 유분 컨트롤과 보송한 마무리가 반복적으로 언급된다. 최근 파우더 랭킹 상위 노출과 리뉴얼·협업 패키지는 관심 확산과 맞물릴 수 있으나, 이것이 관심 증가의 직접 원인이라고 단정할 근거는 부족하다. 투자 관점에서는 할인 의존도를 제외한 정상가 재구매율, 리뉴얼 후 평점 변화, 지성 외 건성·다양한 피부 톤에서의 불만 비중, 그리고 다용도 사용 콘텐츠의 실제 전환력을 관찰할 필요가 있다. ([hwahae.co.kr](https://www.hwahae.co.kr/rankings?english_name=category&theme_id=4333))",
+    "beauty_alpha_score": 60.1,
+    "momentum_score": 62.0,
+    "recent_creator_count": 3,
+    "new_creator_count": 3
+  },
+  {
+    "brand": "이니스프리",
+    "product": "레티놀 시카 모공 흔적 앰플",
+    "category_guess": "스킨케어 기능성 앰플/세럼(모공·피부결·색소침착 흔적 케어 소구)",
+    "one_line_summary": "레티놀 3종 복합체와 시카 진정 콘셉트를 결합해 모공·피부결·흔적 고민을 겨냥한, 데일리 레티놀 입문 수요에 적합한 저자극 지향 앰플입니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))",
+    "key_features": [
+      "업그레이드 제품 기준 3X 레티놀 컴플렉스 1%를 내세우며, 레티놀 1,000IU/g·레틴알 0.005%·하이드록시피나콜론레티노에이트 0.005%의 조합이 확인됩니다. 다만 전체 1%가 각 레티노이드의 단순 합산 농도를 뜻하는지는 공식 자료만으로 확인 부족입니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))",
+      "3X CICA™ 및 리포좀 기술을 적용해 레티놀 사용 시 부담을 낮추는 방향으로 설계됐다고 브랜드가 설명합니다. 다만 업그레이드 제품의 시카 복합체별 정확한 INCI와 배합 농도는 확인 부족입니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))",
+      "주름 개선·미백 2중 기능성 제품으로 표기되며, 공식 시험에서는 모공 부피·수·면적·깊이·밀도 관련 개선을 제시합니다. 해당 모공 개선 수치는 일시적 효과 기준이므로 장기적 구조 개선으로 해석하기는 어렵습니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))",
+      "기존 판매 성분표 기준으로 나이아신아마이드, 알란토인, 세라마이드NP, 히알루론산, 베타글루칸, 피토스핑고신, 콜레스테롤 등을 포함해 보습 및 피부장벽 보조 성분 구성을 갖췄습니다. 업그레이드판의 최종 전성분은 구매 패키지 확인이 필요합니다. ([ssg.com](https://www.ssg.com/item/itemView.ssg?itemId=1000614410937))",
+      "낮과 밤 사용을 안내하지만, 레티놀 특성상 낮 사용 시 자외선 차단제를 병용해야 하며 민감 피부는 사용 빈도를 낮추거나 보습 제품과 병용할 필요가 있습니다. ([innisfree.jp](https://www.innisfree.jp/products/retinol-cica-repair-ampoule-1687?utm_source=openai))"
+    ],
+    "key_ingredients": [
+      {
+        "ingredient": "레티놀",
+        "role": "제품의 핵심 레티노이드 성분으로 피부결·각질·모공 및 주름 개선 기능성 소구의 중심 성분입니다. 업그레이드 제품 표기 농도는 1,000IU/g입니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))"
+      },
+      {
+        "ingredient": "레틴알(레티날)",
+        "role": "업그레이드된 3X 레티놀 컴플렉스 구성 성분으로 0.005% 표기입니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))"
+      },
+      {
+        "ingredient": "하이드록시피나콜론레티노에이트(HPR)",
+        "role": "업그레이드된 3X 레티놀 컴플렉스 구성 성분으로 0.005% 표기입니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))"
+      },
+      {
+        "ingredient": "3X CICA™",
+        "role": "레티놀과 함께 진정 방향성을 강화한 브랜드 고유 복합체입니다. 신제품의 세부 개별 성분 및 농도는 공식 공개 자료에서 확인 부족입니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))"
+      },
+      {
+        "ingredient": "나이아신아마이드",
+        "role": "기존 판매 성분표상 상위권에 배치된 성분으로, 미백 기능성 및 피부 톤·피지 균형 관련 제품 소구를 보조하는 구성입니다. 기존 제품 표기상 2%였으나 업그레이드 제품의 동일 농도 여부는 확인 부족입니다. ([innisfree.com](https://www.innisfree.com/kr/ko/dp/product/101947?rccode=mo_product_recommend2))"
+      },
+      {
+        "ingredient": "세라마이드NP·콜레스테롤·피토스핑고신",
+        "role": "기존 성분표에서 확인되는 지질계 보습·피부장벽 보조 성분 조합입니다. ([ssg.com](https://www.ssg.com/item/itemView.ssg?itemId=1000614410937))"
+      }
+    ],
+    "consumer_strengths": [
+      "소비자 리뷰에서는 묽거나 과도하게 되직하지 않은 제형, 빠른 흡수, 사용 후 강한 끈적임이 적다는 평가가 반복적으로 관찰됩니다. 이는 공식 저자극·데일리 사용 콘셉트와 별개로 실제 사용 편의성 측면의 강점입니다. ([glowpick.com](https://www.glowpick.com/brands/186?cate1Id=1&monthTerm=24&utm_source=openai))",
+      "레티놀 첫 사용자가 접근하기 좋은 제품이라는 평가와, 민감 피부에서도 큰 자극 없이 사용했다는 후기가 다수 보입니다. 다만 이는 개인 피부 상태와 사용 빈도에 따라 달라지는 소비자 경험입니다. ([v3.glowpick.com](https://v3.glowpick.com/products/150754?utm_source=openai))",
+      "드라마틱한 흔적 제거보다 피부결이 매끈해 보이거나 전반적인 피부 컨디션이 정돈된다는 평가가 나타나, 즉각적인 사용감 만족이 반복 구매 동인이 될 가능성이 있습니다. ([glowpick.com](https://www.glowpick.com/categories/3?ids=14&monthTerm=24&utm_source=openai))"
+    ],
+    "review_signals": [
+      "글로우픽의 기존 제품 페이지에서는 1,555건 기준 평점 4.27점으로 집계됐으며, 최근 리뷰에서도 발림성·흡수·비끈적 사용감에 대한 긍정 의견이 확인됩니다. 다만 리뉴얼 전후 제품 리뷰가 혼재될 수 있어 신제품 성과로 단순 환산하기는 어렵습니다. ([v3.glowpick.com](https://v3.glowpick.com/products/150754?utm_source=openai))",
+      "부정 신호도 분명합니다. 일부 민감성 소비자는 따가움, 붉어짐, 각질 벗겨짐 또는 장벽 부담을 언급했으며, 사용 주기 조절이나 크림과의 병용이 필요했다는 후기가 있습니다. ([glowpick.com](https://www.glowpick.com/brands/186?cate1Id=1&monthTerm=24&utm_source=openai))",
+      "색소침착 흔적 또는 여드름 흔적 개선은 개인차가 크고, 일부 리뷰에서는 뚜렷한 개선을 체감하지 못했다는 의견도 확인됩니다. 따라서 '흔적 개선'보다 피부결 관리와 데일리 레티놀 적응 경험이 상대적으로 일관된 후기 신호입니다. ([v3.glowpick.com](https://v3.glowpick.com/products/150754?utm_source=openai))",
+      "공식 페이지의 민감 피부 자극 반응도 0.00 및 적합성 시험 완료는 제품 설계의 근거이나, 모든 소비자에게 무자극을 보장하는 의미는 아닙니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))"
+    ],
+    "attention_drivers": [
+      "2026년 업그레이드에서 레티놀을 단일 성분이 아닌 레티놀·레틴알·HPR의 3종 조합으로 전면에 내세우고, 모공과 색소침착 흔적을 함께 겨냥한 메시지를 강화했습니다. 이는 성분 비교와 피부결 변화를 콘텐츠화하는 뷰티 크리에이터 관점에서 설명력이 있는 소재입니다. 다만 실제 크리에이터의 관심 증가를 직접 입증하는 자료는 확인 부족입니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))",
+      "브랜드 발표 기준 2021년 9월부터 2026년 4월까지 국내외 누적 판매량은 약 796만 개이며, 기존 제품의 높은 인지도와 레티놀 입문 제품 포지셔닝이 리뉴얼 제품 탐색 수요로 이어질 가능성이 있습니다. 다만 판매량은 브랜드 발표 수치입니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))",
+      "올리브영에서 더블·리필 기획이 베스트 상품으로 노출되고 있으며, 외부 뷰티 커머스 집계에서도 앰플 더블 기획이 상위권에 관찰됩니다. 할인 및 대용량 기획은 신규 체험과 재구매 진입장벽을 낮추는 유통 요인으로 볼 수 있습니다. ([oliveyoung.co.kr](https://www.oliveyoung.co.kr/store/display/getBrandShopDetail.do?onlBrndCd=A003681&t_brand_name=%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC&t_click=%EB%B8%8C%EB%9E%9C%EB%93%9C%EA%B4%80_%EC%83%81%EB%8B%A8&t_page=%EC%83%81%ED%92%88%EC%83%81%EC%84%B8))",
+      "앰플을 중심으로 크림과 하이드로겔 마스크까지 라인을 확장해, 단품보다 루틴형 구매와 교차판매를 유도할 기반을 마련했습니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))"
+    ],
+    "trend_connection": "최근 스킨케어 시장의 관심사인 저자극 고기능성, 모공·피부결 관리, 트러블 흔적 케어, 레티놀 입문 수요와 맞물릴 가능성이 있습니다. 특히 여러 레티노이드와 시카·보습 보조 성분을 함께 제시하는 구조는 '효능 성분은 쓰고 싶지만 자극은 우려하는' 소비자 니즈에 부합할 여지가 있습니다. 다만 이 특성 자체가 최근 관심 확산의 직접 원인이라고 단정할 수는 없으며, 리뉴얼·프로모션·유통 노출의 영향도 함께 고려해야 합니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))",
+    "product_power_assessment": "제품력의 핵심은 다중 레티노이드 조합, 시카 진정 콘셉트, 나이아신아마이드 및 장벽 보조 성분 기반, 가벼운 사용감의 결합입니다. 강한 단기 흔적 개선을 기대하는 소비자보다 모공·피부결 관리 목적의 저빈도 데일리 레티놀 사용자에게 적합성이 높아 보입니다. 투자 관점에서는 높은 할인 의존도 없이도 리필·더블 기획의 재구매율이 유지되는지, 리뉴얼 후 자극 관련 부정 리뷰가 증가하는지, 앰플-크림-마스크 간 세트 구매가 확대되는지를 관찰할 필요가 있습니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))",
+    "confidence": "medium",
+    "research_comment": "대표 제품력은 레티놀·레틴알·HPR의 3종 레티노이드 조합과 시카 진정 콘셉트를 함께 설계한 점이며, 모공·피부결·색소침착 흔적을 복합적으로 소구한다는 데 있습니다. 소비자 후기에서는 빠른 흡수와 낮은 끈적임, 피부결이 매끈해 보이는 사용감이 반복적으로 언급돼 일상 사용 및 반복 구매의 기반이 될 수 있습니다. 최근 리뉴얼, 올리브영 더블·리필 기획, 레티놀 입문 수요와 맞물려 관심이 이어질 가능성이 있으나, 실제 관심 확대의 단일 원인으로 보기는 어렵습니다. 투자 관점에서는 프로모션 이후의 정상가 재구매, 민감 피부 자극 관련 후기 추이, 라인 확장에 따른 객단가 상승 여부를 관찰해야 합니다. ([stories.amorepacific.com](https://stories.amorepacific.com/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%EB%A0%88%ED%8B%B0%EB%86%80-%EC%8B%9C%EC%B9%B4-%EB%AA%A8%EA%B3%B5-%ED%9D%94%EC%A0%81-%EC%95%B0%ED%94%8C-%EC%97%85%EA%B7%B8%EB%A0%88/))",
+    "beauty_alpha_score": 60.1,
+    "momentum_score": 62.0,
+    "recent_creator_count": 3,
+    "new_creator_count": 3
+  }
+]

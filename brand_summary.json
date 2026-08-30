@@ -1,0 +1,494 @@
+[
+  {
+    "brand": "투슬래시포",
+    "total_mentions": 6,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 6,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "스컬프트 립 쉐이퍼 - 인모브",
+      "클라우드 립 칠러 - 로지듄",
+      "클라우드 립 칠러 - 신더모브",
+      "클라우드 립 칠러 - 칠누드"
+    ]
+  },
+  {
+    "brand": "글린트",
+    "total_mentions": 3,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 3,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "하이라이터 EX - 밀키오로라",
+      "하이라이터 EX - 실키문"
+    ]
+  },
+  {
+    "brand": "넘버즈인",
+    "total_mentions": 3,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 1,
+    "no_exposure_obligation": 1,
+    "unclear": 1,
+    "video_count": 3,
+    "products": [
+      "1번 판토텐산 스킨케어100 블러파우더",
+      "3번 매끈결 PHA 프렙 버블팩"
+    ]
+  },
+  {
+    "brand": "삐아",
+    "total_mentions": 3,
+    "direct_purchase": 0,
+    "product_provided": 3,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "라스트 벨벳 틴트 생기갑",
+      "아이&치크 프라이머 밤 여리밤",
+      "오 스테이 컨실러 21 라이트"
+    ]
+  },
+  {
+    "brand": "페리페라",
+    "total_mentions": 2,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 2,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "맑게 물든 선샤인 치크 - 토스트 굽굽해",
+      "잉크 포켓 섀도우 팔레트 - 산지직송가을냄새"
+    ]
+  },
+  {
+    "brand": "이니스프리",
+    "total_mentions": 2,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 2,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "레티놀 시카 모공 흔적 앰플",
+      "레티놀 시카 모공 흔적 크림"
+    ]
+  },
+  {
+    "brand": "모렛",
+    "total_mentions": 2,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 2,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "뷰파인더 섀도우 팔레트 - 포엠클래스",
+      "슬릭 핏 블러셔 - 오운헤이지"
+    ]
+  },
+  {
+    "brand": "웨이크메이크",
+    "total_mentions": 2,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 2,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "글레이즈 픽싱 글로스 - 너티튜드",
+      "소프트 블러링 아이팔레트 - 클래시 누드 블러링"
+    ]
+  },
+  {
+    "brand": "컬러그램",
+    "total_mentions": 2,
+    "direct_purchase": 0,
+    "product_provided": 1,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 1,
+    "unclear": 0,
+    "video_count": 2,
+    "products": [
+      "음영 창조 라이너 70% 그레이브라운",
+      "포켓링 아이팔레트 - 슴슴누디"
+    ]
+  },
+  {
+    "brand": "네이밍",
+    "total_mentions": 2,
+    "direct_purchase": 0,
+    "product_provided": 1,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 1,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "제로 그래비티 커버업 쿠션 19N",
+      "플러피 파우더 블러쉬 트라이엄프"
+    ]
+  },
+  {
+    "brand": "뮤드",
+    "total_mentions": 2,
+    "direct_purchase": 0,
+    "product_provided": 2,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "스키니 브로우 카라 티라떼",
+      "스키니 컬링 마스카라 딥 허브"
+    ]
+  },
+  {
+    "brand": "릴리바이레드",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 1,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "러브빔 치크밤 - 발그레빔"
+    ]
+  },
+  {
+    "brand": "일리윤",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 1,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "세라마이드 아토 선로션"
+    ]
+  },
+  {
+    "brand": "토르홉",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 1,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "바디스크럽 - 라이카 민트 쿨링"
+    ]
+  },
+  {
+    "brand": "블랑네이처",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 1,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "아크네 클렌징폼"
+    ]
+  },
+  {
+    "brand": "이너생각",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 1,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "밸런싱 페미닌 휩드 워시"
+    ]
+  },
+  {
+    "brand": "아비브",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 1,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "글로우 콜라겐 마스크 글루타치온 필름"
+    ]
+  },
+  {
+    "brand": "솔티스",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 1,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "눈 프로텍션 프로 S3 - 20 캡슐"
+    ]
+  },
+  {
+    "brand": "락토핏",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 1,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "다이어트 60포"
+    ]
+  },
+  {
+    "brand": "로지킴",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 1,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "PDRN 틴티드 립 앰플 - 심리스"
+    ]
+  },
+  {
+    "brand": "릴바레",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 1,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": []
+  },
+  {
+    "brand": "렌시스",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 1,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "밀키블랙M 1개월용"
+    ]
+  },
+  {
+    "brand": "에뛰드",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 1,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "컨트롤 슬라이드 브로우 더스티토프"
+    ]
+  },
+  {
+    "brand": "AOU",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 1,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "가루날림 쉐딩 토프핑"
+    ]
+  },
+  {
+    "brand": "롬앤",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 1,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "미피 베러 댄 아이즈 말린데이지"
+    ]
+  },
+  {
+    "brand": "투크",
+    "total_mentions": 1,
+    "direct_purchase": 1,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "워터프루프 슬림 아이라이너 투크베이지"
+    ]
+  },
+  {
+    "brand": "코링코",
+    "total_mentions": 1,
+    "direct_purchase": 1,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "톡톡하라 노글루 속눈썹 퓨어라이트"
+    ]
+  },
+  {
+    "brand": "클리오",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 1,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "킬 래쉬 수퍼프루프 마스카라 뮤트얼그레이"
+    ]
+  },
+  {
+    "brand": "이더앤",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 1,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "멀티 글림바"
+    ]
+  },
+  {
+    "brand": "하트퍼센트",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 1,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "도트 온 무드 립펜슬 살몬베이지"
+    ]
+  },
+  {
+    "brand": "포트레",
+    "total_mentions": 1,
+    "direct_purchase": 0,
+    "product_provided": 1,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "소프트 데생 듀오 쿨듀오"
+    ]
+  },
+  {
+    "brand": "더샘",
+    "total_mentions": 1,
+    "direct_purchase": 1,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "video_count": 1,
+    "products": [
+      "커버 퍼펙션 팁 컨실러 클리어베이지"
+    ]
+  }
+]

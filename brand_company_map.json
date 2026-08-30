@@ -1,0 +1,101 @@
+{
+  "닥터엘시아": {
+    "operator": "미확인",
+    "parent_company": "미확인",
+    "listed_company": "미확인",
+    "ticker": "",
+    "market": "",
+    "relation_type": "브랜드 운영사",
+    "verified": false
+  },
+
+  "토르홉": {
+    "operator": "미확인",
+    "parent_company": "미확인",
+    "listed_company": "미확인",
+    "ticker": "",
+    "market": "",
+    "relation_type": "브랜드 운영사",
+    "verified": false
+  },
+
+  "웨이크메이크": {
+    "operator": "CJ올리브영",
+    "parent_company": "CJ",
+    "listed_company": "CJ",
+    "ticker": "001040",
+    "market": "KOSPI",
+    "relation_type": "브랜드/유통 계열",
+    "verified": false
+  },
+
+  "이니스프리": {
+    "operator": "이니스프리",
+    "parent_company": "아모레퍼시픽그룹",
+    "listed_company": "아모레퍼시픽",
+    "ticker": "090430",
+    "market": "KOSPI",
+    "relation_type": "브랜드 계열",
+    "verified": true
+  },
+
+  "입큰": {
+    "operator": "미확인",
+    "parent_company": "미확인",
+    "listed_company": "미확인",
+    "ticker": "",
+    "market": "",
+    "relation_type": "브랜드 운영사",
+    "verified": false
+  },
+
+  "라네즈": {
+    "operator": "아모레퍼시픽",
+    "parent_company": "아모레퍼시픽그룹",
+    "listed_company": "아모레퍼시픽",
+    "ticker": "090430",
+    "market": "KOSPI",
+    "relation_type": "직접 브랜드",
+    "verified": true
+  },
+
+  "에뛰드": {
+    "operator": "에뛰드",
+    "parent_company": "아모레퍼시픽그룹",
+    "listed_company": "아모레퍼시픽",
+    "ticker": "090430",
+    "market": "KOSPI",
+    "relation_type": "브랜드 계열",
+    "verified": true
+  },
+
+  "스튜디오17": {
+    "operator": "미확인",
+    "parent_company": "미확인",
+    "listed_company": "미확인",
+    "ticker": "",
+    "market": "",
+    "relation_type": "브랜드 운영사",
+    "verified": false
+  },
+
+  "어바웃톤": {
+    "operator": "미확인",
+    "parent_company": "미확인",
+    "listed_company": "미확인",
+    "ticker": "",
+    "market": "",
+    "relation_type": "브랜드 운영사",
+    "verified": false
+  },
+
+  "일리윤": {
+    "operator": "아모레퍼시픽",
+    "parent_company": "아모레퍼시픽그룹",
+    "listed_company": "아모레퍼시픽",
+    "ticker": "090430",
+    "market": "KOSPI",
+    "relation_type": "직접 브랜드",
+    "verified": true
+  }
+}

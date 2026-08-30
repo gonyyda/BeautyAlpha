@@ -1,0 +1,48 @@
+[
+  {
+    "company": "아모레퍼시픽",
+    "company_exposure_score": 70.1,
+    "brand_count": 3,
+    "brands": [
+      {
+        "brand": "이니스프리",
+        "beauty_alpha_score": 60.1,
+        "verified": true
+      },
+      {
+        "brand": "라네즈",
+        "beauty_alpha_score": 50.9,
+        "verified": true
+      },
+      {
+        "brand": "에뛰드",
+        "beauty_alpha_score": 44.2,
+        "verified": true
+      }
+    ],
+    "tickers": [
+      "090430"
+    ],
+    "markets": [
+      "KOSPI"
+    ]
+  },
+  {
+    "company": "CJ",
+    "company_exposure_score": 59.9,
+    "brand_count": 1,
+    "brands": [
+      {
+        "brand": "웨이크메이크",
+        "beauty_alpha_score": 59.9,
+        "verified": false
+      }
+    ],
+    "tickers": [
+      "001040"
+    ],
+    "markets": [
+      "KOSPI"
+    ]
+  }
+]

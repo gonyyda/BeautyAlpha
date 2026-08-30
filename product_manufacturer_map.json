@@ -1,0 +1,64 @@
+{
+  "닥터엘시아": {
+    "345 릴리프 크림": [
+      {
+        "manufacturer": "한국콜마",
+        "ticker": "161890",
+        "market": "KOSPI",
+        "relation_type": "제조업자",
+        "verified": true
+      }
+    ]
+  },
+
+  "웨이크메이크": {
+    "브로우 쉐입 픽서": [
+      {
+        "manufacturer": "코스맥스",
+        "ticker": "192820",
+        "market": "KOSPI",
+        "relation_type": "일부 옵션 제조",
+        "verified": true
+      },
+      {
+        "manufacturer": "나우코스",
+        "ticker": "",
+        "market": "",
+        "relation_type": "일부 옵션 제조",
+        "verified": true
+      }
+    ]
+  },
+
+  "일리윤": {
+    "데일리 무기자차 선스틱": [
+      {
+        "manufacturer": "코스비전",
+        "ticker": "",
+        "market": "",
+        "relation_type": "제조업자",
+        "verified": true
+      }
+    ],
+
+    "튼살크림": [
+      {
+        "manufacturer": "코스비전",
+        "ticker": "",
+        "market": "",
+        "relation_type": "제조업자",
+        "verified": true
+      }
+    ],
+
+    "히알루론 모이스춰 수분크림": [
+      {
+        "manufacturer": "아모레퍼시픽",
+        "ticker": "090430",
+        "market": "KOSPI",
+        "relation_type": "자체 제조",
+        "verified": true
+      }
+    ]
+  }
+}

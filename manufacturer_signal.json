@@ -1,0 +1,30 @@
+[
+  {
+    "manufacturer": "한국콜마",
+    "manufacturer_signal_score": 60.2,
+    "brand_count": 1,
+    "brands": [
+      "닥터엘시아"
+    ],
+    "ticker": "161890",
+    "market": "KOSPI",
+    "products": [
+      {
+        "brand": "닥터엘시아",
+        "product": "345 릴리프 크림 미스트 기획세트",
+        "alpha_score": 75.2,
+        "relation_type": "제조업자",
+        "verified": true,
+        "contribution_score": 30.1
+      },
+      {
+        "brand": "닥터엘시아",
+        "product": "345 릴리프 크림 튜브링거 기획세트",
+        "alpha_score": 75.2,
+        "relation_type": "제조업자",
+        "verified": true,
+        "contribution_score": 30.1
+      }
+    ]
+  }
+]

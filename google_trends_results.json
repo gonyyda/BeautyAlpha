@@ -1,0 +1,82 @@
+[
+  {
+    "brand": "닥터엘시아",
+    "trend_available": true,
+    "recent_30_avg": 3.9,
+    "previous_30_avg": 3.3,
+    "trend_growth": 16.0,
+    "recent_peak": 18
+  },
+  {
+    "brand": "토르홉",
+    "trend_available": true,
+    "recent_30_avg": 3.3,
+    "previous_30_avg": 0.0,
+    "trend_growth": null,
+    "recent_peak": 100
+  },
+  {
+    "brand": "이니스프리",
+    "trend_available": true,
+    "recent_30_avg": 22.1,
+    "previous_30_avg": 8.9,
+    "trend_growth": 148.3,
+    "recent_peak": 60
+  },
+  {
+    "brand": "웨이크메이크",
+    "trend_available": true,
+    "recent_30_avg": 15.2,
+    "previous_30_avg": 0.0,
+    "trend_growth": null,
+    "recent_peak": 75
+  },
+  {
+    "brand": "입큰",
+    "trend_available": true,
+    "recent_30_avg": 33.0,
+    "previous_30_avg": 0.0,
+    "trend_growth": null,
+    "recent_peak": 100
+  },
+  {
+    "brand": "라네즈",
+    "trend_available": true,
+    "recent_30_avg": 8.2,
+    "previous_30_avg": 0.0,
+    "trend_growth": null,
+    "recent_peak": 37
+  },
+  {
+    "brand": "스튜디오17",
+    "trend_available": true,
+    "recent_30_avg": 5.8,
+    "previous_30_avg": 0.0,
+    "trend_growth": null,
+    "recent_peak": 100
+  },
+  {
+    "brand": "에뛰드",
+    "trend_available": true,
+    "recent_30_avg": 19.0,
+    "previous_30_avg": 13.0,
+    "trend_growth": 45.9,
+    "recent_peak": 51
+  },
+  {
+    "brand": "어바웃톤",
+    "trend_available": true,
+    "recent_30_avg": 7.4,
+    "previous_30_avg": 0.0,
+    "trend_growth": null,
+    "recent_peak": 28
+  },
+  {
+    "brand": "로지킴",
+    "trend_available": true,
+    "recent_30_avg": 1.6,
+    "previous_30_avg": 0.0,
+    "trend_growth": null,
+    "recent_peak": 12
+  }
+]

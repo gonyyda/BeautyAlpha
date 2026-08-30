@@ -1,0 +1,162 @@
+[
+  {
+    "company": "아모레퍼시픽",
+    "company_exposure_score": 150.3,
+    "brands": [
+      {
+        "brand": "이니스프리",
+        "alpha_score": 60.1,
+        "relation_type": "브랜드 계열",
+        "exposure_weight": 0.8,
+        "verified": true,
+        "contribution_score": 48.1
+      },
+      {
+        "brand": "라네즈",
+        "alpha_score": 50.9,
+        "relation_type": "직접 브랜드",
+        "exposure_weight": 0.8,
+        "verified": true,
+        "contribution_score": 40.7
+      },
+      {
+        "brand": "에뛰드",
+        "alpha_score": 44.2,
+        "relation_type": "브랜드 계열",
+        "exposure_weight": 0.7,
+        "verified": true,
+        "contribution_score": 30.9
+      },
+      {
+        "brand": "일리윤",
+        "alpha_score": 43.6,
+        "relation_type": "직접 브랜드",
+        "exposure_weight": 0.7,
+        "verified": true,
+        "contribution_score": 30.5
+      }
+    ],
+    "tickers": [
+      "090430"
+    ],
+    "markets": [
+      "KOSPI"
+    ]
+  },
+  {
+    "company": "더퓨어랩",
+    "company_exposure_score": 75.2,
+    "brands": [
+      {
+        "brand": "닥터엘시아",
+        "alpha_score": 75.2,
+        "relation_type": "브랜드 운영사",
+        "exposure_weight": 1.0,
+        "verified": true,
+        "contribution_score": 75.2
+      }
+    ],
+    "tickers": [],
+    "markets": []
+  },
+  {
+    "company": "모도그로브",
+    "company_exposure_score": 60.6,
+    "brands": [
+      {
+        "brand": "토르홉",
+        "alpha_score": 60.6,
+        "relation_type": "브랜드 운영사",
+        "exposure_weight": 1.0,
+        "verified": true,
+        "contribution_score": 60.6
+      }
+    ],
+    "tickers": [],
+    "markets": []
+  },
+  {
+    "company": "CJ올리브영",
+    "company_exposure_score": 59.9,
+    "brands": [
+      {
+        "brand": "웨이크메이크",
+        "alpha_score": 59.9,
+        "relation_type": "Private Brand 운영",
+        "exposure_weight": 1.0,
+        "verified": true,
+        "contribution_score": 59.9
+      }
+    ],
+    "tickers": [],
+    "markets": []
+  },
+  {
+    "company": "이넬화장품",
+    "company_exposure_score": 57.4,
+    "brands": [
+      {
+        "brand": "입큰",
+        "alpha_score": 57.4,
+        "relation_type": "브랜드 운영사",
+        "exposure_weight": 1.0,
+        "verified": true,
+        "contribution_score": 57.4
+      }
+    ],
+    "tickers": [],
+    "markets": []
+  },
+  {
+    "company": "더비코",
+    "company_exposure_score": 47.2,
+    "brands": [
+      {
+        "brand": "스튜디오17",
+        "alpha_score": 47.2,
+        "relation_type": "브랜드 운영사",
+        "exposure_weight": 1.0,
+        "verified": true,
+        "contribution_score": 47.2
+      }
+    ],
+    "tickers": [],
+    "markets": []
+  },
+  {
+    "company": "삐아",
+    "company_exposure_score": 43.8,
+    "brands": [
+      {
+        "brand": "어바웃톤",
+        "alpha_score": 43.8,
+        "relation_type": "브랜드 운영사",
+        "exposure_weight": 1.0,
+        "verified": true,
+        "contribution_score": 43.8
+      }
+    ],
+    "tickers": [],
+    "markets": []
+  },
+  {
+    "company": "CJ",
+    "company_exposure_score": 7.5,
+    "brands": [
+      {
+        "brand": "웨이크메이크",
+        "alpha_score": 59.9,
+        "relation_type": "그룹 지배구조 연계",
+        "exposure_weight": 0.25,
+        "verified": false,
+        "contribution_score": 7.5
+      }
+    ],
+    "tickers": [
+      "001040"
+    ],
+    "markets": [
+      "KOSPI"
+    ]
+  }
+]

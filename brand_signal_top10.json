@@ -1,0 +1,363 @@
+[
+  {
+    "brand": "웨이크메이크",
+    "signal_score": 33,
+    "spread_status": "뷰티 전문군 중심",
+    "total_mentions": 4,
+    "unique_creator_count": 3,
+    "beauty_mentions": 4,
+    "mainstream_mentions": 0,
+    "beauty_creator_count": 3,
+    "mainstream_creator_count": 0,
+    "direct_purchase": 2,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 2,
+    "voluntary_mentions": 2,
+    "voluntary_ratio": 50.0,
+    "paid_ad_ratio": 0.0,
+    "creators": [
+      "디렉터파이",
+      "아랑",
+      "지냐"
+    ],
+    "beauty_creators": [
+      "디렉터파이",
+      "아랑",
+      "지냐"
+    ],
+    "mainstream_creators": [],
+    "products": [
+      "글레이즈 픽싱 글로스 - 너티튜드",
+      "소프트 블러링 아이팔레트 - 클래시 누드 블러링",
+      "스킨 퍼펙팅 커버 쿠션 / Skin Perfecting Cover Cushion",
+      "스테이 픽서 멀티 컬러 파우더 01 페일 클리어"
+    ]
+  },
+  {
+    "brand": "닥터엘시아",
+    "signal_score": 32,
+    "spread_status": "뷰티 전문군 + 대중 확산",
+    "total_mentions": 5,
+    "unique_creator_count": 3,
+    "beauty_mentions": 2,
+    "mainstream_mentions": 3,
+    "beauty_creator_count": 2,
+    "mainstream_creator_count": 1,
+    "direct_purchase": 1,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 1,
+    "unclear": 3,
+    "voluntary_mentions": 2,
+    "voluntary_ratio": 40.0,
+    "paid_ad_ratio": 0.0,
+    "creators": [
+      "민스코",
+      "박현지",
+      "아랑"
+    ],
+    "beauty_creators": [
+      "민스코",
+      "아랑"
+    ],
+    "mainstream_creators": [
+      "박현지"
+    ],
+    "products": [
+      "345 릴리프 세럼",
+      "345 릴리프 크림 미스트 기획세트",
+      "345 릴리프 크림 튜브링거 기획세트",
+      "스트레치칫 카밍 패드 50매",
+      "스트레치핏 카밍 패드 50매"
+    ]
+  },
+  {
+    "brand": "이니스프리",
+    "signal_score": 29,
+    "spread_status": "뷰티 전문군 중심",
+    "total_mentions": 4,
+    "unique_creator_count": 3,
+    "beauty_mentions": 4,
+    "mainstream_mentions": 0,
+    "beauty_creator_count": 3,
+    "mainstream_creator_count": 0,
+    "direct_purchase": 1,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 1,
+    "unclear": 2,
+    "voluntary_mentions": 2,
+    "voluntary_ratio": 50.0,
+    "paid_ad_ratio": 0.0,
+    "creators": [
+      "디렉터파이",
+      "민스코",
+      "지냐"
+    ],
+    "beauty_creators": [
+      "디렉터파이",
+      "민스코",
+      "지냐"
+    ],
+    "mainstream_creators": [],
+    "products": [
+      "노세범 미네랄 파우더",
+      "레티놀 시카 모공 흔적 앰플",
+      "레티놀 시카 모공 흔적 크림",
+      "포어 블러 파우더"
+    ]
+  },
+  {
+    "brand": "어바웃톤",
+    "signal_score": 28,
+    "spread_status": "뷰티 전문군 중심",
+    "total_mentions": 3,
+    "unique_creator_count": 3,
+    "beauty_mentions": 3,
+    "mainstream_mentions": 0,
+    "beauty_creator_count": 3,
+    "mainstream_creator_count": 0,
+    "direct_purchase": 1,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 2,
+    "voluntary_mentions": 1,
+    "voluntary_ratio": 33.3,
+    "paid_ad_ratio": 0.0,
+    "creators": [
+      "디렉터파이",
+      "레오제이",
+      "민스코"
+    ],
+    "beauty_creators": [
+      "디렉터파이",
+      "레오제이",
+      "민스코"
+    ],
+    "mainstream_creators": [],
+    "products": [
+      "블러 파우더 쉐딩 01 쿨 뮤트",
+      "블러 파우더 팩트 00 클리어",
+      "스킨 레이어 핏 블러셔"
+    ]
+  },
+  {
+    "brand": "라네즈",
+    "signal_score": 27,
+    "spread_status": "뷰티 전문군 + 대중 확산",
+    "total_mentions": 3,
+    "unique_creator_count": 2,
+    "beauty_mentions": 2,
+    "mainstream_mentions": 1,
+    "beauty_creator_count": 1,
+    "mainstream_creator_count": 1,
+    "direct_purchase": 2,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 1,
+    "voluntary_mentions": 2,
+    "voluntary_ratio": 66.7,
+    "paid_ad_ratio": 0.0,
+    "creators": [
+      "디렉터파이",
+      "박지현"
+    ],
+    "beauty_creators": [
+      "디렉터파이"
+    ],
+    "mainstream_creators": [
+      "박지현"
+    ],
+    "products": [
+      "네오 에센셜 블러링 피니시 파우더",
+      "네오 쿠션 더 매트",
+      "네오 파우더"
+    ]
+  },
+  {
+    "brand": "토르홉",
+    "signal_score": 24,
+    "spread_status": "뷰티 전문군 중심",
+    "total_mentions": 3,
+    "unique_creator_count": 3,
+    "beauty_mentions": 3,
+    "mainstream_mentions": 0,
+    "beauty_creator_count": 3,
+    "mainstream_creator_count": 0,
+    "direct_purchase": 0,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 1,
+    "unclear": 2,
+    "voluntary_mentions": 1,
+    "voluntary_ratio": 33.3,
+    "paid_ad_ratio": 0.0,
+    "creators": [
+      "레오제이",
+      "민스코",
+      "지냐"
+    ],
+    "beauty_creators": [
+      "레오제이",
+      "민스코",
+      "지냐"
+    ],
+    "mainstream_creators": [],
+    "products": [
+      "바디스크럽 - 라이카 민트 쿨링",
+      "사우난지앙 라인핏 바디 스크럽",
+      "사우난지앙 라인핏 바디 스크럽 200g"
+    ]
+  },
+  {
+    "brand": "투크",
+    "signal_score": 24,
+    "spread_status": "뷰티 전문군 중심",
+    "total_mentions": 2,
+    "unique_creator_count": 2,
+    "beauty_mentions": 2,
+    "mainstream_mentions": 0,
+    "beauty_creator_count": 2,
+    "mainstream_creator_count": 0,
+    "direct_purchase": 2,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "voluntary_mentions": 2,
+    "voluntary_ratio": 100.0,
+    "paid_ad_ratio": 0.0,
+    "creators": [
+      "디렉터파이",
+      "지냐"
+    ],
+    "beauty_creators": [
+      "디렉터파이",
+      "지냐"
+    ],
+    "mainstream_creators": [],
+    "products": [
+      "수채화 꽃잎 파우더 01 스프링그린",
+      "워터프루프 슬림 아이라이너 - 투크베이지"
+    ]
+  },
+  {
+    "brand": "힌스",
+    "signal_score": 24,
+    "spread_status": "뷰티 전문군 중심",
+    "total_mentions": 2,
+    "unique_creator_count": 2,
+    "beauty_mentions": 2,
+    "mainstream_mentions": 0,
+    "beauty_creator_count": 2,
+    "mainstream_creator_count": 0,
+    "direct_purchase": 2,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 0,
+    "voluntary_mentions": 2,
+    "voluntary_ratio": 100.0,
+    "paid_ad_ratio": 0.0,
+    "creators": [
+      "디렉터파이",
+      "아랑"
+    ],
+    "beauty_creators": [
+      "디렉터파이",
+      "아랑"
+    ],
+    "mainstream_creators": [],
+    "products": [
+      "누 글로우 화이트 쿠션 / Nu Glow White",
+      "세컨 스킨 에어리 파우더 01 라벤더"
+    ]
+  },
+  {
+    "brand": "블랑네이처",
+    "signal_score": 20,
+    "spread_status": "뷰티 전문군 중심",
+    "total_mentions": 2,
+    "unique_creator_count": 2,
+    "beauty_mentions": 2,
+    "mainstream_mentions": 0,
+    "beauty_creator_count": 2,
+    "mainstream_creator_count": 0,
+    "direct_purchase": 1,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 1,
+    "voluntary_mentions": 1,
+    "voluntary_ratio": 50.0,
+    "paid_ad_ratio": 0.0,
+    "creators": [
+      "아랑",
+      "지냐"
+    ],
+    "beauty_creators": [
+      "아랑",
+      "지냐"
+    ],
+    "mainstream_creators": [],
+    "products": [
+      "아크네 클렌징폼"
+    ]
+  },
+  {
+    "brand": "코링코",
+    "signal_score": 20,
+    "spread_status": "뷰티 전문군 중심",
+    "total_mentions": 2,
+    "unique_creator_count": 2,
+    "beauty_mentions": 2,
+    "mainstream_mentions": 0,
+    "beauty_creator_count": 2,
+    "mainstream_creator_count": 0,
+    "direct_purchase": 1,
+    "product_provided": 0,
+    "gift": 0,
+    "paid_ad": 0,
+    "co_developed": 0,
+    "no_exposure_obligation": 0,
+    "unclear": 1,
+    "voluntary_mentions": 1,
+    "voluntary_ratio": 50.0,
+    "paid_ad_ratio": 0.0,
+    "creators": [
+      "레오제이",
+      "지냐"
+    ],
+    "beauty_creators": [
+      "레오제이",
+      "지냐"
+    ],
+    "mainstream_creators": [],
+    "products": [
+      "톡톡하라 노글루 속눈썹 - 퓨어라이트",
+      "톡톡하라 노글루 속눈썹 이지컷"
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "닥터엘시아": [
+    {
+      "company": "더퓨어랩",
+      "ticker": "",
+      "market": "",
+      "relation_type": "브랜드 운영사",
+      "exposure_weight": 1.0,
+      "verified": true
+    }
+  ],
+
+  "토르홉": [
+    {
+      "company": "모도그로브",
+      "ticker": "",
+      "market": "",
+      "relation_type": "브랜드 운영사",
+      "exposure_weight": 1.0,
+      "verified": true
+    }
+  ],
+
+  "웨이크메이크": [
+    {
+      "company": "CJ올리브영",
+      "ticker": "",
+      "market": "",
+      "relation_type": "Private Brand 운영",
+      "exposure_weight": 1.0,
+      "verified": true
+    },
+    {
+      "company": "CJ",
+      "ticker": "001040",
+      "market": "KOSPI",
+      "relation_type": "그룹 지배구조 연계",
+      "exposure_weight": 0.25,
+      "verified": false
+    }
+  ],
+
+  "이니스프리": [
+    {
+      "company": "아모레퍼시픽",
+      "ticker": "090430",
+      "market": "KOSPI",
+      "relation_type": "브랜드 계열",
+      "exposure_weight": 0.8,
+      "verified": true
+    }
+  ],
+
+  "입큰": [
+    {
+      "company": "이넬화장품",
+      "ticker": "",
+      "market": "",
+      "relation_type": "브랜드 운영사",
+      "exposure_weight": 1.0,
+      "verified": true
+    }
+  ],
+
+  "라네즈": [
+    {
+      "company": "아모레퍼시픽",
+      "ticker": "090430",
+      "market": "KOSPI",
+      "relation_type": "직접 브랜드",
+      "exposure_weight": 0.8,
+      "verified": true
+    }
+  ],
+
+  "에뛰드": [
+    {
+      "company": "아모레퍼시픽",
+      "ticker": "090430",
+      "market": "KOSPI",
+      "relation_type": "브랜드 계열",
+      "exposure_weight": 0.7,
+      "verified": true
+    }
+  ],
+
+  "스튜디오17": [
+    {
+      "company": "더비코",
+      "ticker": "",
+      "market": "",
+      "relation_type": "브랜드 운영사",
+      "exposure_weight": 1.0,
+      "verified": true
+    }
+  ],
+
+  "어바웃톤": [
+    {
+      "company": "삐아",
+      "ticker": "",
+      "market": "",
+      "relation_type": "브랜드 운영사",
+      "exposure_weight": 1.0,
+      "verified": true
+    }
+  ],
+
+  "일리윤": [
+    {
+      "company": "아모레퍼시픽",
+      "ticker": "090430",
+      "market": "KOSPI",
+      "relation_type": "직접 브랜드",
+      "exposure_weight": 0.7,
+      "verified": true
+    }
+  ]
+}
