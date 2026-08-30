@@ -13,15 +13,47 @@ from openai import OpenAI
 
 load_dotenv()
 
-OPENAI_API_KEY = os.getenv(
+
+def get_secret(name):
+
+    # 1. 로컬 .env / 환경변수
+    value = os.getenv(name)
+
+    if value:
+        return value
+
+
+    # 2. Streamlit Cloud Secrets
+    try:
+
+        import streamlit as st
+
+        value = st.secrets.get(
+            name
+        )
+
+        if value:
+            return value
+
+    except Exception:
+        pass
+
+
+    return None
+
+
+OPENAI_API_KEY = get_secret(
     "OPENAI_API_KEY"
 )
 
+
 if not OPENAI_API_KEY:
+
     print(
         "OPENAI_API_KEY를 찾을 수 없습니다."
     )
-    exit()
+
+    raise SystemExit
 
 
 client = OpenAI(

@@ -14,11 +14,24 @@ from openai import OpenAI
 
 load_dotenv()
 
-youtube_api_key = os.getenv(
+def get_secret(name):
+    value = os.getenv(name)
+
+    if value:
+        return value
+
+    try:
+        import streamlit as st
+        return st.secrets.get(name)
+    except Exception:
+        return None
+
+
+youtube_api_key = get_secret(
     "YOUTUBE_API_KEY"
 )
 
-openai_api_key = os.getenv(
+openai_api_key = get_secret(
     "OPENAI_API_KEY"
 )
 
