@@ -14,6 +14,14 @@ RECENT_DAYS = 30
 PREVIOUS_DAYS = 30
 
 
+# creators.json 의 creator_type → 내부 분류
+CREATOR_TYPE_ALIASES = {
+    "KR_BEAUTY": "beauty",
+    "KR_MAINSTREAM": "mainstream",
+    "GLOBAL_BEAUTY_EN": "global_beauty"
+}
+
+
 # =========================================================
 # JSON 불러오기
 # =========================================================
@@ -240,6 +248,11 @@ for video in videos:
     creator_type = video.get(
         "creator_type",
         ""
+    )
+
+    creator_type = CREATOR_TYPE_ALIASES.get(
+        creator_type,
+        creator_type
     )
 
 
