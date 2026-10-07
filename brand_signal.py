@@ -6,7 +6,15 @@ from collections import defaultdict
 # 입력 파일
 # =========================================================
 
-input_file = "all_product_results.json"
+input_file = "all_product_results_60d.json"
+
+
+# creators.json 의 creator_type → 내부 분류
+CREATOR_TYPE_ALIASES = {
+    "KR_BEAUTY": "beauty",
+    "KR_MAINSTREAM": "mainstream",
+    "GLOBAL_BEAUTY_EN": "global_beauty"
+}
 
 with open(
     input_file,
@@ -61,6 +69,11 @@ for video in data:
         "creator_type",
         ""
     ).strip()
+
+    creator_type = CREATOR_TYPE_ALIASES.get(
+        creator_type,
+        creator_type
+    )
 
     video_title = video.get(
         "title",
