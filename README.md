@@ -46,10 +46,11 @@ py run_pipeline.py
 | --- | --- | --- | --- |
 | 1 | `all_creator_products.py` | YouTube 신규 영상 수집 + 제품 추출 | `all_product_results_60d.json` |
 | 2 | `momentum_signal.py` | Momentum Signal 계산 | `momentum_signal.json` |
-| 3 | `beauty_alpha_score.py` | Beauty Alpha Score 계산 | `beauty_alpha_top10.json` |
-| 4 | `google_trends_global.py` | Google Trends 글로벌 분석 | `google_trends_global.json` |
-| 5 | `company_exposure_score.py` | Company Exposure 계산 | `company_exposure_score.json` |
-| 6 | `manufacturer_signal.py` | Manufacturer Signal 계산 | `manufacturer_signal.json` |
-| 7 | `ai_research_commentary.py` | AI Research Commentary 업데이트 | `ai_research_commentary.json` |
+| 3 | `brand_signal.py` | Brand Signal 계산 | `brand_signal.json` |
+| 4 | `beauty_alpha_score.py` | Beauty Alpha Score 계산 | `beauty_alpha_top10.json` |
+| 5 | `google_trends_global.py` | Google Trends 글로벌 분석 | `google_trends_global.json` |
+| 6 | `company_exposure_score.py` | Company Exposure 계산 | `company_exposure_score.json` |
+| 7 | `manufacturer_signal.py` | Manufacturer Signal 계산 | `manufacturer_signal.json` |
+| 8 | `ai_research_commentary.py` | AI Research Commentary 업데이트 | `ai_research_commentary.json` |
 
 파이프라인이 끝난 뒤 Streamlit 앱을 새로고침하면 최신 결과가 반영됩니다.

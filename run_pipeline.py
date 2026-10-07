@@ -38,30 +38,36 @@ PIPELINE = [
 
     {
         "step": 3,
+        "title": "Brand Signal 계산",
+        "file": "brand_signal.py"
+    },
+
+    {
+        "step": 4,
         "title": "Beauty Alpha Score 계산",
         "file": "beauty_alpha_score.py"
     },
 
     {
-        "step": 4,
+        "step": 5,
         "title": "Google Trends 글로벌 분석",
         "file": "google_trends_global.py"
     },
 
     {
-        "step": 5,
+        "step": 6,
         "title": "Company Exposure 계산",
         "file": "company_exposure_score.py"
     },
 
     {
-        "step": 6,
+        "step": 7,
         "title": "Manufacturer Signal 계산",
         "file": "manufacturer_signal.py"
     },
 
     {
-        "step": 7,
+        "step": 8,
         "title": "AI Research Commentary 업데이트",
         "file": "ai_research_commentary.py"
     }
@@ -338,6 +344,10 @@ def main():
 
     print(
         "• momentum_signal.json"
+    )
+
+    print(
+        "• brand_signal.json"
     )
 
     print(
