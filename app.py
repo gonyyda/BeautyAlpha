@@ -7,6 +7,9 @@ import altair as alt
 import pandas as pd
 import streamlit as st
 
+import ui
+from run_pipeline import PIPELINE
+
 
 # =========================================================
 # PAGE CONFIG
@@ -17,6 +20,8 @@ st.set_page_config(
     page_icon="💄",
     layout="wide"
 )
+
+ui.inject_css()
 
 
 # =========================================================
@@ -417,8 +422,9 @@ def get_spread_text(
 
 with st.sidebar:
 
-    st.title(
-        "💄 BeautyAlpha"
+    st.markdown(
+        '<div class="ba-side-mark">Beauty<span>Alpha</span></div>',
+        unsafe_allow_html=True
     )
 
     st.caption(
@@ -428,12 +434,12 @@ with st.sidebar:
     st.divider()
 
     st.markdown(
-        "### ⚙️ 데이터"
+        "**데이터**"
     )
 
 
     update_button = st.button(
-        "🔄 전체 데이터 업데이트",
+        "전체 데이터 업데이트",
         use_container_width=True
     )
 
@@ -492,7 +498,7 @@ with st.sidebar:
 
             for step in range(
                 1,
-                8
+                len(PIPELINE) + 1
             ):
 
                 if (
@@ -504,12 +510,12 @@ with st.sidebar:
 
 
             progress.progress(
-                step_count / 7
+                step_count / len(PIPELINE)
             )
 
 
             status.write(
-                f"업데이트 진행 중 · {step_count}/7"
+                f"업데이트 진행 중 · {step_count}/{len(PIPELINE)}"
             )
 
 
@@ -556,20 +562,61 @@ with st.sidebar:
 # HEADER
 # =========================================================
 
-st.title(
-    "💄 BeautyAlpha"
-)
+hero_stats = []
 
-st.markdown(
-    "### Early Beauty Trend & Investment Signal"
-)
+if beauty_data:
 
-st.caption(
-    "크리에이터 언급 → 대중 확산 → 해외 확산 → 검색 관심 → "
-    "제품 경쟁력 → 관련 기업까지 연결해 초기 뷰티 트렌드를 탐색합니다."
-)
+    hero_stats.append(
+        {
+            "label": "현재 1위",
+            "value": beauty_data[0].get("brand", "-"),
+            "sub": f"Alpha {beauty_data[0].get('beauty_alpha_score', 0)}"
+        }
+    )
 
-st.divider()
+    new_entries = [
+        item.get("brand")
+        for item in beauty_data
+        if item.get("brand") not in previous_rank_dict
+    ]
+
+    hero_stats.append(
+        {
+            "label": "신규 진입",
+            "value": f"{len(new_entries)}개 브랜드",
+            "sub": " · ".join(new_entries[:2])
+        }
+    )
+
+    movers = [
+        (
+            get_score_change(
+                item.get("brand"),
+                item.get("beauty_alpha_score", 0)
+            ),
+            item.get("brand")
+        )
+        for item in beauty_data
+        if item.get("brand") in previous_score_dict
+    ]
+
+    if movers:
+
+        top_change, top_mover = max(movers)
+
+        if top_change > 0:
+
+            hero_stats.append(
+                {
+                    "label": "최대 상승",
+                    "value": top_mover,
+                    "sub": f"+{top_change}"
+                }
+            )
+
+ui.hero(
+    hero_stats
+)
 
 
 # =========================================================
@@ -578,9 +625,9 @@ st.divider()
 
 tab1, tab2, tab3 = st.tabs(
     [
-        "🔥 Market Pulse",
-        "🌍 Global Signal",
-        "🏢 Investment Exposure"
+        "Market Pulse",
+        "Global Signal",
+        "Investment Exposure"
     ]
 )
 
@@ -595,171 +642,100 @@ with tab1:
     # TOP 3
     # =====================================================
 
-    st.subheader(
-        "🔥 지금 주목할 브랜드"
-    )
-
-    st.caption(
+    ui.section(
+        "지금 주목할 브랜드",
         "최근 크리에이터 확산 속도와 BeautyAlpha Score가 높은 브랜드"
     )
 
 
-    top3 = beauty_data[:3]
+    ranking_rows = []
 
+    for rank, item in enumerate(
+        beauty_data,
+        start=1
+    ):
 
-    if top3:
-
-        cols = st.columns(
-            len(top3)
+        brand = item.get(
+            "brand",
+            "-"
         )
 
+        score = item.get(
+            "beauty_alpha_score",
+            0
+        )
 
-        medals = [
-            "🥇",
-            "🥈",
-            "🥉"
-        ]
-
-
-        for i, item in enumerate(
-            top3
-        ):
-
-            brand = item.get(
-                "brand",
-                "-"
-            )
-
-            rank = i + 1
-
-            score = item.get(
-                "beauty_alpha_score",
-                0
-            )
-
-            score_change = get_score_change(
-                brand,
-                score
-            )
-
-            rank_change = get_rank_change(
-                brand,
-                rank
-            )
-
-
-            with cols[i]:
-
-                st.markdown(
-                    f"### {medals[i]} {brand}"
-                )
-
-                st.caption(
-                    rank_change
-                )
-
-                st.metric(
-                    "Beauty Alpha",
-                    score,
-                    delta=score_change
-                )
-
-                st.markdown(
-                    f"**{item.get('signal_label', '')}**"
-                )
-
-                st.caption(
-                    get_spread_text(
+        ranking_rows.append(
+            {
+                "rank": rank,
+                "brand": brand,
+                "score": score,
+                "score_change": get_score_change(
+                    brand,
+                    score
+                ),
+                "rank_change": get_rank_change(
+                    brand,
+                    rank
+                ),
+                "signal_label": item.get(
+                    "signal_label",
+                    ""
+                ),
+                "stages": [
+                    stage.strip()
+                    for stage in get_spread_text(
                         item
-                    )
-                )
-
-
-    st.divider()
-
-
-    # =====================================================
-    # TOP10 RANKING CHART
-    # =====================================================
-
-    st.subheader(
-        "📊 Beauty Alpha Ranking"
-    )
-
-
-    if beauty_data:
-
-        ranking_rows = []
-
-        for item in beauty_data:
-
-            ranking_rows.append(
-                {
-                    "브랜드":
-                        item.get(
-                            "brand",
-                            ""
-                        ),
-
-                    "Beauty Alpha":
-                        item.get(
-                            "beauty_alpha_score",
-                            0
-                        )
-                }
-            )
-
-
-        ranking_df = pd.DataFrame(
-            ranking_rows
-        )
-
-
-        ranking_chart = (
-            alt.Chart(
-                ranking_df
-            )
-            .mark_bar()
-            .encode(
-                y=alt.Y(
-                    "브랜드:N",
-                    sort="-x",
-                    title=None,
-                    axis=alt.Axis(
-                        labelAngle=0
-                    )
-                ),
-                x=alt.X(
-                    "Beauty Alpha:Q",
-                    title="Beauty Alpha Score"
-                ),
-                tooltip=[
-                    "브랜드",
-                    "Beauty Alpha"
+                    ).split("→")
                 ]
-            )
+            }
         )
 
 
-        st.altair_chart(
-            ranking_chart,
-            use_container_width=True
+    if ranking_rows:
+
+        ui.top3_cards(
+            ranking_rows[:3]
         )
 
 
-    st.caption(
+    # =====================================================
+    # TOP10 RANKING
+    # =====================================================
+
+    ui.section(
+        "Beauty Alpha Ranking",
         "점수가 높을수록 최근 크리에이터 확산과 Momentum이 강하게 관측됐다는 의미입니다."
     )
 
-    st.divider()
+
+    if ranking_rows:
+
+        ui.leaderboard(
+            ranking_rows
+        )
 
 
     # =====================================================
     # BRAND DETAIL
     # =====================================================
 
-    st.subheader(
-        "🔎 브랜드 상세 분석"
+    ui.section(
+        "브랜드 상세 분석",
+        "브랜드를 선택하면 확산 지표, 제품 경쟁력, 해외 관심도를 볼 수 있습니다."
+    )
+
+
+    brand_names = [
+        item.get("brand", "")
+        for item in beauty_data
+    ]
+
+    selected_brand = st.pills(
+        "브랜드 선택",
+        brand_names,
+        default=brand_names[0] if brand_names else None,
+        label_visibility="collapsed"
     )
 
 
@@ -772,6 +748,9 @@ with tab1:
             "brand",
             ""
         )
+
+        if brand != selected_brand:
+            continue
 
         score = item.get(
             "beauty_alpha_score",
@@ -808,10 +787,13 @@ with tab1:
             )
 
 
-        with st.expander(
-            f"{rank}. {brand}  {rank_change}  |  "
-            f"Alpha {score}{score_text}"
+        with st.container(
+            border=True
         ):
+
+            st.markdown(
+                f"#### {rank}. {brand}  ·  Alpha {score}{score_text}"
+            )
 
             commentary = ai_comment_dict.get(
                 brand,
@@ -826,10 +808,10 @@ with tab1:
 
             overview_tab, product_tab, global_tab, research_tab = st.tabs(
                 [
-                    "📌 Overview",
-                    "🧴 제품 경쟁력",
-                    "🌍 해외 관심도",
-                    "📑 Investment View"
+                    "Overview",
+                    "제품 경쟁력",
+                    "해외 관심도",
+                    "Investment View"
                 ]
             )
 
@@ -1795,11 +1777,8 @@ with tab1:
 
 with tab2:
 
-    st.subheader(
-        "🌍 Global Beauty Search Signal"
-    )
-
-    st.caption(
+    ui.section(
+        "Global Beauty Search Signal",
         "BeautyAlpha TOP 브랜드의 국가별 검색 관심 변화를 비교합니다."
     )
 
@@ -2009,11 +1988,8 @@ with tab2:
 
 with tab3:
 
-    st.subheader(
-        "🏢 Investment Exposure"
-    )
-
-    st.caption(
+    ui.section(
+        "Investment Exposure",
         "BeautyAlpha가 포착한 브랜드 신호를 "
         "브랜드 운영사와 제조사 관점으로 연결합니다."
     )
@@ -2024,7 +2000,7 @@ with tab3:
     # =====================================================
 
     st.markdown(
-        "## 브랜드 운영사"
+        "#### 브랜드 운영사"
     )
 
 
@@ -2157,7 +2133,7 @@ with tab3:
     # =====================================================
 
     st.markdown(
-        "## ODM / 제조사"
+        "#### ODM / 제조사"
     )
 
 
