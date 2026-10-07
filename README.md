@@ -49,8 +49,9 @@ py run_pipeline.py
 | 3 | `brand_signal.py` | Brand Signal 계산 | `brand_signal.json` |
 | 4 | `beauty_alpha_score.py` | Beauty Alpha Score 계산 | `beauty_alpha_top10.json` |
 | 5 | `google_trends_global.py` | Google Trends 글로벌 분석 | `google_trends_global.json` |
-| 6 | `company_exposure_score.py` | Company Exposure 계산 | `company_exposure_score.json` |
-| 7 | `manufacturer_signal.py` | Manufacturer Signal 계산 | `manufacturer_signal.json` |
-| 8 | `ai_research_commentary.py` | AI Research Commentary 업데이트 | `ai_research_commentary.json` |
+| 6 | `factor_grades.py` | Factor Grades 계산 + 기록 저장 | `factor_grades.json`, `beauty_alpha_history.json` |
+| 7 | `company_exposure_score.py` | Company Exposure 계산 | `company_exposure_score.json` |
+| 8 | `manufacturer_signal.py` | Manufacturer Signal 계산 | `manufacturer_signal.json` |
+| 9 | `ai_research_commentary.py` | AI Research Commentary 업데이트 | `ai_research_commentary.json` |
 
 파이프라인이 끝난 뒤 Streamlit 앱을 새로고침하면 최신 결과가 반영됩니다.

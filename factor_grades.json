@@ -1,0 +1,8868 @@
+[
+  {
+    "brand": "닥터엘시아",
+    "rank": 1,
+    "beauty_alpha_score": 71.4,
+    "trend_rating": "Strong Signal",
+    "rating_score": 0.842,
+    "factors": {
+      "buzz": {
+        "grade": "A+",
+        "percentile": 0.977
+      },
+      "momentum": {
+        "grade": "A+",
+        "percentile": 0.997
+      },
+      "spread": {
+        "grade": "A+",
+        "percentile": 0.995
+      },
+      "authenticity": {
+        "grade": "B+",
+        "percentile": 0.667
+      },
+      "search": {
+        "grade": "F",
+        "percentile": 0.0
+      }
+    }
+  },
+  {
+    "brand": "이니스프리",
+    "rank": 2,
+    "beauty_alpha_score": 60.8,
+    "trend_rating": "Signal",
+    "rating_score": 0.762,
+    "factors": {
+      "buzz": {
+        "grade": "A+",
+        "percentile": 0.997
+      },
+      "momentum": {
+        "grade": "A+",
+        "percentile": 0.99
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B+",
+        "percentile": 0.667
+      },
+      "search": {
+        "grade": "C",
+        "percentile": 0.3
+      }
+    }
+  },
+  {
+    "brand": "웨이크메이크",
+    "rank": 3,
+    "beauty_alpha_score": 60.0,
+    "trend_rating": "Strong Signal",
+    "rating_score": 0.824,
+    "factors": {
+      "buzz": {
+        "grade": "A+",
+        "percentile": 0.977
+      },
+      "momentum": {
+        "grade": "A+",
+        "percentile": 0.974
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A-",
+        "percentile": 0.833
+      },
+      "search": {
+        "grade": "A-",
+        "percentile": 0.762
+      }
+    }
+  },
+  {
+    "brand": "입큰",
+    "rank": 4,
+    "beauty_alpha_score": 58.1,
+    "trend_rating": "Signal",
+    "rating_score": 0.742,
+    "factors": {
+      "buzz": {
+        "grade": "A+",
+        "percentile": 0.99
+      },
+      "momentum": {
+        "grade": "A+",
+        "percentile": 0.99
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B+",
+        "percentile": 0.667
+      },
+      "search": {
+        "grade": "D",
+        "percentile": 0.114
+      }
+    }
+  },
+  {
+    "brand": "토르홉",
+    "rank": 5,
+    "beauty_alpha_score": 55.8,
+    "trend_rating": "Signal",
+    "rating_score": 0.697,
+    "factors": {
+      "buzz": {
+        "grade": "A+",
+        "percentile": 0.977
+      },
+      "momentum": {
+        "grade": "A+",
+        "percentile": 0.974
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": {
+        "grade": "F",
+        "percentile": 0.0
+      }
+    }
+  },
+  {
+    "brand": "라네즈",
+    "rank": 6,
+    "beauty_alpha_score": 53.7,
+    "trend_rating": "Strong Signal",
+    "rating_score": 0.875,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A+",
+        "percentile": 0.959
+      },
+      "spread": {
+        "grade": "A+",
+        "percentile": 0.995
+      },
+      "authenticity": {
+        "grade": "A-",
+        "percentile": 0.75
+      },
+      "search": {
+        "grade": "B",
+        "percentile": 0.55
+      }
+    }
+  },
+  {
+    "brand": "에뛰드",
+    "rank": 7,
+    "beauty_alpha_score": 53.4,
+    "trend_rating": "Signal",
+    "rating_score": 0.743,
+    "factors": {
+      "buzz": {
+        "grade": "A+",
+        "percentile": 0.99
+      },
+      "momentum": {
+        "grade": "A+",
+        "percentile": 0.982
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": {
+        "grade": "C+",
+        "percentile": 0.403
+      }
+    }
+  },
+  {
+    "brand": "삐아",
+    "rank": 8,
+    "beauty_alpha_score": 47.3,
+    "trend_rating": "Strong Signal",
+    "rating_score": 0.802,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.943
+      },
+      "momentum": {
+        "grade": "A+",
+        "percentile": 0.959
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A-",
+        "percentile": 0.75
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "어바웃톤",
+    "rank": 9,
+    "beauty_alpha_score": 44.4,
+    "trend_rating": "Signal",
+    "rating_score": 0.76,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.927
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A-",
+        "percentile": 0.75
+      },
+      "search": {
+        "grade": "B",
+        "percentile": 0.628
+      }
+    }
+  },
+  {
+    "brand": "필리밀리",
+    "rank": 10,
+    "beauty_alpha_score": 43.6,
+    "trend_rating": "Strong Signal",
+    "rating_score": 0.852,
+    "factors": {
+      "buzz": {
+        "grade": "A+",
+        "percentile": 0.964
+      },
+      "momentum": {
+        "grade": "A+",
+        "percentile": 0.966
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "투크",
+    "rank": 11,
+    "beauty_alpha_score": 42.8,
+    "trend_rating": "Strong Signal",
+    "rating_score": 0.838,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.943
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.94
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "오렌즈",
+    "rank": 12,
+    "beauty_alpha_score": 41.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.764,
+    "factors": {
+      "buzz": {
+        "grade": "A+",
+        "percentile": 0.964
+      },
+      "momentum": {
+        "grade": "A+",
+        "percentile": 0.951
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "태그",
+    "rank": 13,
+    "beauty_alpha_score": 40.7,
+    "trend_rating": "Signal",
+    "rating_score": 0.756,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.943
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.946
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "스튜디오17",
+    "rank": 14,
+    "beauty_alpha_score": 39.6,
+    "trend_rating": "Signal",
+    "rating_score": 0.708,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.927
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A-",
+        "percentile": 0.75
+      },
+      "search": {
+        "grade": "D",
+        "percentile": 0.102
+      }
+    }
+  },
+  {
+    "brand": "힌스",
+    "rank": 15,
+    "beauty_alpha_score": 39.6,
+    "trend_rating": "Strong Signal",
+    "rating_score": 0.809,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.904
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "로지킴",
+    "rank": 16,
+    "beauty_alpha_score": 37.2,
+    "trend_rating": "Signal",
+    "rating_score": 0.726,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.904
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "리필드",
+    "rank": 17,
+    "beauty_alpha_score": 37.2,
+    "trend_rating": "Signal",
+    "rating_score": 0.726,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.904
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "일리윤",
+    "rank": 18,
+    "beauty_alpha_score": 37.2,
+    "trend_rating": "Signal",
+    "rating_score": 0.712,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.904
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": {
+        "grade": "B",
+        "percentile": 0.589
+      }
+    }
+  },
+  {
+    "brand": "에스네이처",
+    "rank": 19,
+    "beauty_alpha_score": 37.0,
+    "trend_rating": "Signal",
+    "rating_score": 0.726,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.904
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "네이밍",
+    "rank": 20,
+    "beauty_alpha_score": 35.6,
+    "trend_rating": "Signal",
+    "rating_score": 0.747,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.943
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.92
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "바닐라코",
+    "rank": 21,
+    "beauty_alpha_score": 34.8,
+    "trend_rating": "Signal",
+    "rating_score": 0.76,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.881
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A-",
+        "percentile": 0.75
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "블랑네이처",
+    "rank": 22,
+    "beauty_alpha_score": 34.8,
+    "trend_rating": "Signal",
+    "rating_score": 0.76,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.881
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A-",
+        "percentile": 0.75
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "코링코",
+    "rank": 23,
+    "beauty_alpha_score": 34.8,
+    "trend_rating": "Signal",
+    "rating_score": 0.76,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.881
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A-",
+        "percentile": 0.75
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "헤라",
+    "rank": 24,
+    "beauty_alpha_score": 34.8,
+    "trend_rating": "Signal",
+    "rating_score": 0.76,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.881
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A-",
+        "percentile": 0.75
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "피카소",
+    "rank": 25,
+    "beauty_alpha_score": 34.4,
+    "trend_rating": "Signal",
+    "rating_score": 0.794,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.943
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.935
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A-",
+        "percentile": 0.75
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "홀리카홀리카",
+    "rank": 26,
+    "beauty_alpha_score": 30.6,
+    "trend_rating": "Signal",
+    "rating_score": 0.712,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.863
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "AESTURA",
+    "rank": 27,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Anua",
+    "rank": 28,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "BEEKMAN 1802",
+    "rank": 29,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Beauty of Joseon",
+    "rank": 30,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Billie",
+    "rank": 31,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Botox",
+    "rank": 32,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "CeraVe",
+    "rank": 33,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Dr. Melaxin",
+    "rank": 34,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Elizabeth Arden",
+    "rank": 35,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Eucerin",
+    "rank": 36,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Haruharu Wonder",
+    "rank": 37,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Helena Rubinstein",
+    "rank": 38,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "House of Hur",
+    "rank": 39,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "KAHI",
+    "rank": 40,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Kiehl’s",
+    "rank": 41,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "La Roche-Posay",
+    "rank": 42,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Lemme",
+    "rank": 43,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Mediheal",
+    "rank": 44,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "PURITO SEOUL",
+    "rank": 45,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "ROUND LAB",
+    "rank": 46,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Round Lab",
+    "rank": 47,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Starface",
+    "rank": 48,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "The Ordinary",
+    "rank": 49,
+    "beauty_alpha_score": 30.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.66,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "VT",
+    "rank": 50,
+    "beauty_alpha_score": 30.0,
+    "trend_rating": "Signal",
+    "rating_score": 0.712,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.863
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "에스쁘아",
+    "rank": 51,
+    "beauty_alpha_score": 29.9,
+    "trend_rating": "Strong Signal",
+    "rating_score": 0.812,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.943
+      },
+      "momentum": {
+        "grade": "A",
+        "percentile": 0.863
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "하트퍼센트",
+    "rank": 52,
+    "beauty_alpha_score": 27.3,
+    "trend_rating": "Signal",
+    "rating_score": 0.666,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "B+",
+        "percentile": 0.725
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "베네피트",
+    "rank": 53,
+    "beauty_alpha_score": 27.0,
+    "trend_rating": "Signal",
+    "rating_score": 0.705,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "B+",
+        "percentile": 0.718
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A-",
+        "percentile": 0.75
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "COSRX",
+    "rank": 54,
+    "beauty_alpha_score": 25.5,
+    "trend_rating": "Signal",
+    "rating_score": 0.775,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.798
+      },
+      "momentum": {
+        "grade": "A-",
+        "percentile": 0.793
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "롬앤",
+    "rank": 55,
+    "beauty_alpha_score": 24.9,
+    "trend_rating": "Signal",
+    "rating_score": 0.703,
+    "factors": {
+      "buzz": {
+        "grade": "A",
+        "percentile": 0.883
+      },
+      "momentum": {
+        "grade": "B+",
+        "percentile": 0.712
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A-",
+        "percentile": 0.75
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "블랑디바",
+    "rank": 56,
+    "beauty_alpha_score": 23.4,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "넘버즈인",
+    "rank": 57,
+    "beauty_alpha_score": 23.3,
+    "trend_rating": "Signal",
+    "rating_score": 0.736,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.837
+      },
+      "momentum": {
+        "grade": "B+",
+        "percentile": 0.725
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "닥터디퍼런트",
+    "rank": 58,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "라로슈포제",
+    "rank": 59,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "라운드랩",
+    "rank": 60,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "샤넬",
+    "rank": 61,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "센카",
+    "rank": 62,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "센텔리안24",
+    "rank": 63,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "스킨푸드",
+    "rank": 64,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "아멜리",
+    "rank": 65,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "정샘물",
+    "rank": 66,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "조선미녀",
+    "rank": 67,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "코드글로컬러",
+    "rank": 68,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "티르티르",
+    "rank": 69,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "티핏",
+    "rank": 70,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "파티온",
+    "rank": 71,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "퍼셀",
+    "rank": 72,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "휴족시간",
+    "rank": 73,
+    "beauty_alpha_score": 21.9,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "맥",
+    "rank": 74,
+    "beauty_alpha_score": 20.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "더마팩토리",
+    "rank": 75,
+    "beauty_alpha_score": 18.3,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "디오디너리",
+    "rank": 76,
+    "beauty_alpha_score": 18.3,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "에클리스",
+    "rank": 77,
+    "beauty_alpha_score": 18.3,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "유수수",
+    "rank": 78,
+    "beauty_alpha_score": 18.3,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "화홍",
+    "rank": 79,
+    "beauty_alpha_score": 18.3,
+    "trend_rating": "Neutral",
+    "rating_score": 0.583,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "센녹",
+    "rank": 80,
+    "beauty_alpha_score": 18.0,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "MAC",
+    "rank": 81,
+    "beauty_alpha_score": 17.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "컬러그램",
+    "rank": 82,
+    "beauty_alpha_score": 17.7,
+    "trend_rating": "Signal",
+    "rating_score": 0.646,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.832
+      },
+      "momentum": {
+        "grade": "B+",
+        "percentile": 0.707
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "키엘",
+    "rank": 83,
+    "beauty_alpha_score": 17.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "프릴루드 딘토",
+    "rank": 84,
+    "beauty_alpha_score": 17.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "히야",
+    "rank": 85,
+    "beauty_alpha_score": 17.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.44,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "모렛",
+    "rank": 86,
+    "beauty_alpha_score": 17.4,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Medicube",
+    "rank": 87,
+    "beauty_alpha_score": 17.2,
+    "trend_rating": "Neutral",
+    "rating_score": 0.534,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "A",
+        "percentile": 0.925
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "AHEB",
+    "rank": 88,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "BBIA",
+    "rank": 89,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "CipiCipi",
+    "rank": 90,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "DECORTE",
+    "rank": 91,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "GLINT",
+    "rank": 92,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "OFRA",
+    "rank": 93,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Potre",
+    "rank": 94,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "SNIDEL",
+    "rank": 95,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "닥터포헤어",
+    "rank": 96,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "달리프",
+    "rank": 97,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "렌시스",
+    "rank": 98,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "루톤",
+    "rank": 99,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "르네휘테르",
+    "rank": 100,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "리브러쉬",
+    "rank": 101,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "릴리이브",
+    "rank": 102,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "마미케어",
+    "rank": 103,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "미모 바이 마몽드",
+    "rank": 104,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "뷰센C",
+    "rank": 105,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "솔랩",
+    "rank": 106,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "스팀베이스",
+    "rank": 107,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "쏘내추럴",
+    "rank": 108,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "쓰리와우",
+    "rank": 109,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "씨퓨리",
+    "rank": 110,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "아비브",
+    "rank": 111,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "아워글래스",
+    "rank": 112,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "안달로우내추럴스",
+    "rank": 113,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "어뮤즈",
+    "rank": 114,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "에이페",
+    "rank": 115,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "오릭스",
+    "rank": 116,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "오프라",
+    "rank": 117,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "오플로우",
+    "rank": 118,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "유이크",
+    "rank": 119,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "이너생각",
+    "rank": 120,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "이지듀",
+    "rank": 121,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "청미정",
+    "rank": 122,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "클라뷰",
+    "rank": 123,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "클로란",
+    "rank": 124,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "터치인솔",
+    "rank": 125,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "판도라",
+    "rank": 126,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "프레시안",
+    "rank": 127,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "후시덤",
+    "rank": 128,
+    "beauty_alpha_score": 17.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "리쥬덱스",
+    "rank": 129,
+    "beauty_alpha_score": 16.9,
+    "trend_rating": "Signal",
+    "rating_score": 0.698,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.798
+      },
+      "momentum": {
+        "grade": "B",
+        "percentile": 0.642
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Holika Holika",
+    "rank": 130,
+    "beauty_alpha_score": 14.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "Kumo",
+    "rank": 131,
+    "beauty_alpha_score": 14.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "글래마이저",
+    "rank": 132,
+    "beauty_alpha_score": 14.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "닥터슈라클",
+    "rank": 133,
+    "beauty_alpha_score": 14.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "릴바레",
+    "rank": 134,
+    "beauty_alpha_score": 14.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "미차이",
+    "rank": 135,
+    "beauty_alpha_score": 14.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "민트리",
+    "rank": 136,
+    "beauty_alpha_score": 14.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "시튜에아",
+    "rank": 137,
+    "beauty_alpha_score": 14.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "에끌라두",
+    "rank": 138,
+    "beauty_alpha_score": 14.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "오그너스",
+    "rank": 139,
+    "beauty_alpha_score": 14.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "올리브영",
+    "rank": 140,
+    "beauty_alpha_score": 14.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "하파크리스틴",
+    "rank": 141,
+    "beauty_alpha_score": 14.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.424,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "글로웍스",
+    "rank": 142,
+    "beauty_alpha_score": 14.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.44,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "바비브라운",
+    "rank": 143,
+    "beauty_alpha_score": 14.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.44,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "에스트라",
+    "rank": 144,
+    "beauty_alpha_score": 13.8,
+    "trend_rating": "Neutral",
+    "rating_score": 0.421,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.158
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "ETUDE",
+    "rank": 145,
+    "beauty_alpha_score": 12.9,
+    "trend_rating": "Fading",
+    "rating_score": 0.325,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.119
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "LAKA",
+    "rank": 146,
+    "beauty_alpha_score": 12.9,
+    "trend_rating": "Fading",
+    "rating_score": 0.325,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.119
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "라보에이치",
+    "rank": 147,
+    "beauty_alpha_score": 12.9,
+    "trend_rating": "Fading",
+    "rating_score": 0.325,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.119
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "아로마티카",
+    "rank": 148,
+    "beauty_alpha_score": 12.9,
+    "trend_rating": "Fading",
+    "rating_score": 0.325,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.119
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "글램팜",
+    "rank": 149,
+    "beauty_alpha_score": 12.7,
+    "trend_rating": "Fading",
+    "rating_score": 0.273,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "아이오페",
+    "rank": 150,
+    "beauty_alpha_score": 12.7,
+    "trend_rating": "Fading",
+    "rating_score": 0.273,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "이더앤",
+    "rank": 151,
+    "beauty_alpha_score": 12.6,
+    "trend_rating": "Fading",
+    "rating_score": 0.325,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.119
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "포트레",
+    "rank": 152,
+    "beauty_alpha_score": 12.6,
+    "trend_rating": "Fading",
+    "rating_score": 0.325,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.119
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "46cm",
+    "rank": 153,
+    "beauty_alpha_score": 12.4,
+    "trend_rating": "Neutral",
+    "rating_score": 0.54,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.798
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "글린트",
+    "rank": 154,
+    "beauty_alpha_score": 12.4,
+    "trend_rating": "Neutral",
+    "rating_score": 0.54,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.798
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "바이오더마",
+    "rank": 155,
+    "beauty_alpha_score": 12.3,
+    "trend_rating": "Neutral",
+    "rating_score": 0.421,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.158
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "에스티로더",
+    "rank": 156,
+    "beauty_alpha_score": 12.3,
+    "trend_rating": "Neutral",
+    "rating_score": 0.421,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.158
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "토리든",
+    "rank": 157,
+    "beauty_alpha_score": 12.3,
+    "trend_rating": "Neutral",
+    "rating_score": 0.421,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.158
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "투쿨포스쿨",
+    "rank": 158,
+    "beauty_alpha_score": 12.3,
+    "trend_rating": "Neutral",
+    "rating_score": 0.421,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.158
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "구달",
+    "rank": 159,
+    "beauty_alpha_score": 12.1,
+    "trend_rating": "Fading",
+    "rating_score": 0.273,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "글램시크",
+    "rank": 160,
+    "beauty_alpha_score": 12.1,
+    "trend_rating": "Fading",
+    "rating_score": 0.273,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "라곰",
+    "rank": 161,
+    "beauty_alpha_score": 12.1,
+    "trend_rating": "Fading",
+    "rating_score": 0.273,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "아이보들",
+    "rank": 162,
+    "beauty_alpha_score": 12.1,
+    "trend_rating": "Fading",
+    "rating_score": 0.273,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "이지덤뷰티",
+    "rank": 163,
+    "beauty_alpha_score": 12.1,
+    "trend_rating": "Fading",
+    "rating_score": 0.273,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "자바스",
+    "rank": 164,
+    "beauty_alpha_score": 12.1,
+    "trend_rating": "Fading",
+    "rating_score": 0.273,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "뮤드",
+    "rank": 165,
+    "beauty_alpha_score": 11.8,
+    "trend_rating": "Neutral",
+    "rating_score": 0.54,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.798
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "연작",
+    "rank": 166,
+    "beauty_alpha_score": 11.5,
+    "trend_rating": "Fading",
+    "rating_score": 0.273,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "LG 프라엘",
+    "rank": 167,
+    "beauty_alpha_score": 10.6,
+    "trend_rating": "Fading",
+    "rating_score": 0.273,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "데이지크",
+    "rank": 168,
+    "beauty_alpha_score": 10.6,
+    "trend_rating": "Fading",
+    "rating_score": 0.273,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "웰라쥬",
+    "rank": 169,
+    "beauty_alpha_score": 10.6,
+    "trend_rating": "Fading",
+    "rating_score": 0.273,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "제로이드",
+    "rank": 170,
+    "beauty_alpha_score": 10.6,
+    "trend_rating": "Fading",
+    "rating_score": 0.273,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "C-",
+        "percentile": 0.212
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "ABOUT TONE",
+    "rank": 171,
+    "beauty_alpha_score": 10.5,
+    "trend_rating": "Fading",
+    "rating_score": 0.325,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.119
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "르누베르",
+    "rank": 172,
+    "beauty_alpha_score": 10.5,
+    "trend_rating": "Fading",
+    "rating_score": 0.325,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.119
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "마이피픈",
+    "rank": 173,
+    "beauty_alpha_score": 10.5,
+    "trend_rating": "Fading",
+    "rating_score": 0.325,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.119
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "안씨브러쉬",
+    "rank": 174,
+    "beauty_alpha_score": 9.7,
+    "trend_rating": "Neutral",
+    "rating_score": 0.54,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.798
+      },
+      "momentum": {
+        "grade": "C+",
+        "percentile": 0.417
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "투슬래시포",
+    "rank": 175,
+    "beauty_alpha_score": 8.8,
+    "trend_rating": "Neutral",
+    "rating_score": 0.44,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.798
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.119
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "나스",
+    "rank": 176,
+    "beauty_alpha_score": 8.4,
+    "trend_rating": "Fading",
+    "rating_score": 0.388,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.057
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "브링그린",
+    "rank": 177,
+    "beauty_alpha_score": 8.1,
+    "trend_rating": "Fading",
+    "rating_score": 0.388,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.057
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "오브제",
+    "rank": 178,
+    "beauty_alpha_score": 8.1,
+    "trend_rating": "Fading",
+    "rating_score": 0.388,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.057
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "디올",
+    "rank": 179,
+    "beauty_alpha_score": 7.5,
+    "trend_rating": "Fading",
+    "rating_score": 0.388,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.057
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "코스알엑스",
+    "rank": 180,
+    "beauty_alpha_score": 7.5,
+    "trend_rating": "Fading",
+    "rating_score": 0.315,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.088
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "프리메라",
+    "rank": 181,
+    "beauty_alpha_score": 6.7,
+    "trend_rating": "Fading",
+    "rating_score": 0.229,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.08
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "에크멀",
+    "rank": 182,
+    "beauty_alpha_score": 4.5,
+    "trend_rating": "Fading",
+    "rating_score": 0.388,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.057
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "려",
+    "rank": 183,
+    "beauty_alpha_score": 3.6,
+    "trend_rating": "Fading",
+    "rating_score": 0.291,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.018
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "생활약속",
+    "rank": 184,
+    "beauty_alpha_score": 3.6,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "HEART PERCENT",
+    "rank": 185,
+    "beauty_alpha_score": 3.3,
+    "trend_rating": "Fading",
+    "rating_score": 0.291,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.018
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "WAKEMAKE",
+    "rank": 186,
+    "beauty_alpha_score": 3.3,
+    "trend_rating": "Fading",
+    "rating_score": 0.291,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.018
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "닥터지",
+    "rank": 187,
+    "beauty_alpha_score": 3.3,
+    "trend_rating": "Fading",
+    "rating_score": 0.291,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.018
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "더샘",
+    "rank": 188,
+    "beauty_alpha_score": 3.1,
+    "trend_rating": "Neutral",
+    "rating_score": 0.503,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.798
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.057
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "메디큐브",
+    "rank": 189,
+    "beauty_alpha_score": 3.1,
+    "trend_rating": "Fading",
+    "rating_score": 0.221,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.057
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "AOU",
+    "rank": 190,
+    "beauty_alpha_score": 3.0,
+    "trend_rating": "Fading",
+    "rating_score": 0.291,
+    "factors": {
+      "buzz": {
+        "grade": "C+",
+        "percentile": 0.383
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.018
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "락토핏",
+    "rank": 191,
+    "beauty_alpha_score": 2.4,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "솔티스",
+    "rank": 192,
+    "beauty_alpha_score": 2.4,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "릴리바이레드",
+    "rank": 193,
+    "beauty_alpha_score": 2.2,
+    "trend_rating": "Neutral",
+    "rating_score": 0.503,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.798
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.057
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "A+",
+        "percentile": 1.0
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "클리오",
+    "rank": 194,
+    "beauty_alpha_score": 2.2,
+    "trend_rating": "Neutral",
+    "rating_score": 0.43,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.798
+      },
+      "momentum": {
+        "grade": "D",
+        "percentile": 0.088
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "2aN",
+    "rank": 195,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "3CE",
+    "rank": 196,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Neutral",
+    "rating_score": 0.407,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.798
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.018
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "AHC",
+    "rank": 197,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Aveda",
+    "rank": 198,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Beetles",
+    "rank": 199,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "CENTELLIAN24",
+    "rank": 200,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "CHANEL",
+    "rank": 201,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "CLIO",
+    "rank": 202,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "CNP",
+    "rank": 203,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "CORINGCO",
+    "rank": 204,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "CortiSlim",
+    "rank": 205,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "DIOR",
+    "rank": 206,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Deonatulle",
+    "rank": 207,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Dr. Althea",
+    "rank": 208,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Dr.Reju-All",
+    "rank": 209,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "EITHER&",
+    "rank": 210,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "ELEMIS",
+    "rank": 211,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "ESPOIR",
+    "rank": 212,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Embryolisse",
+    "rank": 213,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "FMGT",
+    "rank": 214,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "FRANKLY",
+    "rank": 215,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "FWEE",
+    "rank": 216,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Fully",
+    "rank": 217,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "HEVEBLUE",
+    "rank": 218,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "HOLIKA HOLIKA",
+    "rank": 219,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Hanni",
+    "rank": 220,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "House of Balance",
+    "rank": 221,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "I’m From",
+    "rank": 222,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "JOVS",
+    "rank": 223,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "KAI",
+    "rank": 224,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "KOSAS",
+    "rank": 225,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Kao Biore",
+    "rank": 226,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Kobayashi",
+    "rank": 227,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Lucido-L",
+    "rank": 228,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "MUELTO",
+    "rank": 229,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "NATASHA DENONA",
+    "rank": 230,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Ontu",
+    "rank": 231,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "PKFARM",
+    "rank": 232,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "PORTRE",
+    "rank": 233,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Qrsessed",
+    "rank": 234,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "S.NATURE",
+    "rank": 235,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "SITUEA",
+    "rank": 236,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "SUNGBOON EDITOR",
+    "rank": 237,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Shiro",
+    "rank": 238,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Shiseido",
+    "rank": 239,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "SkinCeuticals",
+    "rank": 240,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "Soft Services",
+    "rank": 241,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "TIP TOE",
+    "rank": 242,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "TIRTIR",
+    "rank": 243,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "The Skinny Confidential",
+    "rank": 244,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "U Beauty",
+    "rank": 245,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "VDL",
+    "rank": 246,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "YSL",
+    "rank": 247,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "numbuzin",
+    "rank": 248,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "rdrd",
+    "rank": 249,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "그라펜",
+    "rank": 250,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "글로우",
+    "rank": 251,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "글로우엠",
+    "rank": 252,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "글피오",
+    "rank": 253,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "김정문알로에",
+    "rank": 254,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "깜빡 속눈썹",
+    "rank": 255,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "꽁래쉬",
+    "rank": 256,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "나르카",
+    "rank": 257,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "낫포유",
+    "rank": 258,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "넛세린 / nutseline",
+    "rank": 259,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "네오젠",
+    "rank": 260,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "노노어",
+    "rank": 261,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "노크",
+    "rank": 262,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "누그레이",
+    "rank": 263,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "다이슨",
+    "rank": 264,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "다자연",
+    "rank": 265,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "달바",
+    "rank": 266,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "더마블록",
+    "rank": 267,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "더파이",
+    "rank": 268,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "데싱디바",
+    "rank": 269,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "디어에이",
+    "rank": 270,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "딘토 / Dinto",
+    "rank": 271,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "라엘",
+    "rank": 272,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "라카",
+    "rank": 273,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "러브플레르 / Love Fleur",
+    "rank": 274,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "런드리유",
+    "rank": 275,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "로레알 / L’OREAL",
+    "rank": 276,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "로우라이즈 / Lowlize",
+    "rank": 277,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "루나",
+    "rank": 278,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "루미르",
+    "rank": 279,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "르누베르 / Le' Nubele",
+    "rank": 280,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "르마하",
+    "rank": 281,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "르베로",
+    "rank": 282,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "리스키",
+    "rank": 283,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "리스키(RISKY)",
+    "rank": 284,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "마몽드",
+    "rank": 285,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "머지 / MERZY",
+    "rank": 286,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "메드니스 / MEDINESS",
+    "rank": 287,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "메디픽미 / MEDIPICKME",
+    "rank": 288,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "메디힐",
+    "rank": 289,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "메이크업포에버",
+    "rank": 290,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "멜라메이트",
+    "rank": 291,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "모로칸오일",
+    "rank": 292,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "몽디에스",
+    "rank": 293,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "미샤",
+    "rank": 294,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "밀본 / Milbon",
+    "rank": 295,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "밈즈 / MIMZ",
+    "rank": 296,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "바렌",
+    "rank": 297,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "바이오힐 보",
+    "rank": 298,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "바이오힐보",
+    "rank": 299,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "벤튼",
+    "rank": 300,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "브레이 / BRAYE",
+    "rank": 301,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "비거너리바이달바",
+    "rank": 302,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "비디비치",
+    "rank": 303,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "비레디",
+    "rank": 304,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "비오레 / Biore",
+    "rank": 305,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "빌리프",
+    "rank": 306,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "서의",
+    "rank": 307,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "센슬 / sensel",
+    "rank": 308,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "셀퓨전씨",
+    "rank": 309,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "스킨1004",
+    "rank": 310,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "스킨수티컬즈",
+    "rank": 311,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "스튜에아",
+    "rank": 312,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "스튜에아 / situea",
+    "rank": 313,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "시세이도",
+    "rank": 314,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "아떼",
+    "rank": 315,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "아랑픽",
+    "rank": 316,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "아벤느",
+    "rank": 317,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "알렉산더킴스코",
+    "rank": 318,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "애프터블로우",
+    "rank": 319,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "앤디얼",
+    "rank": 320,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "어반디케이",
+    "rank": 321,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "얼터너티브 스테레오",
+    "rank": 322,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "에르보리앙",
+    "rank": 323,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "에스트라X위글위글",
+    "rank": 324,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "에이바이봄",
+    "rank": 325,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "에이오유",
+    "rank": 326,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "에이피 뷰티",
+    "rank": 327,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "엔트로피",
+    "rank": 328,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "오프온",
+    "rank": 329,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "올더뮤",
+    "rank": 330,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "올리오",
+    "rank": 331,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "이즈앤트리",
+    "rank": 332,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "입생로랑 뷰티",
+    "rank": 333,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "자빈드 서울",
+    "rank": 334,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "정샘물 / JUNG SAEM MOOL",
+    "rank": 335,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "주디돌",
+    "rank": 336,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "카이",
+    "rank": 337,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "캔메이크",
+    "rank": 338,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "케라스타즈",
+    "rank": 339,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "코스노리",
+    "rank": 340,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "크리니크",
+    "rank": 341,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "키니툴 / Kinitool",
+    "rank": 342,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "키스미",
+    "rank": 343,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "토니모리",
+    "rank": 344,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "투쿨포스쿨 / too cool for school",
+    "rank": 345,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "팁토우",
+    "rank": 346,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "페리페라",
+    "rank": 347,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Neutral",
+    "rating_score": 0.407,
+    "factors": {
+      "buzz": {
+        "grade": "A-",
+        "percentile": 0.798
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.018
+      },
+      "spread": {
+        "grade": "C+",
+        "percentile": 0.43
+      },
+      "authenticity": {
+        "grade": "B-",
+        "percentile": 0.5
+      },
+      "search": null
+    }
+  },
+  {
+    "brand": "페이스핏",
+    "rank": 348,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "프라다 뷰티",
+    "rank": 349,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "프리셜리",
+    "rank": 350,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "피몽쉐",
+    "rank": 351,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "피카소 꼴레지오니",
+    "rank": 352,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "한스킨",
+    "rank": 353,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "헤라 / HERA",
+    "rank": 354,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "헤브블루 / HEVEBLUE",
+    "rank": 355,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "홀리카 홀리카",
+    "rank": 356,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "화홍엠",
+    "rank": 357,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "휘게",
+    "rank": 358,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  },
+  {
+    "brand": "힐링버드",
+    "rank": 359,
+    "beauty_alpha_score": 0,
+    "trend_rating": "Weak",
+    "rating_score": 0.0,
+    "factors": {
+      "buzz": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "momentum": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "spread": {
+        "grade": "F",
+        "percentile": 0.0
+      },
+      "authenticity": null,
+      "search": null
+    }
+  }
+]

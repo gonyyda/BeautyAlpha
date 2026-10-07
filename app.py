@@ -86,6 +86,15 @@ ai_comment_data = load_json(
     "ai_research_commentary.json"
 )
 
+factor_data = load_json(
+    "factor_grades.json"
+)
+
+history_data = load_json(
+    "beauty_alpha_history.json",
+    default={}
+)
+
 
 # =========================================================
 # DICTIONARIES
@@ -106,6 +115,16 @@ ai_comment_dict = {
     item.get("brand"): item
 
     for item in ai_comment_data
+
+    if item.get("brand")
+}
+
+
+factor_dict = {
+
+    item.get("brand"): item
+
+    for item in factor_data
 
     if item.get("brand")
 }
@@ -682,6 +701,10 @@ with tab1:
                     "signal_label",
                     ""
                 ),
+                "rating": factor_dict.get(
+                    brand,
+                    {}
+                ).get("trend_rating"),
                 "stages": [
                     stage.strip()
                     for stage in get_spread_text(
@@ -791,9 +814,94 @@ with tab1:
             border=True
         ):
 
-            st.markdown(
-                f"#### {rank}. {brand}  ·  Alpha {score}{score_text}"
+            brand_factors = factor_dict.get(
+                brand,
+                {}
             )
+
+            ui.detail_header(
+                f"{rank}. {brand}",
+                f"Alpha {score}{score_text}",
+                brand_factors.get("trend_rating")
+            )
+
+
+            # =================================================
+            # FACTOR GRADES
+            # =================================================
+
+            if brand_factors:
+
+                ui.factor_grades(
+                    brand_factors.get(
+                        "factors",
+                        {}
+                    )
+                )
+
+                st.caption(
+                    "Buzz·Momentum·Spread 등급은 최근 언급이 있는 브랜드끼리의 "
+                    "상대 순위입니다. Authenticity는 직접구매·유료광고 비율, "
+                    "Search는 검색 관심 점수를 그대로 반영합니다."
+                )
+
+
+            # =================================================
+            # SCORE HISTORY
+            # =================================================
+
+            history_rows = [
+                {
+                    "날짜": snapshot.get("date"),
+                    "Beauty Alpha": snapshot["brands"][brand].get("score")
+                }
+                for snapshot in history_data.get("snapshots", [])
+                if brand in snapshot.get("brands", {})
+            ]
+
+            if len(history_rows) >= 2:
+
+                st.markdown(
+                    "**점수 추이**"
+                )
+
+                st.altair_chart(
+                    alt.Chart(
+                        pd.DataFrame(
+                            history_rows
+                        )
+                    )
+                    .mark_line(
+                        point=True
+                    )
+                    .encode(
+                        x=alt.X(
+                            "날짜:T",
+                            title=None
+                        ),
+                        y=alt.Y(
+                            "Beauty Alpha:Q",
+                            scale=alt.Scale(
+                                zero=False
+                            )
+                        ),
+                        tooltip=[
+                            "날짜",
+                            "Beauty Alpha"
+                        ]
+                    )
+                    .properties(
+                        height=220
+                    ),
+                    use_container_width=True
+                )
+
+            else:
+
+                st.caption(
+                    "점수 추이는 업데이트를 서로 다른 날 두 번 이상 실행하면 "
+                    f"표시됩니다. 현재 {len(history_rows)}회 기록됨."
+                )
 
             commentary = ai_comment_dict.get(
                 brand,

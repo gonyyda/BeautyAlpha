@@ -56,18 +56,24 @@ PIPELINE = [
 
     {
         "step": 6,
+        "title": "Factor Grades 계산 + 기록 저장",
+        "file": "factor_grades.py"
+    },
+
+    {
+        "step": 7,
         "title": "Company Exposure 계산",
         "file": "company_exposure_score.py"
     },
 
     {
-        "step": 7,
+        "step": 8,
         "title": "Manufacturer Signal 계산",
         "file": "manufacturer_signal.py"
     },
 
     {
-        "step": 8,
+        "step": 9,
         "title": "AI Research Commentary 업데이트",
         "file": "ai_research_commentary.py"
     }
@@ -356,6 +362,14 @@ def main():
 
     print(
         "• google_trends_global.json"
+    )
+
+    print(
+        "• factor_grades.json"
+    )
+
+    print(
+        "• beauty_alpha_history.json"
     )
 
     print(

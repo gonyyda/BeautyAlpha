@@ -1,0 +1,259 @@
+{
+  "snapshots": [
+    {
+      "date": "2026-10-07",
+      "brands": {
+        "닥터엘시아": {
+          "score": 71.4,
+          "rank": 1,
+          "rating": "Strong Signal"
+        },
+        "이니스프리": {
+          "score": 60.8,
+          "rank": 2,
+          "rating": "Signal"
+        },
+        "웨이크메이크": {
+          "score": 60.0,
+          "rank": 3,
+          "rating": "Strong Signal"
+        },
+        "입큰": {
+          "score": 58.1,
+          "rank": 4,
+          "rating": "Signal"
+        },
+        "토르홉": {
+          "score": 55.8,
+          "rank": 5,
+          "rating": "Signal"
+        },
+        "라네즈": {
+          "score": 53.7,
+          "rank": 6,
+          "rating": "Strong Signal"
+        },
+        "에뛰드": {
+          "score": 53.4,
+          "rank": 7,
+          "rating": "Signal"
+        },
+        "삐아": {
+          "score": 47.3,
+          "rank": 8,
+          "rating": "Strong Signal"
+        },
+        "어바웃톤": {
+          "score": 44.4,
+          "rank": 9,
+          "rating": "Signal"
+        },
+        "필리밀리": {
+          "score": 43.6,
+          "rank": 10,
+          "rating": "Strong Signal"
+        },
+        "투크": {
+          "score": 42.8,
+          "rank": 11,
+          "rating": "Strong Signal"
+        },
+        "오렌즈": {
+          "score": 41.5,
+          "rank": 12,
+          "rating": "Signal"
+        },
+        "태그": {
+          "score": 40.7,
+          "rank": 13,
+          "rating": "Signal"
+        },
+        "스튜디오17": {
+          "score": 39.6,
+          "rank": 14,
+          "rating": "Signal"
+        },
+        "힌스": {
+          "score": 39.6,
+          "rank": 15,
+          "rating": "Strong Signal"
+        },
+        "로지킴": {
+          "score": 37.2,
+          "rank": 16,
+          "rating": "Signal"
+        },
+        "리필드": {
+          "score": 37.2,
+          "rank": 17,
+          "rating": "Signal"
+        },
+        "일리윤": {
+          "score": 37.2,
+          "rank": 18,
+          "rating": "Signal"
+        },
+        "에스네이처": {
+          "score": 37.0,
+          "rank": 19,
+          "rating": "Signal"
+        },
+        "네이밍": {
+          "score": 35.6,
+          "rank": 20,
+          "rating": "Signal"
+        },
+        "바닐라코": {
+          "score": 34.8,
+          "rank": 21,
+          "rating": "Signal"
+        },
+        "블랑네이처": {
+          "score": 34.8,
+          "rank": 22,
+          "rating": "Signal"
+        },
+        "코링코": {
+          "score": 34.8,
+          "rank": 23,
+          "rating": "Signal"
+        },
+        "헤라": {
+          "score": 34.8,
+          "rank": 24,
+          "rating": "Signal"
+        },
+        "피카소": {
+          "score": 34.4,
+          "rank": 25,
+          "rating": "Signal"
+        },
+        "홀리카홀리카": {
+          "score": 30.6,
+          "rank": 26,
+          "rating": "Signal"
+        },
+        "AESTURA": {
+          "score": 30.5,
+          "rank": 27,
+          "rating": "Signal"
+        },
+        "Anua": {
+          "score": 30.5,
+          "rank": 28,
+          "rating": "Signal"
+        },
+        "BEEKMAN 1802": {
+          "score": 30.5,
+          "rank": 29,
+          "rating": "Signal"
+        },
+        "Beauty of Joseon": {
+          "score": 30.5,
+          "rank": 30,
+          "rating": "Signal"
+        },
+        "Billie": {
+          "score": 30.5,
+          "rank": 31,
+          "rating": "Signal"
+        },
+        "Botox": {
+          "score": 30.5,
+          "rank": 32,
+          "rating": "Signal"
+        },
+        "CeraVe": {
+          "score": 30.5,
+          "rank": 33,
+          "rating": "Signal"
+        },
+        "Dr. Melaxin": {
+          "score": 30.5,
+          "rank": 34,
+          "rating": "Signal"
+        },
+        "Elizabeth Arden": {
+          "score": 30.5,
+          "rank": 35,
+          "rating": "Signal"
+        },
+        "Eucerin": {
+          "score": 30.5,
+          "rank": 36,
+          "rating": "Signal"
+        },
+        "Haruharu Wonder": {
+          "score": 30.5,
+          "rank": 37,
+          "rating": "Signal"
+        },
+        "Helena Rubinstein": {
+          "score": 30.5,
+          "rank": 38,
+          "rating": "Signal"
+        },
+        "House of Hur": {
+          "score": 30.5,
+          "rank": 39,
+          "rating": "Signal"
+        },
+        "KAHI": {
+          "score": 30.5,
+          "rank": 40,
+          "rating": "Signal"
+        },
+        "Kiehl’s": {
+          "score": 30.5,
+          "rank": 41,
+          "rating": "Signal"
+        },
+        "La Roche-Posay": {
+          "score": 30.5,
+          "rank": 42,
+          "rating": "Signal"
+        },
+        "Lemme": {
+          "score": 30.5,
+          "rank": 43,
+          "rating": "Signal"
+        },
+        "Mediheal": {
+          "score": 30.5,
+          "rank": 44,
+          "rating": "Signal"
+        },
+        "PURITO SEOUL": {
+          "score": 30.5,
+          "rank": 45,
+          "rating": "Signal"
+        },
+        "ROUND LAB": {
+          "score": 30.5,
+          "rank": 46,
+          "rating": "Signal"
+        },
+        "Round Lab": {
+          "score": 30.5,
+          "rank": 47,
+          "rating": "Signal"
+        },
+        "Starface": {
+          "score": 30.5,
+          "rank": 48,
+          "rating": "Signal"
+        },
+        "The Ordinary": {
+          "score": 30.5,
+          "rank": 49,
+          "rating": "Signal"
+        },
+        "VT": {
+          "score": 30.0,
+          "rank": 50,
+          "rating": "Signal"
+        }
+      }
+    }
+  ]
+}

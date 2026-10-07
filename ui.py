@@ -262,6 +262,73 @@ CSS = """
 
 .ba-row-change { text-align: right; }
 
+/* ---------- trend rating ---------- */
+
+.ba-rating {
+    display: inline-block;
+    border-radius: 8px;
+    padding: 3px 10px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+}
+
+.ba-rating.strong { background: var(--ba-rose); color: #FFFFFF; }
+.ba-rating.signal { background: #F8CDD8; color: #8E2A4E; }
+.ba-rating.neutral { background: #F3ECEE; color: var(--ba-muted); }
+.ba-rating.fading { background: #F6E9DC; color: #8A6234; }
+.ba-rating.weak { background: #ECECEC; color: #6F6F6F; }
+
+.ba-card-rating { margin-top: 8px; }
+
+.ba-row-name { min-width: 0; }
+
+.ba-row-rating { font-size: 11px; font-weight: 600; margin-top: 1px; }
+
+.ba-row-rating.strong, .ba-row-rating.signal { color: var(--ba-rose); }
+.ba-row-rating.neutral, .ba-row-rating.fading, .ba-row-rating.weak { color: var(--ba-muted); }
+
+/* ---------- factor grades ---------- */
+
+.ba-factors {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(108px, 1fr));
+    gap: 10px;
+    margin: 6px 0 18px;
+}
+
+.ba-factor {
+    background: var(--ba-card);
+    border: 1px solid var(--ba-line);
+    border-radius: 16px;
+    padding: 14px 16px;
+}
+
+.ba-factor-name { font-size: 13px; font-weight: 600; color: var(--ba-ink); }
+
+.ba-factor-grade {
+    font-size: 30px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    margin-top: 4px;
+}
+
+.ba-factor-grade.a { color: var(--ba-rose); }
+.ba-factor-grade.b { color: var(--ba-plum); }
+.ba-factor-grade.c { color: var(--ba-gold); }
+.ba-factor-grade.d { color: var(--ba-muted); }
+.ba-factor-grade.none { color: #CDBFC4; }
+
+.ba-factor-desc { font-size: 12px; color: var(--ba-muted); margin-top: 2px; }
+
+.ba-detail-head { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 4px; }
+
+.ba-detail-title { font-size: 22px; font-weight: 700; letter-spacing: -0.02em; color: var(--ba-ink); }
+
+.ba-detail-meta { font-size: 14px; color: var(--ba-muted); }
+
 /* ---------- streamlit widgets ---------- */
 
 [data-testid="stMetric"] {
@@ -467,6 +534,7 @@ def top3_cards(cards):
             f'{rank_pill(card["rank_change"])}'
             '</div>'
             f'<div class="ba-brand">{_esc(card["brand"])}</div>'
+            f'<div class="ba-card-rating">{rating_badge(card.get("rating"))}</div>'
             '<div class="ba-score-row">'
             f'<span class="ba-score">{_esc(card["score"])}</span>'
             f'{score_pill(card["score_change"])}'
@@ -504,7 +572,10 @@ def leaderboard(rows):
         parts.append(
             '<div class="ba-row">'
             f'<div class="ba-row-rank">{row["rank"]}</div>'
+            '<div class="ba-row-name">'
             f'<div class="ba-row-brand">{_esc(row["brand"])}</div>'
+            f'{row_rating(row.get("rating"))}'
+            '</div>'
             f'<div class="ba-bar"><i style="width:{width}%"></i></div>'
             f'<div class="ba-row-score">{_esc(row["score"])}</div>'
             f'<div class="ba-row-change">{rank_pill(row["rank_change"])}</div>'
@@ -521,4 +592,89 @@ def leaderboard(rows):
 
     _render(
         f'<div class="ba-board">{columns}</div>'
+    )
+# =========================================================
+# TREND RATING / FACTOR GRADES
+# =========================================================
+
+RATING_CLASSES = {
+    "Strong Signal": "strong",
+    "Signal": "signal",
+    "Neutral": "neutral",
+    "Fading": "fading",
+    "Weak": "weak"
+}
+
+FACTOR_LABELS = [
+    ("buzz", "Buzz", "지금 언급되는 정도"),
+    ("momentum", "Momentum", "늘어나는 속도"),
+    ("spread", "Spread", "전문 → 대중 → 해외"),
+    ("authenticity", "Authenticity", "광고 아닌 자발 언급"),
+    ("search", "Search", "검색 관심으로 연결")
+]
+
+
+def rating_badge(rating):
+
+    if not rating:
+        return ""
+
+    return (
+        f'<span class="ba-rating {RATING_CLASSES.get(rating, "neutral")}">'
+        f'{_esc(rating)}</span>'
+    )
+
+
+def row_rating(rating):
+
+    if not rating:
+        return ""
+
+    return (
+        f'<div class="ba-row-rating {RATING_CLASSES.get(rating, "neutral")}">'
+        f'{_esc(rating)}</div>'
+    )
+
+
+def detail_header(title, meta, rating):
+
+    _render(
+        '<div class="ba-detail-head">'
+        f'<span class="ba-detail-title">{_esc(title)}</span>'
+        f'{rating_badge(rating)}'
+        f'<span class="ba-detail-meta">{_esc(meta)}</span>'
+        '</div>'
+    )
+
+
+def factor_grades(factors):
+
+    parts = []
+
+    for key, label, description in FACTOR_LABELS:
+
+        grade = (
+            factors.get(key) or {}
+        ).get("grade")
+
+        if grade:
+            grade_class = (
+                grade[0].lower()
+                if grade[0] in "ABC"
+                else "d"
+            )
+
+        else:
+            grade_class = "none"
+
+        parts.append(
+            '<div class="ba-factor">'
+            f'<div class="ba-factor-name">{label}</div>'
+            f'<div class="ba-factor-grade {grade_class}">{_esc(grade or "–")}</div>'
+            f'<div class="ba-factor-desc">{_esc(description)}</div>'
+            '</div>'
+        )
+
+    _render(
+        f'<div class="ba-factors">{"".join(parts)}</div>'
     )
