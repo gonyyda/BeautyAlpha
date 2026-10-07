@@ -1,0 +1,299 @@
+[
+  {
+    "name": "지냐",
+    "channel_id": "UCRiIf6rt91BVfZVtURRXlOw",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "민스코",
+    "channel_id": "UCTQGAYPtbnCEfW9IGx65kiw",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "아랑",
+    "channel_id": "UCY2YdDn7zXtRbNR0fJ9V_YQ",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "유트루",
+    "channel_id": "UCH2mJnztSdNh8ADp2KmtUMQ",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "레오제이",
+    "channel_id": "UCnFFOjljp1_sacTz7PfIIyg",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "디렉터파이",
+    "channel_id": "UCqrNqg3UgVoD3Sa-F_TxuSA",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "회사원A",
+    "channel_id": "UCnekLiljel-Px4ClMC7b3mg",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "재유",
+    "channel_id": "UC8P33HyFhfqThDUGk0disqw",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "홀리",
+    "channel_id": "UCGIjeBB5ZLBAhQvDxiZpGmw",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "조효진",
+    "channel_id": "UCuZu8NrpBG4WPXRi-hPBl-A",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "이사배",
+    "channel_id": "UC9kmlDcqksaOnCkC_qzGacA",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "씬님",
+    "channel_id": "UC5xK2Xdrud3-KGjkS1Igumg",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "인씨",
+    "channel_id": "UCrlUlicedicJ5mlibqC62Eg",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "최모나",
+    "channel_id": "UCZlTEEKh3ounqVfpf21WMeQ",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "인보라",
+    "channel_id": "UCUrCIBJ3ScRAOLgPElscZqA",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "피부소식",
+    "channel_id": "",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": false
+  },
+  {
+    "name": "민가든",
+    "channel_id": "",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": false
+  },
+  {
+    "name": "킴닥스",
+    "channel_id": "",
+    "creator_type": "KR_BEAUTY",
+    "market": "KR",
+    "active": false
+  },
+
+  {
+    "name": "프리지아",
+    "channel_id": "UCAbhooUR9thtUYAkLxk9iBg",
+    "creator_type": "KR_MAINSTREAM",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "성해은",
+    "channel_id": "UCI5ZLTYfIfXaeubb2ny0kNA",
+    "creator_type": "KR_MAINSTREAM",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "박지현",
+    "channel_id": "UC0JEvlaTw-nX7iDLb_L_ymA",
+    "creator_type": "KR_MAINSTREAM",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "민와와",
+    "channel_id": "UCJt-9Ku_D1Un6brccoTzglg",
+    "creator_type": "KR_MAINSTREAM",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "퀸승용",
+    "channel_id": "UCjqPJOm46V1pO_ffHoqrXow",
+    "creator_type": "KR_MAINSTREAM",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "박현지",
+    "channel_id": "UCmdOnmYKm4hijBxwGHtPT8Q",
+    "creator_type": "KR_MAINSTREAM",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "지연이라면",
+    "channel_id": "UCnwu3n--W9bbMsKQGyybKSQ",
+    "creator_type": "KR_MAINSTREAM",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "걍밍경",
+    "channel_id": "UCfqVrM2cvwxG3-EvxbsN0KQ",
+    "creator_type": "KR_MAINSTREAM",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "타코사마",
+    "channel_id": "UCa8kktUkK9JWZQoudZ_o5pg",
+    "creator_type": "KR_MAINSTREAM",
+    "market": "KR",
+    "active": true
+  },
+
+  {
+    "name": "James Welsh",
+    "channel_id": "UCPP291gN79qI1QZY1znOscg",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "GB",
+    "active": true
+  },
+  {
+    "name": "Gothamista",
+    "channel_id": "UC-X4BAoKxwGYIKrKfqk7yug",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "US",
+    "active": true
+  },
+  {
+    "name": "Beauty Within",
+    "channel_id": "UC8f2CDyLibpGYSN3O2LfDwg",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "US",
+    "active": true
+  },
+  {
+    "name": "Tina Tanaka Harris",
+    "channel_id": "UCPjIcXVRzgsTkXp-DFjhDdQ",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "AU",
+    "active": true
+  },
+  {
+    "name": "Soo Beauty",
+    "channel_id": "UCXuzhVKNO9ZLm1q7edeipIw",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "KR",
+    "active": true
+  },
+  {
+    "name": "Mad About Skin",
+    "channel_id": "UCSqbmBSDm3Xlh7LeTRTUjjQ",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "GB",
+    "active": true
+  },
+  {
+    "name": "Lab Muffin Beauty Science",
+    "channel_id": "UCg6P323bLV4zMSWFqFhvWMg",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "AU",
+    "active": true
+  },
+  {
+    "name": "Cassandra Bankson",
+    "channel_id": "UCHj2_6e0Y2YdzHZDkkLa53Q",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "US",
+    "active": true
+  },
+  {
+    "name": "Dr Dray",
+    "channel_id": "UCnxmUrGMtpQT844Yd_l7Zyg",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "US",
+    "active": true
+  },
+
+  {
+    "name": "EuniUnni",
+    "channel_id": "",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "KR",
+    "active": false
+  },
+  {
+    "name": "Kelly Driscoll",
+    "channel_id": "",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "US",
+    "active": false
+  },
+  {
+    "name": "No BS Beauty",
+    "channel_id": "",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "US",
+    "active": false
+  },
+  {
+    "name": "Alice in the Rabbit Hole",
+    "channel_id": "",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "US",
+    "active": false
+  },
+  {
+    "name": "Liah Yoo",
+    "channel_id": "",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "US",
+    "active": false
+  },
+  {
+    "name": "The Beauty Breakdown",
+    "channel_id": "",
+    "creator_type": "GLOBAL_BEAUTY_EN",
+    "market": "US",
+    "active": false
+  }
+]
