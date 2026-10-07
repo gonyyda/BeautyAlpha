@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "#D6457A"
+backgroundColor = "#FFF9F8"
+secondaryBackgroundColor = "#FBECEF"
+textColor = "#2B1F24"
+borderColor = "#F0D9DE"
+baseRadius = "large"
+chartCategoricalColors = ["#D6457A", "#6B2D4E", "#E9A6B8", "#C89B6D", "#9C6B8E", "#F2C9B8"]
+chartSequentialColors = ["#FCE8EC", "#F8CDD8", "#F1A9BD", "#E9839F", "#DE5E86", "#D6457A", "#B4345F", "#8E2A4E", "#6B2D4E", "#4A1F37"]
+
+[theme.sidebar]
+backgroundColor = "#FBECEF"
+secondaryBackgroundColor = "#FFFFFF"
